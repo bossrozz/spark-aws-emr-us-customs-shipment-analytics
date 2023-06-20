@@ -1,0 +1,111 @@
+type_of_service,vessel_country_code,count,row_num,country_name
+Break Bulk,PA,144811,1,Panama
+Break Bulk,HK,126783,2,Hong Kong
+Break Bulk,LR,110037,3,Liberia
+Break Bulk,SG,75425,4,Singapore
+Break Bulk,GB,61357,5,United Kingdom
+Break Bulk,DE,53964,6,Germany
+Break Bulk,US,42294,7,United States
+Break Bulk,MT,38383,8,Malta
+Break Bulk,PT,29115,9,Portugal
+Break Bulk,MH,28531,10,Marshall Islands
+Container Station,LR,365572,1,Liberia
+Container Station,HK,278816,2,Hong Kong
+Container Station,PA,265133,3,Panama
+Container Station,GB,233076,4,United Kingdom
+Container Station,SG,207578,5,Singapore
+Container Station,US,156157,6,United States
+Container Station,MT,100248,7,Malta
+Container Station,DK,95691,8,Denmark
+Container Station,CN,77952,9,China
+Container Station,MH,73512,10,Marshall Islands
+Container Yard,PA,4604610,1,Panama
+Container Yard,LR,3709490,2,Liberia
+Container Yard,HK,2113343,3,Hong Kong
+Container Yard,SG,1914699,4,Singapore
+Container Yard,US,1621499,5,United States
+Container Yard,DK,1167557,6,Denmark
+Container Yard,DE,1123607,7,Germany
+Container Yard,GB,898315,8,United Kingdom
+Container Yard,MH,883010,9,Marshall Islands
+Container Yard,MT,869773,10,Malta
+Headload or Devanning,PA,917,1,Panama
+Headload or Devanning,LR,497,2,Liberia
+Headload or Devanning,HK,286,3,Hong Kong
+Headload or Devanning,SG,206,4,Singapore
+Headload or Devanning,GB,186,5,United Kingdom
+Headload or Devanning,US,126,6,United States
+Headload or Devanning,MT,92,7,Malta
+Headload or Devanning,MH,90,8,Marshall Islands
+Headload or Devanning,PT,83,9,Portugal
+Headload or Devanning,TW,82,10,Taiwan
+House to House,HK,6120022,1,Hong Kong
+House to House,PA,5657076,2,Panama
+House to House,LR,4491983,3,Liberia
+House to House,SG,3095115,4,Singapore
+House to House,GB,1916334,5,United Kingdom
+House to House,DE,1536826,6,Germany
+House to House,MT,1534809,7,Malta
+House to House,PT,1172890,8,Portugal
+House to House,US,974998,9,United States
+House to House,DK,943022,10,Denmark
+House to Pier,LR,175642,1,Liberia
+House to Pier,HK,134190,2,Hong Kong
+House to Pier,PA,115772,3,Panama
+House to Pier,SG,82064,4,Singapore
+House to Pier,MT,76087,5,Malta
+House to Pier,DE,75722,6,Germany
+House to Pier,GB,54974,7,United Kingdom
+House to Pier,PT,50383,8,Portugal
+House to Pier,FR,43711,9,France
+House to Pier,CY,26712,10,Cyprus
+Mixed Delivery,PA,569,1,Panama
+Mixed Delivery,US,259,2,United States
+Mixed Delivery,HK,145,3,Hong Kong
+Mixed Delivery,LR,139,4,Liberia
+Mixed Delivery,SG,107,5,Singapore
+Mixed Delivery,MT,98,6,Malta
+Mixed Delivery,DE,89,7,Germany
+Mixed Delivery,GB,89,8,United Kingdom
+Mixed Delivery,FR,84,9,France
+Mixed Delivery,JP,60,10,Japan
+Non Containerized,US,65749,1,United States
+Non Containerized,PA,19099,2,Panama
+Non Containerized,MH,5731,3,Marshall Islands
+Non Containerized,LR,3551,4,Liberia
+Non Containerized,BS,3156,5,Bahamas
+Non Containerized,SG,2631,6,Singapore
+Non Containerized,MT,2525,7,Malta
+Non Containerized,GB,2239,8,United Kingdom
+Non Containerized,JP,1868,9,Japan
+Non Containerized,HK,1514,10,Hong Kong
+Pier to House,PA,598445,1,Panama
+Pier to House,LR,499209,2,Liberia
+Pier to House,HK,346993,3,Hong Kong
+Pier to House,SG,295859,4,Singapore
+Pier to House,MH,215882,5,Marshall Islands
+Pier to House,MT,211636,6,Malta
+Pier to House,GB,149812,7,United Kingdom
+Pier to House,DE,142796,8,Germany
+Pier to House,DK,125638,9,Denmark
+Pier to House,US,97361,10,United States
+Pier to Pier,LR,2187504,1,Liberia
+Pier to Pier,HK,1872536,2,Hong Kong
+Pier to Pier,PA,1707540,3,Panama
+Pier to Pier,SG,1694630,4,Singapore
+Pier to Pier,MT,1253836,5,Malta
+Pier to Pier,GB,1131425,6,United Kingdom
+Pier to Pier,MH,859255,7,Marshall Islands
+Pier to Pier,DK,651051,8,Denmark
+Pier to Pier,US,642246,9,United States
+Pier to Pier,CY,529942,10,Cyprus
+Roll on Roll Off,TG,3643,1,Togo
+Roll on Roll Off,VU,2450,2,Vanuatu
+Roll on Roll Off,US,2210,3,United States
+Roll on Roll Off,GB,1307,4,United Kingdom
+Roll on Roll Off,PA,920,5,Panama
+Roll on Roll Off,NO,373,6,Norway
+Roll on Roll Off,IT,177,7,Italy
+Roll on Roll Off,HK,75,8,Hong Kong
+Roll on Roll Off,SG,46,9,Singapore
+Roll on Roll Off,KY,35,10,Cayman Islands

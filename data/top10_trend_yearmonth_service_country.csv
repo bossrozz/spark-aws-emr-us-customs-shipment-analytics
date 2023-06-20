@@ -1,0 +1,3364 @@
+type_of_service,actual_year,actual_year,actual_year_month,vessel_country_code,count,row_num,country_name
+Break Bulk,2018,2018,2018-01,HK,4924,1,Hong Kong
+Break Bulk,2018,2018,2018-01,LR,4200,2,Liberia
+Break Bulk,2018,2018,2018-01,PA,4010,3,Panama
+Break Bulk,2018,2018,2018-01,GB,3819,4,United Kingdom
+Break Bulk,2018,2018,2018-01,SG,2469,5,Singapore
+Break Bulk,2018,2018,2018-01,MH,1472,6,Marshall Islands
+Break Bulk,2018,2018,2018-01,US,1161,7,United States
+Break Bulk,2018,2018,2018-01,MT,1096,8,Malta
+Break Bulk,2018,2018,2018-01,PT,922,9,Portugal
+Break Bulk,2018,2018,2018-01,DK,545,10,Denmark
+Break Bulk,2018,2018,2018-02,PA,4640,1,Panama
+Break Bulk,2018,2018,2018-02,SG,4160,2,Singapore
+Break Bulk,2018,2018,2018-02,LR,4029,3,Liberia
+Break Bulk,2018,2018,2018-02,HK,2933,4,Hong Kong
+Break Bulk,2018,2018,2018-02,GB,2658,5,United Kingdom
+Break Bulk,2018,2018,2018-02,US,1053,6,United States
+Break Bulk,2018,2018,2018-02,DK,955,7,Denmark
+Break Bulk,2018,2018,2018-02,MH,937,8,Marshall Islands
+Break Bulk,2018,2018,2018-02,GR,772,9,Greece
+Break Bulk,2018,2018,2018-02,PT,751,10,Portugal
+Break Bulk,2018,2018,2018-03,PA,4382,1,Panama
+Break Bulk,2018,2018,2018-03,HK,3604,2,Hong Kong
+Break Bulk,2018,2018,2018-03,LR,2596,3,Liberia
+Break Bulk,2018,2018,2018-03,SG,2523,4,Singapore
+Break Bulk,2018,2018,2018-03,GB,2187,5,United Kingdom
+Break Bulk,2018,2018,2018-03,DE,1094,6,Germany
+Break Bulk,2018,2018,2018-03,MH,955,7,Marshall Islands
+Break Bulk,2018,2018,2018-03,MT,765,8,Malta
+Break Bulk,2018,2018,2018-03,PT,763,9,Portugal
+Break Bulk,2018,2018,2018-03,US,741,10,United States
+Break Bulk,2018,2018,2018-04,PA,4895,1,Panama
+Break Bulk,2018,2018,2018-04,HK,3111,2,Hong Kong
+Break Bulk,2018,2018,2018-04,GB,2986,3,United Kingdom
+Break Bulk,2018,2018,2018-04,LR,2887,4,Liberia
+Break Bulk,2018,2018,2018-04,SG,2369,5,Singapore
+Break Bulk,2018,2018,2018-04,MT,1714,6,Malta
+Break Bulk,2018,2018,2018-04,PT,1123,7,Portugal
+Break Bulk,2018,2018,2018-04,CY,1072,8,Cyprus
+Break Bulk,2018,2018,2018-04,US,890,9,United States
+Break Bulk,2018,2018,2018-04,GR,754,10,Greece
+Break Bulk,2018,2018,2018-05,HK,5058,1,Hong Kong
+Break Bulk,2018,2018,2018-05,PA,4927,2,Panama
+Break Bulk,2018,2018,2018-05,GB,3542,3,United Kingdom
+Break Bulk,2018,2018,2018-05,LR,2781,4,Liberia
+Break Bulk,2018,2018,2018-05,SG,2585,5,Singapore
+Break Bulk,2018,2018,2018-05,MH,1340,6,Marshall Islands
+Break Bulk,2018,2018,2018-05,US,1267,7,United States
+Break Bulk,2018,2018,2018-05,PT,942,8,Portugal
+Break Bulk,2018,2018,2018-05,GR,902,9,Greece
+Break Bulk,2018,2018,2018-05,DE,883,10,Germany
+Break Bulk,2018,2018,2018-06,PA,4148,1,Panama
+Break Bulk,2018,2018,2018-06,HK,4018,2,Hong Kong
+Break Bulk,2018,2018,2018-06,SG,2876,3,Singapore
+Break Bulk,2018,2018,2018-06,GB,2565,4,United Kingdom
+Break Bulk,2018,2018,2018-06,LR,2282,5,Liberia
+Break Bulk,2018,2018,2018-06,MH,1215,6,Marshall Islands
+Break Bulk,2018,2018,2018-06,US,1156,7,United States
+Break Bulk,2018,2018,2018-06,PT,968,8,Portugal
+Break Bulk,2018,2018,2018-06,MT,926,9,Malta
+Break Bulk,2018,2018,2018-06,DE,803,10,Germany
+Break Bulk,2018,2018,2018-07,PA,4920,1,Panama
+Break Bulk,2018,2018,2018-07,HK,4605,2,Hong Kong
+Break Bulk,2018,2018,2018-07,GB,4214,3,United Kingdom
+Break Bulk,2018,2018,2018-07,SG,3200,4,Singapore
+Break Bulk,2018,2018,2018-07,LR,2735,5,Liberia
+Break Bulk,2018,2018,2018-07,PT,1489,6,Portugal
+Break Bulk,2018,2018,2018-07,DE,1395,7,Germany
+Break Bulk,2018,2018,2018-07,US,965,8,United States
+Break Bulk,2018,2018,2018-07,MH,828,9,Marshall Islands
+Break Bulk,2018,2018,2018-07,DK,735,10,Denmark
+Break Bulk,2018,2018,2018-08,HK,6645,1,Hong Kong
+Break Bulk,2018,2018,2018-08,PA,4381,2,Panama
+Break Bulk,2018,2018,2018-08,SG,4184,3,Singapore
+Break Bulk,2018,2018,2018-08,LR,3112,4,Liberia
+Break Bulk,2018,2018,2018-08,GB,2573,5,United Kingdom
+Break Bulk,2018,2018,2018-08,PT,1740,6,Portugal
+Break Bulk,2018,2018,2018-08,DE,1631,7,Germany
+Break Bulk,2018,2018,2018-08,MH,1469,8,Marshall Islands
+Break Bulk,2018,2018,2018-08,MT,1251,9,Malta
+Break Bulk,2018,2018,2018-08,TW,728,10,Taiwan
+Break Bulk,2018,2018,2018-09,PA,4806,1,Panama
+Break Bulk,2018,2018,2018-09,HK,4387,2,Hong Kong
+Break Bulk,2018,2018,2018-09,LR,2837,3,Liberia
+Break Bulk,2018,2018,2018-09,SG,2718,4,Singapore
+Break Bulk,2018,2018,2018-09,GB,2474,5,United Kingdom
+Break Bulk,2018,2018,2018-09,MH,1640,6,Marshall Islands
+Break Bulk,2018,2018,2018-09,MT,1619,7,Malta
+Break Bulk,2018,2018,2018-09,DE,1146,8,Germany
+Break Bulk,2018,2018,2018-09,PT,1133,9,Portugal
+Break Bulk,2018,2018,2018-09,US,831,10,United States
+Break Bulk,2018,2018,2018-10,HK,5367,1,Hong Kong
+Break Bulk,2018,2018,2018-10,PA,4748,2,Panama
+Break Bulk,2018,2018,2018-10,LR,3265,3,Liberia
+Break Bulk,2018,2018,2018-10,GB,3218,4,United Kingdom
+Break Bulk,2018,2018,2018-10,SG,2894,5,Singapore
+Break Bulk,2018,2018,2018-10,MT,1780,6,Malta
+Break Bulk,2018,2018,2018-10,PT,1341,7,Portugal
+Break Bulk,2018,2018,2018-10,US,940,8,United States
+Break Bulk,2018,2018,2018-10,DE,803,9,Germany
+Break Bulk,2018,2018,2018-10,MH,771,10,Marshall Islands
+Break Bulk,2018,2018,2018-11,PA,3904,1,Panama
+Break Bulk,2018,2018,2018-11,HK,3774,2,Hong Kong
+Break Bulk,2018,2018,2018-11,GB,3485,3,United Kingdom
+Break Bulk,2018,2018,2018-11,LR,2611,4,Liberia
+Break Bulk,2018,2018,2018-11,SG,2538,5,Singapore
+Break Bulk,2018,2018,2018-11,MT,1180,6,Malta
+Break Bulk,2018,2018,2018-11,MH,760,7,Marshall Islands
+Break Bulk,2018,2018,2018-11,DE,750,8,Germany
+Break Bulk,2018,2018,2018-11,US,679,9,United States
+Break Bulk,2018,2018,2018-11,DK,558,10,Denmark
+Break Bulk,2018,2018,2018-12,PA,5615,1,Panama
+Break Bulk,2018,2018,2018-12,HK,4235,2,Hong Kong
+Break Bulk,2018,2018,2018-12,LR,4006,3,Liberia
+Break Bulk,2018,2018,2018-12,SG,3334,4,Singapore
+Break Bulk,2018,2018,2018-12,GB,2767,5,United Kingdom
+Break Bulk,2018,2018,2018-12,MT,1903,6,Malta
+Break Bulk,2018,2018,2018-12,PT,1213,7,Portugal
+Break Bulk,2018,2018,2018-12,TW,818,8,Taiwan
+Break Bulk,2018,2018,2018-12,DE,755,9,Germany
+Break Bulk,2018,2018,2018-12,US,734,10,United States
+Break Bulk,2019,2019,2019-01,PA,5037,1,Panama
+Break Bulk,2019,2019,2019-01,HK,3098,2,Hong Kong
+Break Bulk,2019,2019,2019-01,LR,2883,3,Liberia
+Break Bulk,2019,2019,2019-01,SG,2473,4,Singapore
+Break Bulk,2019,2019,2019-01,GB,2383,5,United Kingdom
+Break Bulk,2019,2019,2019-01,US,1131,6,United States
+Break Bulk,2019,2019,2019-01,MH,930,7,Marshall Islands
+Break Bulk,2019,2019,2019-01,MT,917,8,Malta
+Break Bulk,2019,2019,2019-01,FR,809,9,France
+Break Bulk,2019,2019,2019-01,PT,685,10,Portugal
+Break Bulk,2019,2019,2019-02,PA,3548,1,Panama
+Break Bulk,2019,2019,2019-02,LR,3427,2,Liberia
+Break Bulk,2019,2019,2019-02,HK,2804,3,Hong Kong
+Break Bulk,2019,2019,2019-02,GB,2019,4,United Kingdom
+Break Bulk,2019,2019,2019-02,MT,1394,5,Malta
+Break Bulk,2019,2019,2019-02,SG,1303,6,Singapore
+Break Bulk,2019,2019,2019-02,MH,901,7,Marshall Islands
+Break Bulk,2019,2019,2019-02,US,780,8,United States
+Break Bulk,2019,2019,2019-02,DK,646,9,Denmark
+Break Bulk,2019,2019,2019-02,DE,634,10,Germany
+Break Bulk,2019,2019,2019-03,LR,6609,1,Liberia
+Break Bulk,2019,2019,2019-03,PA,3031,2,Panama
+Break Bulk,2019,2019,2019-03,HK,1861,3,Hong Kong
+Break Bulk,2019,2019,2019-03,SG,1617,4,Singapore
+Break Bulk,2019,2019,2019-03,MT,1091,5,Malta
+Break Bulk,2019,2019,2019-03,FR,1048,6,France
+Break Bulk,2019,2019,2019-03,US,992,7,United States
+Break Bulk,2019,2019,2019-03,GB,923,8,United Kingdom
+Break Bulk,2019,2019,2019-03,PT,638,9,Portugal
+Break Bulk,2019,2019,2019-03,MH,607,10,Marshall Islands
+Break Bulk,2019,2019,2019-04,LR,3870,1,Liberia
+Break Bulk,2019,2019,2019-04,PA,3779,2,Panama
+Break Bulk,2019,2019,2019-04,HK,2533,3,Hong Kong
+Break Bulk,2019,2019,2019-04,SG,2121,4,Singapore
+Break Bulk,2019,2019,2019-04,GB,1274,5,United Kingdom
+Break Bulk,2019,2019,2019-04,US,1233,6,United States
+Break Bulk,2019,2019,2019-04,FR,1012,7,France
+Break Bulk,2019,2019,2019-04,MT,918,8,Malta
+Break Bulk,2019,2019,2019-04,DE,796,9,Germany
+Break Bulk,2019,2019,2019-04,AG,558,10,Antigua and Barbuda
+Break Bulk,2019,2019,2019-05,PA,4120,1,Panama
+Break Bulk,2019,2019,2019-05,HK,3498,2,Hong Kong
+Break Bulk,2019,2019,2019-05,LR,3361,3,Liberia
+Break Bulk,2019,2019,2019-05,SG,1992,4,Singapore
+Break Bulk,2019,2019,2019-05,MT,1499,5,Malta
+Break Bulk,2019,2019,2019-05,GB,1305,6,United Kingdom
+Break Bulk,2019,2019,2019-05,DE,877,7,Germany
+Break Bulk,2019,2019,2019-05,FR,814,8,France
+Break Bulk,2019,2019,2019-05,US,702,9,United States
+Break Bulk,2019,2019,2019-05,PT,637,10,Portugal
+Break Bulk,2019,2019,2019-06,PA,4347,1,Panama
+Break Bulk,2019,2019,2019-06,LR,3334,2,Liberia
+Break Bulk,2019,2019,2019-06,HK,3241,3,Hong Kong
+Break Bulk,2019,2019,2019-06,US,2219,4,United States
+Break Bulk,2019,2019,2019-06,SG,1907,5,Singapore
+Break Bulk,2019,2019,2019-06,DE,1626,6,Germany
+Break Bulk,2019,2019,2019-06,GB,1252,7,United Kingdom
+Break Bulk,2019,2019,2019-06,MT,1074,8,Malta
+Break Bulk,2019,2019,2019-06,MH,814,9,Marshall Islands
+Break Bulk,2019,2019,2019-06,DK,754,10,Denmark
+Break Bulk,2019,2019,2019-07,PA,4285,1,Panama
+Break Bulk,2019,2019,2019-07,LR,3534,2,Liberia
+Break Bulk,2019,2019,2019-07,HK,3352,3,Hong Kong
+Break Bulk,2019,2019,2019-07,SG,2511,4,Singapore
+Break Bulk,2019,2019,2019-07,DE,2455,5,Germany
+Break Bulk,2019,2019,2019-07,US,2216,6,United States
+Break Bulk,2019,2019,2019-07,FR,1580,7,France
+Break Bulk,2019,2019,2019-07,PT,1387,8,Portugal
+Break Bulk,2019,2019,2019-07,MH,1194,9,Marshall Islands
+Break Bulk,2019,2019,2019-07,GB,1015,10,United Kingdom
+Break Bulk,2019,2019,2019-08,PA,4311,1,Panama
+Break Bulk,2019,2019,2019-08,HK,4199,2,Hong Kong
+Break Bulk,2019,2019,2019-08,LR,3087,3,Liberia
+Break Bulk,2019,2019,2019-08,DE,2778,4,Germany
+Break Bulk,2019,2019,2019-08,US,2540,5,United States
+Break Bulk,2019,2019,2019-08,SG,2510,6,Singapore
+Break Bulk,2019,2019,2019-08,GB,1310,7,United Kingdom
+Break Bulk,2019,2019,2019-08,FR,1230,8,France
+Break Bulk,2019,2019,2019-08,MT,931,9,Malta
+Break Bulk,2019,2019,2019-08,DK,811,10,Denmark
+Break Bulk,2019,2019,2019-09,HK,4606,1,Hong Kong
+Break Bulk,2019,2019,2019-09,PA,4422,2,Panama
+Break Bulk,2019,2019,2019-09,LR,3539,3,Liberia
+Break Bulk,2019,2019,2019-09,US,2535,4,United States
+Break Bulk,2019,2019,2019-09,SG,2489,5,Singapore
+Break Bulk,2019,2019,2019-09,DE,2450,6,Germany
+Break Bulk,2019,2019,2019-09,GB,1690,7,United Kingdom
+Break Bulk,2019,2019,2019-09,PT,1432,8,Portugal
+Break Bulk,2019,2019,2019-09,MT,1165,9,Malta
+Break Bulk,2019,2019,2019-09,FR,775,10,France
+Break Bulk,2019,2019,2019-10,PA,3824,1,Panama
+Break Bulk,2019,2019,2019-10,HK,3470,2,Hong Kong
+Break Bulk,2019,2019,2019-10,LR,3190,3,Liberia
+Break Bulk,2019,2019,2019-10,DE,2351,4,Germany
+Break Bulk,2019,2019,2019-10,SG,1472,5,Singapore
+Break Bulk,2019,2019,2019-10,FR,1235,6,France
+Break Bulk,2019,2019,2019-10,PT,1166,7,Portugal
+Break Bulk,2019,2019,2019-10,US,1135,8,United States
+Break Bulk,2019,2019,2019-10,GB,1065,9,United Kingdom
+Break Bulk,2019,2019,2019-10,MT,939,10,Malta
+Break Bulk,2019,2019,2019-11,HK,3638,1,Hong Kong
+Break Bulk,2019,2019,2019-11,LR,2933,2,Liberia
+Break Bulk,2019,2019,2019-11,PA,2779,3,Panama
+Break Bulk,2019,2019,2019-11,DE,2004,4,Germany
+Break Bulk,2019,2019,2019-11,SG,1902,5,Singapore
+Break Bulk,2019,2019,2019-11,US,1636,6,United States
+Break Bulk,2019,2019,2019-11,FR,1338,7,France
+Break Bulk,2019,2019,2019-11,GB,1112,8,United Kingdom
+Break Bulk,2019,2019,2019-11,PT,785,9,Portugal
+Break Bulk,2019,2019,2019-11,DK,683,10,Denmark
+Break Bulk,2019,2019,2019-12,HK,4043,1,Hong Kong
+Break Bulk,2019,2019,2019-12,PA,3108,2,Panama
+Break Bulk,2019,2019,2019-12,DE,2661,3,Germany
+Break Bulk,2019,2019,2019-12,LR,2600,4,Liberia
+Break Bulk,2019,2019,2019-12,SG,2130,5,Singapore
+Break Bulk,2019,2019,2019-12,FR,1969,6,France
+Break Bulk,2019,2019,2019-12,US,1429,7,United States
+Break Bulk,2019,2019,2019-12,MT,1214,8,Malta
+Break Bulk,2019,2019,2019-12,GB,775,9,United Kingdom
+Break Bulk,2019,2019,2019-12,DK,666,10,Denmark
+Break Bulk,2020,2020,2020-01,PA,3742,1,Panama
+Break Bulk,2020,2020,2020-01,HK,3199,2,Hong Kong
+Break Bulk,2020,2020,2020-01,LR,2894,3,Liberia
+Break Bulk,2020,2020,2020-01,DE,2445,4,Germany
+Break Bulk,2020,2020,2020-01,SG,2079,5,Singapore
+Break Bulk,2020,2020,2020-01,FR,1491,6,France
+Break Bulk,2020,2020,2020-01,US,1350,7,United States
+Break Bulk,2020,2020,2020-01,MT,1230,8,Malta
+Break Bulk,2020,2020,2020-01,GB,1068,9,United Kingdom
+Break Bulk,2020,2020,2020-01,PT,919,10,Portugal
+Break Bulk,2020,2020,2020-02,LR,3250,1,Liberia
+Break Bulk,2020,2020,2020-02,PA,3039,2,Panama
+Break Bulk,2020,2020,2020-02,HK,2923,3,Hong Kong
+Break Bulk,2020,2020,2020-02,DE,1707,4,Germany
+Break Bulk,2020,2020,2020-02,MT,1492,5,Malta
+Break Bulk,2020,2020,2020-02,US,1018,6,United States
+Break Bulk,2020,2020,2020-02,GB,901,7,United Kingdom
+Break Bulk,2020,2020,2020-02,SG,869,8,Singapore
+Break Bulk,2020,2020,2020-02,MH,824,9,Marshall Islands
+Break Bulk,2020,2020,2020-02,PT,796,10,Portugal
+Break Bulk,2020,2020,2020-03,DE,4656,1,Germany
+Break Bulk,2020,2020,2020-03,PA,2953,2,Panama
+Break Bulk,2020,2020,2020-03,LR,2565,3,Liberia
+Break Bulk,2020,2020,2020-03,HK,1744,4,Hong Kong
+Break Bulk,2020,2020,2020-03,SG,1525,5,Singapore
+Break Bulk,2020,2020,2020-03,MT,1199,6,Malta
+Break Bulk,2020,2020,2020-03,US,1092,7,United States
+Break Bulk,2020,2020,2020-03,FR,930,8,France
+Break Bulk,2020,2020,2020-03,MH,541,9,Marshall Islands
+Break Bulk,2020,2020,2020-03,GB,528,10,United Kingdom
+Break Bulk,2020,2020,2020-04,PA,4015,1,Panama
+Break Bulk,2020,2020,2020-04,HK,2812,2,Hong Kong
+Break Bulk,2020,2020,2020-04,LR,2650,3,Liberia
+Break Bulk,2020,2020,2020-04,DE,1905,4,Germany
+Break Bulk,2020,2020,2020-04,FR,1895,5,France
+Break Bulk,2020,2020,2020-04,SG,1685,6,Singapore
+Break Bulk,2020,2020,2020-04,US,1650,7,United States
+Break Bulk,2020,2020,2020-04,GB,1408,8,United Kingdom
+Break Bulk,2020,2020,2020-04,MT,795,9,Malta
+Break Bulk,2020,2020,2020-04,MH,709,10,Marshall Islands
+Break Bulk,2020,2020,2020-05,HK,4145,1,Hong Kong
+Break Bulk,2020,2020,2020-05,PA,3545,2,Panama
+Break Bulk,2020,2020,2020-05,LR,3334,3,Liberia
+Break Bulk,2020,2020,2020-05,DE,1747,4,Germany
+Break Bulk,2020,2020,2020-05,SG,1642,5,Singapore
+Break Bulk,2020,2020,2020-05,US,1593,6,United States
+Break Bulk,2020,2020,2020-05,JP,1288,7,Japan
+Break Bulk,2020,2020,2020-05,MH,1244,8,Marshall Islands
+Break Bulk,2020,2020,2020-05,MT,1184,9,Malta
+Break Bulk,2020,2020,2020-05,GB,734,10,United Kingdom
+Break Bulk,2020,2020,2020-06,PA,6063,1,Panama
+Break Bulk,2020,2020,2020-06,HK,4487,2,Hong Kong
+Break Bulk,2020,2020,2020-06,LR,3165,3,Liberia
+Break Bulk,2020,2020,2020-06,DE,2177,4,Germany
+Break Bulk,2020,2020,2020-06,JP,1851,5,Japan
+Break Bulk,2020,2020,2020-06,US,1706,6,United States
+Break Bulk,2020,2020,2020-06,SG,1572,7,Singapore
+Break Bulk,2020,2020,2020-06,DK,1346,8,Denmark
+Break Bulk,2020,2020,2020-06,MT,1184,9,Malta
+Break Bulk,2020,2020,2020-06,GB,914,10,United Kingdom
+Break Bulk,2020,2020,2020-07,PA,5832,1,Panama
+Break Bulk,2020,2020,2020-07,HK,4283,2,Hong Kong
+Break Bulk,2020,2020,2020-07,LR,2849,3,Liberia
+Break Bulk,2020,2020,2020-07,MT,2411,4,Malta
+Break Bulk,2020,2020,2020-07,SG,1967,5,Singapore
+Break Bulk,2020,2020,2020-07,DE,1674,6,Germany
+Break Bulk,2020,2020,2020-07,FR,1298,7,France
+Break Bulk,2020,2020,2020-07,MH,1188,8,Marshall Islands
+Break Bulk,2020,2020,2020-07,US,1176,9,United States
+Break Bulk,2020,2020,2020-07,TW,983,10,Taiwan
+Break Bulk,2020,2020,2020-08,LR,5718,1,Liberia
+Break Bulk,2020,2020,2020-08,HK,5660,2,Hong Kong
+Break Bulk,2020,2020,2020-08,PA,5421,3,Panama
+Break Bulk,2020,2020,2020-08,DE,4514,4,Germany
+Break Bulk,2020,2020,2020-08,SG,2736,5,Singapore
+Break Bulk,2020,2020,2020-08,US,2080,6,United States
+Break Bulk,2020,2020,2020-08,JP,2023,7,Japan
+Break Bulk,2020,2020,2020-08,MT,1607,8,Malta
+Break Bulk,2020,2020,2020-08,MH,1301,9,Marshall Islands
+Break Bulk,2020,2020,2020-08,PT,1259,10,Portugal
+Break Bulk,2020,2020,2020-09,PA,8234,1,Panama
+Break Bulk,2020,2020,2020-09,HK,4526,2,Hong Kong
+Break Bulk,2020,2020,2020-09,LR,3904,3,Liberia
+Break Bulk,2020,2020,2020-09,DE,2276,4,Germany
+Break Bulk,2020,2020,2020-09,GB,1359,5,United Kingdom
+Break Bulk,2020,2020,2020-09,TW,1285,6,Taiwan
+Break Bulk,2020,2020,2020-09,US,1095,7,United States
+Break Bulk,2020,2020,2020-09,SG,1073,8,Singapore
+Break Bulk,2020,2020,2020-09,MH,954,9,Marshall Islands
+Break Bulk,2020,2020,2020-09,JP,939,10,Japan
+Container Station,2018,2018,2018-01,LR,8582,1,Liberia
+Container Station,2018,2018,2018-01,PA,7307,2,Panama
+Container Station,2018,2018,2018-01,HK,6290,3,Hong Kong
+Container Station,2018,2018,2018-01,GB,4568,4,United Kingdom
+Container Station,2018,2018,2018-01,US,3388,5,United States
+Container Station,2018,2018,2018-01,SG,3107,6,Singapore
+Container Station,2018,2018,2018-01,MT,1840,7,Malta
+Container Station,2018,2018,2018-01,PT,1627,8,Portugal
+Container Station,2018,2018,2018-01,MH,854,9,Marshall Islands
+Container Station,2018,2018,2018-01,JP,846,10,Japan
+Container Station,2018,2018,2018-02,LR,9099,1,Liberia
+Container Station,2018,2018,2018-02,PA,7702,2,Panama
+Container Station,2018,2018,2018-02,SG,4052,3,Singapore
+Container Station,2018,2018,2018-02,HK,3948,4,Hong Kong
+Container Station,2018,2018,2018-02,US,3484,5,United States
+Container Station,2018,2018,2018-02,GB,3155,6,United Kingdom
+Container Station,2018,2018,2018-02,MT,1985,7,Malta
+Container Station,2018,2018,2018-02,PT,1719,8,Portugal
+Container Station,2018,2018,2018-02,DK,1596,9,Denmark
+Container Station,2018,2018,2018-02,DE,1441,10,Germany
+Container Station,2018,2018,2018-03,PA,6289,1,Panama
+Container Station,2018,2018,2018-03,LR,5894,2,Liberia
+Container Station,2018,2018,2018-03,US,4621,3,United States
+Container Station,2018,2018,2018-03,HK,4393,4,Hong Kong
+Container Station,2018,2018,2018-03,SG,3597,5,Singapore
+Container Station,2018,2018,2018-03,MT,2480,6,Malta
+Container Station,2018,2018,2018-03,MH,2433,7,Marshall Islands
+Container Station,2018,2018,2018-03,GB,2075,8,United Kingdom
+Container Station,2018,2018,2018-03,PT,1718,9,Portugal
+Container Station,2018,2018,2018-03,DE,1655,10,Germany
+Container Station,2018,2018,2018-04,LR,7234,1,Liberia
+Container Station,2018,2018,2018-04,PA,6831,2,Panama
+Container Station,2018,2018,2018-04,SG,5289,3,Singapore
+Container Station,2018,2018,2018-04,HK,4967,4,Hong Kong
+Container Station,2018,2018,2018-04,US,4128,5,United States
+Container Station,2018,2018,2018-04,GB,3589,6,United Kingdom
+Container Station,2018,2018,2018-04,MT,2266,7,Malta
+Container Station,2018,2018,2018-04,PT,2041,8,Portugal
+Container Station,2018,2018,2018-04,DK,1255,9,Denmark
+Container Station,2018,2018,2018-04,DE,802,10,Germany
+Container Station,2018,2018,2018-05,HK,7977,1,Hong Kong
+Container Station,2018,2018,2018-05,LR,7648,2,Liberia
+Container Station,2018,2018,2018-05,PA,7292,3,Panama
+Container Station,2018,2018,2018-05,SG,5943,4,Singapore
+Container Station,2018,2018,2018-05,US,4036,5,United States
+Container Station,2018,2018,2018-05,GB,3448,6,United Kingdom
+Container Station,2018,2018,2018-05,DK,2657,7,Denmark
+Container Station,2018,2018,2018-05,MT,2184,8,Malta
+Container Station,2018,2018,2018-05,DE,1357,9,Germany
+Container Station,2018,2018,2018-05,MH,1214,10,Marshall Islands
+Container Station,2018,2018,2018-06,HK,9400,1,Hong Kong
+Container Station,2018,2018,2018-06,LR,8916,2,Liberia
+Container Station,2018,2018,2018-06,SG,8163,3,Singapore
+Container Station,2018,2018,2018-06,PA,7521,4,Panama
+Container Station,2018,2018,2018-06,US,4536,5,United States
+Container Station,2018,2018,2018-06,GB,3013,6,United Kingdom
+Container Station,2018,2018,2018-06,MT,2253,7,Malta
+Container Station,2018,2018,2018-06,DE,1443,8,Germany
+Container Station,2018,2018,2018-06,DK,1416,9,Denmark
+Container Station,2018,2018,2018-06,MH,1264,10,Marshall Islands
+Container Station,2018,2018,2018-07,LR,10766,1,Liberia
+Container Station,2018,2018,2018-07,SG,10188,2,Singapore
+Container Station,2018,2018,2018-07,HK,8293,3,Hong Kong
+Container Station,2018,2018,2018-07,PA,8005,4,Panama
+Container Station,2018,2018,2018-07,US,6175,5,United States
+Container Station,2018,2018,2018-07,GB,4359,6,United Kingdom
+Container Station,2018,2018,2018-07,DK,3152,7,Denmark
+Container Station,2018,2018,2018-07,MH,2392,8,Marshall Islands
+Container Station,2018,2018,2018-07,TW,1986,9,Taiwan
+Container Station,2018,2018,2018-07,MT,1753,10,Malta
+Container Station,2018,2018,2018-08,LR,11778,1,Liberia
+Container Station,2018,2018,2018-08,HK,8971,2,Hong Kong
+Container Station,2018,2018,2018-08,PA,8819,3,Panama
+Container Station,2018,2018,2018-08,SG,8748,4,Singapore
+Container Station,2018,2018,2018-08,DK,6423,5,Denmark
+Container Station,2018,2018,2018-08,US,4838,6,United States
+Container Station,2018,2018,2018-08,GB,3637,7,United Kingdom
+Container Station,2018,2018,2018-08,MH,2637,8,Marshall Islands
+Container Station,2018,2018,2018-08,MT,2473,9,Malta
+Container Station,2018,2018,2018-08,DE,2347,10,Germany
+Container Station,2018,2018,2018-09,PA,8993,1,Panama
+Container Station,2018,2018,2018-09,SG,7744,2,Singapore
+Container Station,2018,2018,2018-09,LR,7656,3,Liberia
+Container Station,2018,2018,2018-09,HK,6845,4,Hong Kong
+Container Station,2018,2018,2018-09,US,4018,5,United States
+Container Station,2018,2018,2018-09,MT,3055,6,Malta
+Container Station,2018,2018,2018-09,GB,2871,7,United Kingdom
+Container Station,2018,2018,2018-09,DK,2468,8,Denmark
+Container Station,2018,2018,2018-09,MH,2138,9,Marshall Islands
+Container Station,2018,2018,2018-09,DE,1884,10,Germany
+Container Station,2018,2018,2018-10,LR,9108,1,Liberia
+Container Station,2018,2018,2018-10,PA,8080,2,Panama
+Container Station,2018,2018,2018-10,HK,7884,3,Hong Kong
+Container Station,2018,2018,2018-10,SG,7251,4,Singapore
+Container Station,2018,2018,2018-10,US,4434,5,United States
+Container Station,2018,2018,2018-10,GB,4102,6,United Kingdom
+Container Station,2018,2018,2018-10,MH,3220,7,Marshall Islands
+Container Station,2018,2018,2018-10,MT,2922,8,Malta
+Container Station,2018,2018,2018-10,DE,2313,9,Germany
+Container Station,2018,2018,2018-10,DK,2047,10,Denmark
+Container Station,2018,2018,2018-11,LR,8814,1,Liberia
+Container Station,2018,2018,2018-11,PA,8262,2,Panama
+Container Station,2018,2018,2018-11,HK,7240,3,Hong Kong
+Container Station,2018,2018,2018-11,SG,6453,4,Singapore
+Container Station,2018,2018,2018-11,US,4328,5,United States
+Container Station,2018,2018,2018-11,GB,4235,6,United Kingdom
+Container Station,2018,2018,2018-11,DK,3559,7,Denmark
+Container Station,2018,2018,2018-11,MT,2757,8,Malta
+Container Station,2018,2018,2018-11,DE,1540,9,Germany
+Container Station,2018,2018,2018-11,MH,1350,10,Marshall Islands
+Container Station,2018,2018,2018-12,SG,10052,1,Singapore
+Container Station,2018,2018,2018-12,LR,8508,2,Liberia
+Container Station,2018,2018,2018-12,PA,8284,3,Panama
+Container Station,2018,2018,2018-12,HK,8037,4,Hong Kong
+Container Station,2018,2018,2018-12,US,4218,5,United States
+Container Station,2018,2018,2018-12,GB,3768,6,United Kingdom
+Container Station,2018,2018,2018-12,DK,2714,7,Denmark
+Container Station,2018,2018,2018-12,MT,2407,8,Malta
+Container Station,2018,2018,2018-12,DE,1790,9,Germany
+Container Station,2018,2018,2018-12,MH,1162,10,Marshall Islands
+Container Station,2019,2019,2019-01,LR,10287,1,Liberia
+Container Station,2019,2019,2019-01,SG,8542,2,Singapore
+Container Station,2019,2019,2019-01,HK,7326,3,Hong Kong
+Container Station,2019,2019,2019-01,PA,7265,4,Panama
+Container Station,2019,2019,2019-01,US,3953,5,United States
+Container Station,2019,2019,2019-01,DK,3509,6,Denmark
+Container Station,2019,2019,2019-01,GB,3476,7,United Kingdom
+Container Station,2019,2019,2019-01,MH,3079,8,Marshall Islands
+Container Station,2019,2019,2019-01,MT,2894,9,Malta
+Container Station,2019,2019,2019-01,DE,1915,10,Germany
+Container Station,2019,2019,2019-02,PA,7929,1,Panama
+Container Station,2019,2019,2019-02,LR,7043,2,Liberia
+Container Station,2019,2019,2019-02,HK,6617,3,Hong Kong
+Container Station,2019,2019,2019-02,SG,4259,4,Singapore
+Container Station,2019,2019,2019-02,DK,4228,5,Denmark
+Container Station,2019,2019,2019-02,US,3806,6,United States
+Container Station,2019,2019,2019-02,MT,2490,7,Malta
+Container Station,2019,2019,2019-02,GB,2453,8,United Kingdom
+Container Station,2019,2019,2019-02,DE,2055,9,Germany
+Container Station,2019,2019,2019-02,PT,1246,10,Portugal
+Container Station,2019,2019,2019-03,LR,7743,1,Liberia
+Container Station,2019,2019,2019-03,DK,6922,2,Denmark
+Container Station,2019,2019,2019-03,HK,6836,3,Hong Kong
+Container Station,2019,2019,2019-03,PA,6622,4,Panama
+Container Station,2019,2019,2019-03,US,4124,5,United States
+Container Station,2019,2019,2019-03,SG,3402,6,Singapore
+Container Station,2019,2019,2019-03,GB,2645,7,United Kingdom
+Container Station,2019,2019,2019-03,MT,2533,8,Malta
+Container Station,2019,2019,2019-03,DE,1697,9,Germany
+Container Station,2019,2019,2019-03,PT,1585,10,Portugal
+Container Station,2019,2019,2019-04,HK,9676,1,Hong Kong
+Container Station,2019,2019,2019-04,SG,7721,2,Singapore
+Container Station,2019,2019,2019-04,PA,7462,3,Panama
+Container Station,2019,2019,2019-04,LR,7233,4,Liberia
+Container Station,2019,2019,2019-04,US,4690,5,United States
+Container Station,2019,2019,2019-04,DK,2630,6,Denmark
+Container Station,2019,2019,2019-04,MT,2250,7,Malta
+Container Station,2019,2019,2019-04,GB,2198,8,United Kingdom
+Container Station,2019,2019,2019-04,DE,1294,9,Germany
+Container Station,2019,2019,2019-04,CY,951,10,Cyprus
+Container Station,2019,2019,2019-05,PA,10483,1,Panama
+Container Station,2019,2019,2019-05,SG,9978,2,Singapore
+Container Station,2019,2019,2019-05,HK,8659,3,Hong Kong
+Container Station,2019,2019,2019-05,LR,8303,4,Liberia
+Container Station,2019,2019,2019-05,US,5411,5,United States
+Container Station,2019,2019,2019-05,GB,3624,6,United Kingdom
+Container Station,2019,2019,2019-05,MT,2289,7,Malta
+Container Station,2019,2019,2019-05,DK,2233,8,Denmark
+Container Station,2019,2019,2019-05,DE,1720,9,Germany
+Container Station,2019,2019,2019-05,PT,1399,10,Portugal
+Container Station,2019,2019,2019-06,PA,8252,1,Panama
+Container Station,2019,2019,2019-06,HK,7561,2,Hong Kong
+Container Station,2019,2019,2019-06,LR,7499,3,Liberia
+Container Station,2019,2019,2019-06,SG,6526,4,Singapore
+Container Station,2019,2019,2019-06,US,5776,5,United States
+Container Station,2019,2019,2019-06,MT,2693,6,Malta
+Container Station,2019,2019,2019-06,GB,2523,7,United Kingdom
+Container Station,2019,2019,2019-06,DK,2222,8,Denmark
+Container Station,2019,2019,2019-06,DE,1913,9,Germany
+Container Station,2019,2019,2019-06,PT,1738,10,Portugal
+Container Station,2019,2019,2019-07,LR,8649,1,Liberia
+Container Station,2019,2019,2019-07,HK,7374,2,Hong Kong
+Container Station,2019,2019,2019-07,SG,6869,3,Singapore
+Container Station,2019,2019,2019-07,PA,6564,4,Panama
+Container Station,2019,2019,2019-07,US,4498,5,United States
+Container Station,2019,2019,2019-07,GB,3168,6,United Kingdom
+Container Station,2019,2019,2019-07,DK,2710,7,Denmark
+Container Station,2019,2019,2019-07,DE,2021,8,Germany
+Container Station,2019,2019,2019-07,FR,1984,9,France
+Container Station,2019,2019,2019-07,PT,1690,10,Portugal
+Container Station,2019,2019,2019-08,SG,8633,1,Singapore
+Container Station,2019,2019,2019-08,HK,8249,2,Hong Kong
+Container Station,2019,2019,2019-08,PA,6985,3,Panama
+Container Station,2019,2019,2019-08,LR,6604,4,Liberia
+Container Station,2019,2019,2019-08,US,6226,5,United States
+Container Station,2019,2019,2019-08,DK,3357,6,Denmark
+Container Station,2019,2019,2019-08,DE,2746,7,Germany
+Container Station,2019,2019,2019-08,GB,2576,8,United Kingdom
+Container Station,2019,2019,2019-08,PT,1893,9,Portugal
+Container Station,2019,2019,2019-08,MT,1790,10,Malta
+Container Station,2019,2019,2019-09,SG,8207,1,Singapore
+Container Station,2019,2019,2019-09,HK,6899,2,Hong Kong
+Container Station,2019,2019,2019-09,PA,5754,3,Panama
+Container Station,2019,2019,2019-09,LR,5622,4,Liberia
+Container Station,2019,2019,2019-09,US,4651,5,United States
+Container Station,2019,2019,2019-09,GB,3388,6,United Kingdom
+Container Station,2019,2019,2019-09,DE,3362,7,Germany
+Container Station,2019,2019,2019-09,DK,3252,8,Denmark
+Container Station,2019,2019,2019-09,JP,2852,9,Japan
+Container Station,2019,2019,2019-09,MH,1464,10,Marshall Islands
+Container Station,2019,2019,2019-10,SG,7492,1,Singapore
+Container Station,2019,2019,2019-10,HK,7466,2,Hong Kong
+Container Station,2019,2019,2019-10,PA,6875,3,Panama
+Container Station,2019,2019,2019-10,LR,5763,4,Liberia
+Container Station,2019,2019,2019-10,US,4543,5,United States
+Container Station,2019,2019,2019-10,DK,3907,6,Denmark
+Container Station,2019,2019,2019-10,GB,3080,7,United Kingdom
+Container Station,2019,2019,2019-10,DE,2788,8,Germany
+Container Station,2019,2019,2019-10,MH,1515,9,Marshall Islands
+Container Station,2019,2019,2019-10,MT,1380,10,Malta
+Container Station,2019,2019,2019-11,PA,6836,1,Panama
+Container Station,2019,2019,2019-11,SG,6795,2,Singapore
+Container Station,2019,2019,2019-11,LR,6155,3,Liberia
+Container Station,2019,2019,2019-11,HK,6076,4,Hong Kong
+Container Station,2019,2019,2019-11,US,4594,5,United States
+Container Station,2019,2019,2019-11,DE,2881,6,Germany
+Container Station,2019,2019,2019-11,GB,2447,7,United Kingdom
+Container Station,2019,2019,2019-11,DK,2126,8,Denmark
+Container Station,2019,2019,2019-11,MT,1998,9,Malta
+Container Station,2019,2019,2019-11,FR,1482,10,France
+Container Station,2019,2019,2019-12,LR,7821,1,Liberia
+Container Station,2019,2019,2019-12,SG,7301,2,Singapore
+Container Station,2019,2019,2019-12,HK,7235,3,Hong Kong
+Container Station,2019,2019,2019-12,PA,5522,4,Panama
+Container Station,2019,2019,2019-12,US,4399,5,United States
+Container Station,2019,2019,2019-12,DE,3537,6,Germany
+Container Station,2019,2019,2019-12,GB,2826,7,United Kingdom
+Container Station,2019,2019,2019-12,MT,2748,8,Malta
+Container Station,2019,2019,2019-12,MH,1408,9,Marshall Islands
+Container Station,2019,2019,2019-12,DK,1147,10,Denmark
+Container Station,2020,2020,2020-01,SG,6049,1,Singapore
+Container Station,2020,2020,2020-01,LR,5812,2,Liberia
+Container Station,2020,2020,2020-01,HK,5584,3,Hong Kong
+Container Station,2020,2020,2020-01,PA,5192,4,Panama
+Container Station,2020,2020,2020-01,GB,4249,5,United Kingdom
+Container Station,2020,2020,2020-01,US,4205,6,United States
+Container Station,2020,2020,2020-01,DE,3130,7,Germany
+Container Station,2020,2020,2020-01,MT,1956,8,Malta
+Container Station,2020,2020,2020-01,PT,1836,9,Portugal
+Container Station,2020,2020,2020-01,DK,1606,10,Denmark
+Container Station,2020,2020,2020-02,LR,5718,1,Liberia
+Container Station,2020,2020,2020-02,PA,5433,2,Panama
+Container Station,2020,2020,2020-02,HK,4770,3,Hong Kong
+Container Station,2020,2020,2020-02,SG,4586,4,Singapore
+Container Station,2020,2020,2020-02,US,3501,5,United States
+Container Station,2020,2020,2020-02,MT,3293,6,Malta
+Container Station,2020,2020,2020-02,DE,1781,7,Germany
+Container Station,2020,2020,2020-02,TW,1608,8,Taiwan
+Container Station,2020,2020,2020-02,DK,1496,9,Denmark
+Container Station,2020,2020,2020-02,PT,1423,10,Portugal
+Container Station,2020,2020,2020-03,LR,6939,1,Liberia
+Container Station,2020,2020,2020-03,PA,6082,2,Panama
+Container Station,2020,2020,2020-03,SG,4432,3,Singapore
+Container Station,2020,2020,2020-03,US,4313,4,United States
+Container Station,2020,2020,2020-03,DK,4053,5,Denmark
+Container Station,2020,2020,2020-03,MT,2935,6,Malta
+Container Station,2020,2020,2020-03,HK,2858,7,Hong Kong
+Container Station,2020,2020,2020-03,DE,2793,8,Germany
+Container Station,2020,2020,2020-03,GB,2176,9,United Kingdom
+Container Station,2020,2020,2020-03,PT,1234,10,Portugal
+Container Station,2020,2020,2020-04,GB,116651,1,United Kingdom
+Container Station,2020,2020,2020-04,CN,64415,2,China
+Container Station,2020,2020,2020-04,PA,33573,3,Panama
+Container Station,2020,2020,2020-04,FR,28522,4,France
+Container Station,2020,2020,2020-04,LR,8368,5,Liberia
+Container Station,2020,2020,2020-04,HK,6004,6,Hong Kong
+Container Station,2020,2020,2020-04,SG,5284,7,Singapore
+Container Station,2020,2020,2020-04,US,3968,8,United States
+Container Station,2020,2020,2020-04,DK,2834,9,Denmark
+Container Station,2020,2020,2020-04,MT,2292,10,Malta
+Container Station,2020,2020,2020-05,LR,66907,1,Liberia
+Container Station,2020,2020,2020-05,HK,33179,2,Hong Kong
+Container Station,2020,2020,2020-05,MT,20962,3,Malta
+Container Station,2020,2020,2020-05,GB,17335,4,United Kingdom
+Container Station,2020,2020,2020-05,PA,6263,5,Panama
+Container Station,2020,2020,2020-05,SG,4315,6,Singapore
+Container Station,2020,2020,2020-05,US,3831,7,United States
+Container Station,2020,2020,2020-05,DK,2561,8,Denmark
+Container Station,2020,2020,2020-05,DE,1849,9,Germany
+Container Station,2020,2020,2020-05,PT,1628,10,Portugal
+Container Station,2020,2020,2020-06,LR,19931,1,Liberia
+Container Station,2020,2020,2020-06,PA,8184,2,Panama
+Container Station,2020,2020,2020-06,US,7236,3,United States
+Container Station,2020,2020,2020-06,HK,7034,4,Hong Kong
+Container Station,2020,2020,2020-06,GB,4155,5,United Kingdom
+Container Station,2020,2020,2020-06,SG,4049,6,Singapore
+Container Station,2020,2020,2020-06,DK,3762,7,Denmark
+Container Station,2020,2020,2020-06,PT,3363,8,Portugal
+Container Station,2020,2020,2020-06,DE,2789,9,Germany
+Container Station,2020,2020,2020-06,JP,1827,10,Japan
+Container Station,2020,2020,2020-07,MH,14768,1,Marshall Islands
+Container Station,2020,2020,2020-07,HK,9206,2,Hong Kong
+Container Station,2020,2020,2020-07,PA,8121,3,Panama
+Container Station,2020,2020,2020-07,LR,7702,4,Liberia
+Container Station,2020,2020,2020-07,US,5717,5,United States
+Container Station,2020,2020,2020-07,DK,4737,6,Denmark
+Container Station,2020,2020,2020-07,SG,4021,7,Singapore
+Container Station,2020,2020,2020-07,GB,3281,8,United Kingdom
+Container Station,2020,2020,2020-07,PT,2904,9,Portugal
+Container Station,2020,2020,2020-07,MT,2251,10,Malta
+Container Station,2020,2020,2020-08,AG,33966,1,Antigua and Barbuda
+Container Station,2020,2020,2020-08,LR,24865,2,Liberia
+Container Station,2020,2020,2020-08,HK,23029,3,Hong Kong
+Container Station,2020,2020,2020-08,MT,9750,4,Malta
+Container Station,2020,2020,2020-08,PT,8724,5,Portugal
+Container Station,2020,2020,2020-08,US,8333,6,United States
+Container Station,2020,2020,2020-08,CY,8256,7,Cyprus
+Container Station,2020,2020,2020-08,PA,6159,8,Panama
+Container Station,2020,2020,2020-08,DK,4814,9,Denmark
+Container Station,2020,2020,2020-08,GB,4035,10,United Kingdom
+Container Station,2020,2020,2020-09,LR,26605,1,Liberia
+Container Station,2020,2020,2020-09,HK,12933,2,Hong Kong
+Container Station,2020,2020,2020-09,MH,10643,3,Marshall Islands
+Container Station,2020,2020,2020-09,JP,9611,4,Japan
+Container Station,2020,2020,2020-09,CN,8431,5,China
+Container Station,2020,2020,2020-09,IL,7099,6,Israel
+Container Station,2020,2020,2020-09,PA,6192,7,Panama
+Container Station,2020,2020,2020-09,US,6178,8,United States
+Container Station,2020,2020,2020-09,SG,4556,9,Singapore
+Container Station,2020,2020,2020-09,GB,2614,10,United Kingdom
+Container Yard,2018,2018,2018-01,PA,107207,1,Panama
+Container Yard,2018,2018,2018-01,LR,74458,2,Liberia
+Container Yard,2018,2018,2018-01,HK,69475,3,Hong Kong
+Container Yard,2018,2018,2018-01,SG,52558,4,Singapore
+Container Yard,2018,2018,2018-01,US,47380,5,United States
+Container Yard,2018,2018,2018-01,GB,46157,6,United Kingdom
+Container Yard,2018,2018,2018-01,MT,28528,7,Malta
+Container Yard,2018,2018,2018-01,DK,27634,8,Denmark
+Container Yard,2018,2018,2018-01,MH,24526,9,Marshall Islands
+Container Yard,2018,2018,2018-01,DE,16267,10,Germany
+Container Yard,2018,2018,2018-02,PA,107507,1,Panama
+Container Yard,2018,2018,2018-02,LR,80166,2,Liberia
+Container Yard,2018,2018,2018-02,SG,75920,3,Singapore
+Container Yard,2018,2018,2018-02,US,51951,4,United States
+Container Yard,2018,2018,2018-02,HK,51532,5,Hong Kong
+Container Yard,2018,2018,2018-02,DK,37907,6,Denmark
+Container Yard,2018,2018,2018-02,GB,31044,7,United Kingdom
+Container Yard,2018,2018,2018-02,MT,29940,8,Malta
+Container Yard,2018,2018,2018-02,MH,20683,9,Marshall Islands
+Container Yard,2018,2018,2018-02,PT,20546,10,Portugal
+Container Yard,2018,2018,2018-03,PA,104186,1,Panama
+Container Yard,2018,2018,2018-03,LR,77224,2,Liberia
+Container Yard,2018,2018,2018-03,US,50552,3,United States
+Container Yard,2018,2018,2018-03,SG,50011,4,Singapore
+Container Yard,2018,2018,2018-03,HK,45031,5,Hong Kong
+Container Yard,2018,2018,2018-03,MT,35069,6,Malta
+Container Yard,2018,2018,2018-03,DE,29623,7,Germany
+Container Yard,2018,2018,2018-03,MH,28549,8,Marshall Islands
+Container Yard,2018,2018,2018-03,DK,25975,9,Denmark
+Container Yard,2018,2018,2018-03,GB,19648,10,United Kingdom
+Container Yard,2018,2018,2018-04,PA,130388,1,Panama
+Container Yard,2018,2018,2018-04,LR,76751,2,Liberia
+Container Yard,2018,2018,2018-04,SG,64198,3,Singapore
+Container Yard,2018,2018,2018-04,US,58705,4,United States
+Container Yard,2018,2018,2018-04,HK,52650,5,Hong Kong
+Container Yard,2018,2018,2018-04,DK,35504,6,Denmark
+Container Yard,2018,2018,2018-04,GB,32190,7,United Kingdom
+Container Yard,2018,2018,2018-04,MT,30101,8,Malta
+Container Yard,2018,2018,2018-04,PT,20434,9,Portugal
+Container Yard,2018,2018,2018-04,MH,17725,10,Marshall Islands
+Container Yard,2018,2018,2018-05,PA,169086,1,Panama
+Container Yard,2018,2018,2018-05,LR,98711,2,Liberia
+Container Yard,2018,2018,2018-05,SG,80654,3,Singapore
+Container Yard,2018,2018,2018-05,HK,70807,4,Hong Kong
+Container Yard,2018,2018,2018-05,US,54159,5,United States
+Container Yard,2018,2018,2018-05,GB,47200,6,United Kingdom
+Container Yard,2018,2018,2018-05,DK,43963,7,Denmark
+Container Yard,2018,2018,2018-05,DE,41171,8,Germany
+Container Yard,2018,2018,2018-05,MT,30782,9,Malta
+Container Yard,2018,2018,2018-05,MH,24307,10,Marshall Islands
+Container Yard,2018,2018,2018-06,PA,149122,1,Panama
+Container Yard,2018,2018,2018-06,SG,101928,2,Singapore
+Container Yard,2018,2018,2018-06,LR,101441,3,Liberia
+Container Yard,2018,2018,2018-06,HK,81165,4,Hong Kong
+Container Yard,2018,2018,2018-06,US,54870,5,United States
+Container Yard,2018,2018,2018-06,GB,53231,6,United Kingdom
+Container Yard,2018,2018,2018-06,MT,39521,7,Malta
+Container Yard,2018,2018,2018-06,DE,35580,8,Germany
+Container Yard,2018,2018,2018-06,DK,34880,9,Denmark
+Container Yard,2018,2018,2018-06,MH,23616,10,Marshall Islands
+Container Yard,2018,2018,2018-07,PA,170779,1,Panama
+Container Yard,2018,2018,2018-07,LR,108280,2,Liberia
+Container Yard,2018,2018,2018-07,SG,84495,3,Singapore
+Container Yard,2018,2018,2018-07,HK,69943,4,Hong Kong
+Container Yard,2018,2018,2018-07,US,59452,5,United States
+Container Yard,2018,2018,2018-07,DK,44340,6,Denmark
+Container Yard,2018,2018,2018-07,GB,43201,7,United Kingdom
+Container Yard,2018,2018,2018-07,DE,39111,8,Germany
+Container Yard,2018,2018,2018-07,PT,27003,9,Portugal
+Container Yard,2018,2018,2018-07,MH,26277,10,Marshall Islands
+Container Yard,2018,2018,2018-08,PA,150438,1,Panama
+Container Yard,2018,2018,2018-08,LR,117713,2,Liberia
+Container Yard,2018,2018,2018-08,SG,83637,3,Singapore
+Container Yard,2018,2018,2018-08,HK,71651,4,Hong Kong
+Container Yard,2018,2018,2018-08,US,61564,5,United States
+Container Yard,2018,2018,2018-08,DE,55983,6,Germany
+Container Yard,2018,2018,2018-08,DK,43443,7,Denmark
+Container Yard,2018,2018,2018-08,MT,40067,8,Malta
+Container Yard,2018,2018,2018-08,MH,37055,9,Marshall Islands
+Container Yard,2018,2018,2018-08,GB,31732,10,United Kingdom
+Container Yard,2018,2018,2018-09,PA,179020,1,Panama
+Container Yard,2018,2018,2018-09,LR,110355,2,Liberia
+Container Yard,2018,2018,2018-09,SG,74146,3,Singapore
+Container Yard,2018,2018,2018-09,HK,71914,4,Hong Kong
+Container Yard,2018,2018,2018-09,US,63796,5,United States
+Container Yard,2018,2018,2018-09,MT,40202,6,Malta
+Container Yard,2018,2018,2018-09,DK,36439,7,Denmark
+Container Yard,2018,2018,2018-09,DE,34030,8,Germany
+Container Yard,2018,2018,2018-09,GB,29303,9,United Kingdom
+Container Yard,2018,2018,2018-09,TW,23896,10,Taiwan
+Container Yard,2018,2018,2018-10,PA,180107,1,Panama
+Container Yard,2018,2018,2018-10,LR,119216,2,Liberia
+Container Yard,2018,2018,2018-10,SG,86188,3,Singapore
+Container Yard,2018,2018,2018-10,HK,74690,4,Hong Kong
+Container Yard,2018,2018,2018-10,US,66152,5,United States
+Container Yard,2018,2018,2018-10,DE,53080,6,Germany
+Container Yard,2018,2018,2018-10,DK,42134,7,Denmark
+Container Yard,2018,2018,2018-10,GB,40506,8,United Kingdom
+Container Yard,2018,2018,2018-10,MH,40369,9,Marshall Islands
+Container Yard,2018,2018,2018-10,MT,38523,10,Malta
+Container Yard,2018,2018,2018-11,PA,148933,1,Panama
+Container Yard,2018,2018,2018-11,LR,110637,2,Liberia
+Container Yard,2018,2018,2018-11,HK,74214,3,Hong Kong
+Container Yard,2018,2018,2018-11,US,64089,4,United States
+Container Yard,2018,2018,2018-11,SG,49266,5,Singapore
+Container Yard,2018,2018,2018-11,MT,42967,6,Malta
+Container Yard,2018,2018,2018-11,DK,41377,7,Denmark
+Container Yard,2018,2018,2018-11,GB,39087,8,United Kingdom
+Container Yard,2018,2018,2018-11,DE,35575,9,Germany
+Container Yard,2018,2018,2018-11,MH,23948,10,Marshall Islands
+Container Yard,2018,2018,2018-12,PA,192847,1,Panama
+Container Yard,2018,2018,2018-12,LR,111126,2,Liberia
+Container Yard,2018,2018,2018-12,SG,73846,3,Singapore
+Container Yard,2018,2018,2018-12,HK,72642,4,Hong Kong
+Container Yard,2018,2018,2018-12,US,41729,5,United States
+Container Yard,2018,2018,2018-12,DK,36581,6,Denmark
+Container Yard,2018,2018,2018-12,DE,34034,7,Germany
+Container Yard,2018,2018,2018-12,GB,29990,8,United Kingdom
+Container Yard,2018,2018,2018-12,MT,25624,9,Malta
+Container Yard,2018,2018,2018-12,MH,22504,10,Marshall Islands
+Container Yard,2019,2019,2019-01,PA,130716,1,Panama
+Container Yard,2019,2019,2019-01,LR,129326,2,Liberia
+Container Yard,2019,2019,2019-01,HK,51950,3,Hong Kong
+Container Yard,2019,2019,2019-01,US,46006,4,United States
+Container Yard,2019,2019,2019-01,SG,44766,5,Singapore
+Container Yard,2019,2019,2019-01,DE,40950,6,Germany
+Container Yard,2019,2019,2019-01,MH,36610,7,Marshall Islands
+Container Yard,2019,2019,2019-01,DK,33947,8,Denmark
+Container Yard,2019,2019,2019-01,GB,24932,9,United Kingdom
+Container Yard,2019,2019,2019-01,PT,22972,10,Portugal
+Container Yard,2019,2019,2019-02,PA,133376,1,Panama
+Container Yard,2019,2019,2019-02,LR,104198,2,Liberia
+Container Yard,2019,2019,2019-02,HK,42515,3,Hong Kong
+Container Yard,2019,2019,2019-02,SG,40623,4,Singapore
+Container Yard,2019,2019,2019-02,DK,39098,5,Denmark
+Container Yard,2019,2019,2019-02,DE,37042,6,Germany
+Container Yard,2019,2019,2019-02,US,36851,7,United States
+Container Yard,2019,2019,2019-02,GB,21410,8,United Kingdom
+Container Yard,2019,2019,2019-02,MH,20208,9,Marshall Islands
+Container Yard,2019,2019,2019-02,MT,19064,10,Malta
+Container Yard,2019,2019,2019-03,PA,135330,1,Panama
+Container Yard,2019,2019,2019-03,LR,88402,2,Liberia
+Container Yard,2019,2019,2019-03,HK,40367,3,Hong Kong
+Container Yard,2019,2019,2019-03,US,39573,4,United States
+Container Yard,2019,2019,2019-03,DK,38807,5,Denmark
+Container Yard,2019,2019,2019-03,DE,32195,6,Germany
+Container Yard,2019,2019,2019-03,SG,27992,7,Singapore
+Container Yard,2019,2019,2019-03,MH,27460,8,Marshall Islands
+Container Yard,2019,2019,2019-03,GB,17771,9,United Kingdom
+Container Yard,2019,2019,2019-03,MT,15778,10,Malta
+Container Yard,2019,2019,2019-04,PA,130826,1,Panama
+Container Yard,2019,2019,2019-04,LR,121338,2,Liberia
+Container Yard,2019,2019,2019-04,HK,60966,3,Hong Kong
+Container Yard,2019,2019,2019-04,US,44174,4,United States
+Container Yard,2019,2019,2019-04,SG,39840,5,Singapore
+Container Yard,2019,2019,2019-04,DE,28722,6,Germany
+Container Yard,2019,2019,2019-04,DK,25273,7,Denmark
+Container Yard,2019,2019,2019-04,MT,21351,8,Malta
+Container Yard,2019,2019,2019-04,GB,20253,9,United Kingdom
+Container Yard,2019,2019,2019-04,MH,19288,10,Marshall Islands
+Container Yard,2019,2019,2019-05,PA,162404,1,Panama
+Container Yard,2019,2019,2019-05,LR,117131,2,Liberia
+Container Yard,2019,2019,2019-05,HK,59674,3,Hong Kong
+Container Yard,2019,2019,2019-05,SG,55925,4,Singapore
+Container Yard,2019,2019,2019-05,US,48701,5,United States
+Container Yard,2019,2019,2019-05,DE,35817,6,Germany
+Container Yard,2019,2019,2019-05,DK,34126,7,Denmark
+Container Yard,2019,2019,2019-05,GB,22280,8,United Kingdom
+Container Yard,2019,2019,2019-05,PT,21705,9,Portugal
+Container Yard,2019,2019,2019-05,MH,18743,10,Marshall Islands
+Container Yard,2019,2019,2019-06,PA,124809,1,Panama
+Container Yard,2019,2019,2019-06,LR,121427,2,Liberia
+Container Yard,2019,2019,2019-06,HK,63995,3,Hong Kong
+Container Yard,2019,2019,2019-06,US,48987,4,United States
+Container Yard,2019,2019,2019-06,SG,48638,5,Singapore
+Container Yard,2019,2019,2019-06,DE,45877,6,Germany
+Container Yard,2019,2019,2019-06,DK,28927,7,Denmark
+Container Yard,2019,2019,2019-06,MT,24374,8,Malta
+Container Yard,2019,2019,2019-06,MH,23875,9,Marshall Islands
+Container Yard,2019,2019,2019-06,PT,17615,10,Portugal
+Container Yard,2019,2019,2019-07,LR,147203,1,Liberia
+Container Yard,2019,2019,2019-07,PA,142110,2,Panama
+Container Yard,2019,2019,2019-07,HK,66907,3,Hong Kong
+Container Yard,2019,2019,2019-07,SG,61925,4,Singapore
+Container Yard,2019,2019,2019-07,US,46079,5,United States
+Container Yard,2019,2019,2019-07,DE,39626,6,Germany
+Container Yard,2019,2019,2019-07,DK,26376,7,Denmark
+Container Yard,2019,2019,2019-07,MH,25515,8,Marshall Islands
+Container Yard,2019,2019,2019-07,GB,20210,9,United Kingdom
+Container Yard,2019,2019,2019-07,TW,18710,10,Taiwan
+Container Yard,2019,2019,2019-08,PA,158791,1,Panama
+Container Yard,2019,2019,2019-08,LR,134357,2,Liberia
+Container Yard,2019,2019,2019-08,HK,88872,3,Hong Kong
+Container Yard,2019,2019,2019-08,US,49383,4,United States
+Container Yard,2019,2019,2019-08,SG,42628,5,Singapore
+Container Yard,2019,2019,2019-08,DK,35390,6,Denmark
+Container Yard,2019,2019,2019-08,MH,35222,7,Marshall Islands
+Container Yard,2019,2019,2019-08,DE,29269,8,Germany
+Container Yard,2019,2019,2019-08,PT,25111,9,Portugal
+Container Yard,2019,2019,2019-08,MT,20512,10,Malta
+Container Yard,2019,2019,2019-09,LR,130783,1,Liberia
+Container Yard,2019,2019,2019-09,PA,123861,2,Panama
+Container Yard,2019,2019,2019-09,HK,58334,3,Hong Kong
+Container Yard,2019,2019,2019-09,SG,48625,4,Singapore
+Container Yard,2019,2019,2019-09,US,47632,5,United States
+Container Yard,2019,2019,2019-09,DE,45320,6,Germany
+Container Yard,2019,2019,2019-09,JP,31470,7,Japan
+Container Yard,2019,2019,2019-09,DK,28370,8,Denmark
+Container Yard,2019,2019,2019-09,MH,26190,9,Marshall Islands
+Container Yard,2019,2019,2019-09,GB,25353,10,United Kingdom
+Container Yard,2019,2019,2019-10,PA,142308,1,Panama
+Container Yard,2019,2019,2019-10,LR,124490,2,Liberia
+Container Yard,2019,2019,2019-10,HK,57649,3,Hong Kong
+Container Yard,2019,2019,2019-10,SG,50299,4,Singapore
+Container Yard,2019,2019,2019-10,US,41066,5,United States
+Container Yard,2019,2019,2019-10,DE,33571,6,Germany
+Container Yard,2019,2019,2019-10,DK,30798,7,Denmark
+Container Yard,2019,2019,2019-10,MH,25322,8,Marshall Islands
+Container Yard,2019,2019,2019-10,GB,20434,9,United Kingdom
+Container Yard,2019,2019,2019-10,TW,20330,10,Taiwan
+Container Yard,2019,2019,2019-11,LR,138263,1,Liberia
+Container Yard,2019,2019,2019-11,PA,126809,2,Panama
+Container Yard,2019,2019,2019-11,HK,61138,3,Hong Kong
+Container Yard,2019,2019,2019-11,SG,43505,4,Singapore
+Container Yard,2019,2019,2019-11,US,43421,5,United States
+Container Yard,2019,2019,2019-11,DE,34519,6,Germany
+Container Yard,2019,2019,2019-11,MH,29351,7,Marshall Islands
+Container Yard,2019,2019,2019-11,DK,27497,8,Denmark
+Container Yard,2019,2019,2019-11,PT,20879,9,Portugal
+Container Yard,2019,2019,2019-11,MT,17966,10,Malta
+Container Yard,2019,2019,2019-12,LR,131363,1,Liberia
+Container Yard,2019,2019,2019-12,PA,100620,2,Panama
+Container Yard,2019,2019,2019-12,HK,59106,3,Hong Kong
+Container Yard,2019,2019,2019-12,SG,50066,4,Singapore
+Container Yard,2019,2019,2019-12,US,39606,5,United States
+Container Yard,2019,2019,2019-12,MH,31515,6,Marshall Islands
+Container Yard,2019,2019,2019-12,DK,28787,7,Denmark
+Container Yard,2019,2019,2019-12,DE,28186,8,Germany
+Container Yard,2019,2019,2019-12,MT,24078,9,Malta
+Container Yard,2019,2019,2019-12,GB,18467,10,United Kingdom
+Container Yard,2020,2020,2020-01,PA,140417,1,Panama
+Container Yard,2020,2020,2020-01,LR,133677,2,Liberia
+Container Yard,2020,2020,2020-01,HK,53728,3,Hong Kong
+Container Yard,2020,2020,2020-01,SG,52946,4,Singapore
+Container Yard,2020,2020,2020-01,US,43949,5,United States
+Container Yard,2020,2020,2020-01,DE,39780,6,Germany
+Container Yard,2020,2020,2020-01,DK,30526,7,Denmark
+Container Yard,2020,2020,2020-01,MH,26096,8,Marshall Islands
+Container Yard,2020,2020,2020-01,GB,22928,9,United Kingdom
+Container Yard,2020,2020,2020-01,PT,22791,10,Portugal
+Container Yard,2020,2020,2020-02,LR,122680,1,Liberia
+Container Yard,2020,2020,2020-02,PA,102147,2,Panama
+Container Yard,2020,2020,2020-02,HK,54285,3,Hong Kong
+Container Yard,2020,2020,2020-02,SG,46942,4,Singapore
+Container Yard,2020,2020,2020-02,US,37933,5,United States
+Container Yard,2020,2020,2020-02,MT,31431,6,Malta
+Container Yard,2020,2020,2020-02,DE,27159,7,Germany
+Container Yard,2020,2020,2020-02,DK,26605,8,Denmark
+Container Yard,2020,2020,2020-02,MH,23107,9,Marshall Islands
+Container Yard,2020,2020,2020-02,PT,18916,10,Portugal
+Container Yard,2020,2020,2020-03,PA,121206,1,Panama
+Container Yard,2020,2020,2020-03,LR,98994,2,Liberia
+Container Yard,2020,2020,2020-03,SG,44150,3,Singapore
+Container Yard,2020,2020,2020-03,US,40017,4,United States
+Container Yard,2020,2020,2020-03,DE,35593,5,Germany
+Container Yard,2020,2020,2020-03,HK,31411,6,Hong Kong
+Container Yard,2020,2020,2020-03,MT,26969,7,Malta
+Container Yard,2020,2020,2020-03,DK,24751,8,Denmark
+Container Yard,2020,2020,2020-03,MH,17648,9,Marshall Islands
+Container Yard,2020,2020,2020-03,PT,16113,10,Portugal
+Container Yard,2020,2020,2020-04,PA,138246,1,Panama
+Container Yard,2020,2020,2020-04,LR,126655,2,Liberia
+Container Yard,2020,2020,2020-04,SG,45206,3,Singapore
+Container Yard,2020,2020,2020-04,HK,43689,4,Hong Kong
+Container Yard,2020,2020,2020-04,US,40655,5,United States
+Container Yard,2020,2020,2020-04,DK,39601,6,Denmark
+Container Yard,2020,2020,2020-04,MH,33576,7,Marshall Islands
+Container Yard,2020,2020,2020-04,MT,24776,8,Malta
+Container Yard,2020,2020,2020-04,GB,20779,9,United Kingdom
+Container Yard,2020,2020,2020-04,DE,20500,10,Germany
+Container Yard,2020,2020,2020-05,LR,119078,1,Liberia
+Container Yard,2020,2020,2020-05,PA,115446,2,Panama
+Container Yard,2020,2020,2020-05,HK,71811,3,Hong Kong
+Container Yard,2020,2020,2020-05,SG,60481,4,Singapore
+Container Yard,2020,2020,2020-05,US,37096,5,United States
+Container Yard,2020,2020,2020-05,DE,24536,6,Germany
+Container Yard,2020,2020,2020-05,DK,23490,7,Denmark
+Container Yard,2020,2020,2020-05,MT,23357,8,Malta
+Container Yard,2020,2020,2020-05,JP,21554,9,Japan
+Container Yard,2020,2020,2020-05,MH,21299,10,Marshall Islands
+Container Yard,2020,2020,2020-06,PA,146582,1,Panama
+Container Yard,2020,2020,2020-06,HK,95496,2,Hong Kong
+Container Yard,2020,2020,2020-06,LR,92669,3,Liberia
+Container Yard,2020,2020,2020-06,SG,51958,4,Singapore
+Container Yard,2020,2020,2020-06,DK,50675,5,Denmark
+Container Yard,2020,2020,2020-06,US,44764,6,United States
+Container Yard,2020,2020,2020-06,DE,38467,7,Germany
+Container Yard,2020,2020,2020-06,GB,31134,8,United Kingdom
+Container Yard,2020,2020,2020-06,MH,24221,9,Marshall Islands
+Container Yard,2020,2020,2020-06,JP,23228,10,Japan
+Container Yard,2020,2020,2020-07,PA,153526,1,Panama
+Container Yard,2020,2020,2020-07,LR,119630,2,Liberia
+Container Yard,2020,2020,2020-07,HK,87356,3,Hong Kong
+Container Yard,2020,2020,2020-07,DK,62224,4,Denmark
+Container Yard,2020,2020,2020-07,SG,56849,5,Singapore
+Container Yard,2020,2020,2020-07,US,49743,6,United States
+Container Yard,2020,2020,2020-07,MT,36588,7,Malta
+Container Yard,2020,2020,2020-07,GB,35937,8,United Kingdom
+Container Yard,2020,2020,2020-07,MH,29349,9,Marshall Islands
+Container Yard,2020,2020,2020-07,DE,27903,10,Germany
+Container Yard,2020,2020,2020-08,PA,144317,1,Panama
+Container Yard,2020,2020,2020-08,LR,125028,2,Liberia
+Container Yard,2020,2020,2020-08,HK,87388,3,Hong Kong
+Container Yard,2020,2020,2020-08,US,64032,4,United States
+Container Yard,2020,2020,2020-08,SG,62689,5,Singapore
+Container Yard,2020,2020,2020-08,MH,50328,6,Marshall Islands
+Container Yard,2020,2020,2020-08,DK,48901,7,Denmark
+Container Yard,2020,2020,2020-08,DE,47069,8,Germany
+Container Yard,2020,2020,2020-08,GB,38910,9,United Kingdom
+Container Yard,2020,2020,2020-08,MT,35860,10,Malta
+Container Yard,2020,2020,2020-09,PA,141143,1,Panama
+Container Yard,2020,2020,2020-09,LR,96720,2,Liberia
+Container Yard,2020,2020,2020-09,HK,70992,3,Hong Kong
+Container Yard,2020,2020,2020-09,SG,61799,4,Singapore
+Container Yard,2020,2020,2020-09,US,57432,5,United States
+Container Yard,2020,2020,2020-09,DK,33211,6,Denmark
+Container Yard,2020,2020,2020-09,PT,32807,7,Portugal
+Container Yard,2020,2020,2020-09,MH,25663,8,Marshall Islands
+Container Yard,2020,2020,2020-09,GB,23020,9,United Kingdom
+Container Yard,2020,2020,2020-09,TW,21930,10,Taiwan
+Headload or Devanning,2018,2018,2018-01,PA,84,1,Panama
+Headload or Devanning,2018,2018,2018-01,LR,13,2,Liberia
+Headload or Devanning,2018,2018,2018-01,HK,6,3,Hong Kong
+Headload or Devanning,2018,2018,2018-01,US,6,4,United States
+Headload or Devanning,2018,2018,2018-01,MT,3,5,Malta
+Headload or Devanning,2018,2018,2018-01,SG,2,6,Singapore
+Headload or Devanning,2018,2018,2018-01,MH,2,7,Marshall Islands
+Headload or Devanning,2018,2018,2018-02,PA,67,1,Panama
+Headload or Devanning,2018,2018,2018-02,SG,4,2,Singapore
+Headload or Devanning,2018,2018,2018-02,US,3,3,United States
+Headload or Devanning,2018,2018,2018-02,CN,2,4,China
+Headload or Devanning,2018,2018,2018-03,LR,12,1,Liberia
+Headload or Devanning,2018,2018,2018-03,PT,10,2,Portugal
+Headload or Devanning,2018,2018,2018-03,PA,9,3,Panama
+Headload or Devanning,2018,2018,2018-03,DE,5,4,Germany
+Headload or Devanning,2018,2018,2018-03,MT,2,5,Malta
+Headload or Devanning,2018,2018,2018-03,SG,2,6,Singapore
+Headload or Devanning,2018,2018,2018-04,PA,36,1,Panama
+Headload or Devanning,2018,2018,2018-04,PT,21,2,Portugal
+Headload or Devanning,2018,2018,2018-04,LR,18,3,Liberia
+Headload or Devanning,2018,2018,2018-04,SG,11,4,Singapore
+Headload or Devanning,2018,2018,2018-04,HK,8,5,Hong Kong
+Headload or Devanning,2018,2018,2018-04,FR,4,6,France
+Headload or Devanning,2018,2018,2018-04,MT,2,7,Malta
+Headload or Devanning,2018,2018,2018-04,CY,1,8,Cyprus
+Headload or Devanning,2018,2018,2018-05,PA,29,1,Panama
+Headload or Devanning,2018,2018,2018-05,LR,11,2,Liberia
+Headload or Devanning,2018,2018,2018-05,FR,6,3,France
+Headload or Devanning,2018,2018,2018-05,SG,5,4,Singapore
+Headload or Devanning,2018,2018,2018-05,MT,4,5,Malta
+Headload or Devanning,2018,2018,2018-05,US,4,6,United States
+Headload or Devanning,2018,2018,2018-05,IT,4,7,Italy
+Headload or Devanning,2018,2018,2018-05,BS,3,8,Bahamas
+Headload or Devanning,2018,2018,2018-05,GB,2,9,United Kingdom
+Headload or Devanning,2018,2018,2018-05,PT,2,10,Portugal
+Headload or Devanning,2018,2018,2018-06,SG,19,1,Singapore
+Headload or Devanning,2018,2018,2018-06,PA,11,2,Panama
+Headload or Devanning,2018,2018,2018-06,GB,9,3,United Kingdom
+Headload or Devanning,2018,2018,2018-06,HK,7,4,Hong Kong
+Headload or Devanning,2018,2018,2018-06,TW,6,5,Taiwan
+Headload or Devanning,2018,2018,2018-06,LR,2,6,Liberia
+Headload or Devanning,2018,2018,2018-06,US,2,7,United States
+Headload or Devanning,2018,2018,2018-06,LS,1,8,Lesotho
+Headload or Devanning,2018,2018,2018-07,PA,55,1,Panama
+Headload or Devanning,2018,2018,2018-07,SG,16,2,Singapore
+Headload or Devanning,2018,2018,2018-07,LR,14,3,Liberia
+Headload or Devanning,2018,2018,2018-07,HK,14,4,Hong Kong
+Headload or Devanning,2018,2018,2018-07,US,13,5,United States
+Headload or Devanning,2018,2018,2018-07,TW,13,6,Taiwan
+Headload or Devanning,2018,2018,2018-07,DE,4,7,Germany
+Headload or Devanning,2018,2018,2018-07,FR,3,8,France
+Headload or Devanning,2018,2018,2018-07,MH,3,9,Marshall Islands
+Headload or Devanning,2018,2018,2018-08,SG,33,1,Singapore
+Headload or Devanning,2018,2018,2018-08,PA,33,2,Panama
+Headload or Devanning,2018,2018,2018-08,LR,17,3,Liberia
+Headload or Devanning,2018,2018,2018-08,DE,13,4,Germany
+Headload or Devanning,2018,2018,2018-08,BS,11,5,Bahamas
+Headload or Devanning,2018,2018,2018-08,HK,11,6,Hong Kong
+Headload or Devanning,2018,2018,2018-08,MT,6,7,Malta
+Headload or Devanning,2018,2018,2018-08,MH,3,8,Marshall Islands
+Headload or Devanning,2018,2018,2018-09,PA,27,1,Panama
+Headload or Devanning,2018,2018,2018-09,LR,21,2,Liberia
+Headload or Devanning,2018,2018,2018-09,MT,7,3,Malta
+Headload or Devanning,2018,2018,2018-09,PT,6,4,Portugal
+Headload or Devanning,2018,2018,2018-09,GR,5,5,Greece
+Headload or Devanning,2018,2018,2018-09,SG,4,6,Singapore
+Headload or Devanning,2018,2018,2018-09,DK,4,7,Denmark
+Headload or Devanning,2018,2018,2018-09,GB,4,8,United Kingdom
+Headload or Devanning,2018,2018,2018-10,LR,25,1,Liberia
+Headload or Devanning,2018,2018,2018-10,PA,14,2,Panama
+Headload or Devanning,2018,2018,2018-10,GB,14,3,United Kingdom
+Headload or Devanning,2018,2018,2018-10,HK,9,4,Hong Kong
+Headload or Devanning,2018,2018,2018-10,DE,8,5,Germany
+Headload or Devanning,2018,2018,2018-10,SG,8,6,Singapore
+Headload or Devanning,2018,2018,2018-10,US,7,7,United States
+Headload or Devanning,2018,2018,2018-10,MH,1,8,Marshall Islands
+Headload or Devanning,2018,2018,2018-10,JP,1,9,Japan
+Headload or Devanning,2018,2018,2018-11,PA,27,1,Panama
+Headload or Devanning,2018,2018,2018-11,GB,19,2,United Kingdom
+Headload or Devanning,2018,2018,2018-11,SG,12,3,Singapore
+Headload or Devanning,2018,2018,2018-11,HK,12,4,Hong Kong
+Headload or Devanning,2018,2018,2018-11,US,10,5,United States
+Headload or Devanning,2018,2018,2018-11,LR,6,6,Liberia
+Headload or Devanning,2018,2018,2018-11,BS,4,7,Bahamas
+Headload or Devanning,2018,2018,2018-11,CY,2,8,Cyprus
+Headload or Devanning,2018,2018,2018-12,LR,61,1,Liberia
+Headload or Devanning,2018,2018,2018-12,PA,37,2,Panama
+Headload or Devanning,2018,2018,2018-12,SG,13,3,Singapore
+Headload or Devanning,2018,2018,2018-12,US,12,4,United States
+Headload or Devanning,2018,2018,2018-12,GB,11,5,United Kingdom
+Headload or Devanning,2018,2018,2018-12,MT,6,6,Malta
+Headload or Devanning,2018,2018,2018-12,KR,2,7,South Korea
+Headload or Devanning,2018,2018,2018-12,DE,2,8,Germany
+Headload or Devanning,2018,2018,2018-12,BB,1,9,Barbados
+Headload or Devanning,2019,2019,2019-01,PA,56,1,Panama
+Headload or Devanning,2019,2019,2019-01,US,15,2,United States
+Headload or Devanning,2019,2019,2019-01,MH,13,3,Marshall Islands
+Headload or Devanning,2019,2019,2019-01,BS,8,4,Bahamas
+Headload or Devanning,2019,2019,2019-01,PT,6,5,Portugal
+Headload or Devanning,2019,2019,2019-01,GB,4,6,United Kingdom
+Headload or Devanning,2019,2019,2019-01,SG,4,7,Singapore
+Headload or Devanning,2019,2019,2019-01,KR,3,8,South Korea
+Headload or Devanning,2019,2019,2019-01,MT,3,9,Malta
+Headload or Devanning,2019,2019,2019-01,FR,2,10,France
+Headload or Devanning,2019,2019,2019-02,PA,61,1,Panama
+Headload or Devanning,2019,2019,2019-02,GB,29,2,United Kingdom
+Headload or Devanning,2019,2019,2019-02,LR,12,3,Liberia
+Headload or Devanning,2019,2019,2019-02,MT,6,4,Malta
+Headload or Devanning,2019,2019,2019-02,HK,4,5,Hong Kong
+Headload or Devanning,2019,2019,2019-02,JP,4,6,Japan
+Headload or Devanning,2019,2019,2019-02,TW,3,7,Taiwan
+Headload or Devanning,2019,2019,2019-02,US,2,8,United States
+Headload or Devanning,2019,2019,2019-03,PA,34,1,Panama
+Headload or Devanning,2019,2019,2019-03,HK,8,2,Hong Kong
+Headload or Devanning,2019,2019,2019-03,GB,6,3,United Kingdom
+Headload or Devanning,2019,2019,2019-03,PT,4,4,Portugal
+Headload or Devanning,2019,2019,2019-03,CY,2,5,Cyprus
+Headload or Devanning,2019,2019,2019-03,LR,1,6,Liberia
+Headload or Devanning,2019,2019,2019-03,BM,1,7,Bermuda
+Headload or Devanning,2019,2019,2019-04,PA,31,1,Panama
+Headload or Devanning,2019,2019,2019-04,PT,14,2,Portugal
+Headload or Devanning,2019,2019,2019-04,SG,11,3,Singapore
+Headload or Devanning,2019,2019,2019-04,US,6,4,United States
+Headload or Devanning,2019,2019,2019-04,LR,5,5,Liberia
+Headload or Devanning,2019,2019,2019-04,GB,4,6,United Kingdom
+Headload or Devanning,2019,2019,2019-04,MT,4,7,Malta
+Headload or Devanning,2019,2019,2019-04,FR,3,8,France
+Headload or Devanning,2019,2019,2019-04,MH,1,9,Marshall Islands
+Headload or Devanning,2019,2019,2019-05,PA,25,1,Panama
+Headload or Devanning,2019,2019,2019-05,SG,9,2,Singapore
+Headload or Devanning,2019,2019,2019-05,MT,8,3,Malta
+Headload or Devanning,2019,2019,2019-05,MH,7,4,Marshall Islands
+Headload or Devanning,2019,2019,2019-05,FR,4,5,France
+Headload or Devanning,2019,2019,2019-05,GB,3,6,United Kingdom
+Headload or Devanning,2019,2019,2019-05,CL,2,7,Chile
+Headload or Devanning,2019,2019,2019-05,US,2,8,United States
+Headload or Devanning,2019,2019,2019-05,HK,1,9,Hong Kong
+Headload or Devanning,2019,2019,2019-06,TW,12,1,Taiwan
+Headload or Devanning,2019,2019,2019-06,PA,10,2,Panama
+Headload or Devanning,2019,2019,2019-06,LR,9,3,Liberia
+Headload or Devanning,2019,2019,2019-06,HK,9,4,Hong Kong
+Headload or Devanning,2019,2019,2019-06,SG,7,5,Singapore
+Headload or Devanning,2019,2019,2019-06,US,6,6,United States
+Headload or Devanning,2019,2019,2019-06,GB,5,7,United Kingdom
+Headload or Devanning,2019,2019,2019-06,MT,3,8,Malta
+Headload or Devanning,2019,2019,2019-06,DE,3,9,Germany
+Headload or Devanning,2019,2019,2019-06,GE,1,10,Georgia
+Headload or Devanning,2019,2019,2019-07,MH,12,1,Marshall Islands
+Headload or Devanning,2019,2019,2019-07,DE,9,2,Germany
+Headload or Devanning,2019,2019,2019-07,FR,8,3,France
+Headload or Devanning,2019,2019,2019-07,GB,7,4,United Kingdom
+Headload or Devanning,2019,2019,2019-07,SG,6,5,Singapore
+Headload or Devanning,2019,2019,2019-07,LR,5,6,Liberia
+Headload or Devanning,2019,2019,2019-07,HK,5,7,Hong Kong
+Headload or Devanning,2019,2019,2019-07,US,4,8,United States
+Headload or Devanning,2019,2019,2019-07,PT,2,9,Portugal
+Headload or Devanning,2019,2019,2019-08,PA,22,1,Panama
+Headload or Devanning,2019,2019,2019-08,SG,13,2,Singapore
+Headload or Devanning,2019,2019,2019-08,LR,9,3,Liberia
+Headload or Devanning,2019,2019,2019-08,US,7,4,United States
+Headload or Devanning,2019,2019,2019-08,DE,7,5,Germany
+Headload or Devanning,2019,2019,2019-08,HK,5,6,Hong Kong
+Headload or Devanning,2019,2019,2019-08,JP,4,7,Japan
+Headload or Devanning,2019,2019,2019-08,MH,4,8,Marshall Islands
+Headload or Devanning,2019,2019,2019-08,PT,3,9,Portugal
+Headload or Devanning,2019,2019,2019-08,FR,2,10,France
+Headload or Devanning,2019,2019,2019-09,DK,17,1,Denmark
+Headload or Devanning,2019,2019,2019-09,PA,15,2,Panama
+Headload or Devanning,2019,2019,2019-09,MH,9,3,Marshall Islands
+Headload or Devanning,2019,2019,2019-09,US,6,4,United States
+Headload or Devanning,2019,2019,2019-09,DE,5,5,Germany
+Headload or Devanning,2019,2019,2019-09,HK,5,6,Hong Kong
+Headload or Devanning,2019,2019,2019-09,MT,4,7,Malta
+Headload or Devanning,2019,2019,2019-09,SG,4,8,Singapore
+Headload or Devanning,2019,2019,2019-09,LR,4,9,Liberia
+Headload or Devanning,2019,2019,2019-09,GB,3,10,United Kingdom
+Headload or Devanning,2019,2019,2019-10,TW,11,1,Taiwan
+Headload or Devanning,2019,2019,2019-10,MH,7,2,Marshall Islands
+Headload or Devanning,2019,2019,2019-10,LR,5,3,Liberia
+Headload or Devanning,2019,2019,2019-10,GB,4,4,United Kingdom
+Headload or Devanning,2019,2019,2019-10,US,4,5,United States
+Headload or Devanning,2019,2019,2019-10,PA,2,6,Panama
+Headload or Devanning,2019,2019,2019-10,FR,2,7,France
+Headload or Devanning,2019,2019,2019-10,PT,1,8,Portugal
+Headload or Devanning,2019,2019,2019-11,PA,33,1,Panama
+Headload or Devanning,2019,2019,2019-11,LR,28,2,Liberia
+Headload or Devanning,2019,2019,2019-11,FR,8,3,France
+Headload or Devanning,2019,2019,2019-11,GB,5,4,United Kingdom
+Headload or Devanning,2019,2019,2019-12,LR,32,1,Liberia
+Headload or Devanning,2019,2019,2019-12,HK,4,2,Hong Kong
+Headload or Devanning,2019,2019,2019-12,FR,4,3,France
+Headload or Devanning,2019,2019,2019-12,US,4,4,United States
+Headload or Devanning,2019,2019,2019-12,MT,2,5,Malta
+Headload or Devanning,2020,2020,2020-01,FR,4,1,France
+Headload or Devanning,2020,2020,2020-01,US,2,2,United States
+Headload or Devanning,2020,2020,2020-01,GB,2,3,United Kingdom
+Headload or Devanning,2020,2020,2020-02,TW,21,1,Taiwan
+Headload or Devanning,2020,2020,2020-02,FR,5,2,France
+Headload or Devanning,2020,2020,2020-02,PA,4,3,Panama
+Headload or Devanning,2020,2020,2020-02,US,2,4,United States
+Headload or Devanning,2020,2020,2020-02,GB,2,5,United Kingdom
+Headload or Devanning,2020,2020,2020-02,MT,1,6,Malta
+Headload or Devanning,2020,2020,2020-02,KR,1,7,South Korea
+Headload or Devanning,2020,2020,2020-03,PA,31,1,Panama
+Headload or Devanning,2020,2020,2020-03,LR,5,2,Liberia
+Headload or Devanning,2020,2020,2020-03,GB,2,3,United Kingdom
+Headload or Devanning,2020,2020,2020-03,PT,1,4,Portugal
+Headload or Devanning,2020,2020,2020-03,MT,1,5,Malta
+Headload or Devanning,2020,2020,2020-04,LR,40,1,Liberia
+Headload or Devanning,2020,2020,2020-04,HK,20,2,Hong Kong
+Headload or Devanning,2020,2020,2020-04,PA,12,3,Panama
+Headload or Devanning,2020,2020,2020-04,GB,7,4,United Kingdom
+Headload or Devanning,2020,2020,2020-04,DK,5,5,Denmark
+Headload or Devanning,2020,2020,2020-04,US,4,6,United States
+Headload or Devanning,2020,2020,2020-04,DE,4,7,Germany
+Headload or Devanning,2020,2020,2020-04,TW,2,8,Taiwan
+Headload or Devanning,2020,2020,2020-04,MH,2,9,Marshall Islands
+Headload or Devanning,2020,2020,2020-04,PT,2,10,Portugal
+Headload or Devanning,2020,2020,2020-05,PA,68,1,Panama
+Headload or Devanning,2020,2020,2020-05,LR,67,2,Liberia
+Headload or Devanning,2020,2020,2020-05,HK,31,3,Hong Kong
+Headload or Devanning,2020,2020,2020-05,JP,25,4,Japan
+Headload or Devanning,2020,2020,2020-05,MH,6,5,Marshall Islands
+Headload or Devanning,2020,2020,2020-05,MT,4,6,Malta
+Headload or Devanning,2020,2020,2020-05,DE,4,7,Germany
+Headload or Devanning,2020,2020,2020-05,US,3,8,United States
+Headload or Devanning,2020,2020,2020-05,TW,3,9,Taiwan
+Headload or Devanning,2020,2020,2020-06,HK,26,1,Hong Kong
+Headload or Devanning,2020,2020,2020-06,GB,22,2,United Kingdom
+Headload or Devanning,2020,2020,2020-06,JP,7,3,Japan
+Headload or Devanning,2020,2020,2020-06,DK,4,4,Denmark
+Headload or Devanning,2020,2020,2020-06,PA,4,5,Panama
+Headload or Devanning,2020,2020,2020-06,MT,3,6,Malta
+Headload or Devanning,2020,2020,2020-06,LR,3,7,Liberia
+Headload or Devanning,2020,2020,2020-06,IL,2,8,Israel
+Headload or Devanning,2020,2020,2020-06,CN,2,9,China
+Headload or Devanning,2020,2020,2020-06,DE,1,10,Germany
+Headload or Devanning,2020,2020,2020-07,LR,34,1,Liberia
+Headload or Devanning,2020,2020,2020-07,PA,22,2,Panama
+Headload or Devanning,2020,2020,2020-07,GB,22,3,United Kingdom
+Headload or Devanning,2020,2020,2020-07,MT,16,4,Malta
+Headload or Devanning,2020,2020,2020-07,GR,13,5,Greece
+Headload or Devanning,2020,2020,2020-07,TW,7,6,Taiwan
+Headload or Devanning,2020,2020,2020-07,JP,3,7,Japan
+Headload or Devanning,2020,2020,2020-07,FR,3,8,France
+Headload or Devanning,2020,2020,2020-07,HK,2,9,Hong Kong
+Headload or Devanning,2020,2020,2020-07,DK,2,10,Denmark
+Headload or Devanning,2020,2020,2020-08,HK,99,1,Hong Kong
+Headload or Devanning,2020,2020,2020-08,PA,40,2,Panama
+Headload or Devanning,2020,2020,2020-08,MH,16,3,Marshall Islands
+Headload or Devanning,2020,2020,2020-08,PT,11,4,Portugal
+Headload or Devanning,2020,2020,2020-08,MT,7,5,Malta
+Headload or Devanning,2020,2020,2020-08,LR,7,6,Liberia
+Headload or Devanning,2020,2020,2020-08,JP,5,7,Japan
+Headload or Devanning,2020,2020,2020-08,DE,3,8,Germany
+Headload or Devanning,2020,2020,2020-08,DK,2,9,Denmark
+Headload or Devanning,2020,2020,2020-08,US,2,10,United States
+Headload or Devanning,2020,2020,2020-09,LR,31,1,Liberia
+Headload or Devanning,2020,2020,2020-09,SG,22,2,Singapore
+Headload or Devanning,2020,2020,2020-09,PA,18,3,Panama
+Headload or Devanning,2020,2020,2020-09,BS,9,4,Bahamas
+Headload or Devanning,2020,2020,2020-09,MH,4,5,Marshall Islands
+Headload or Devanning,2020,2020,2020-09,TW,1,6,Taiwan
+Headload or Devanning,2020,2020,2020-09,DK,1,7,Denmark
+House to House,2018,2018,2018-01,HK,200847,1,Hong Kong
+House to House,2018,2018,2018-01,PA,177567,2,Panama
+House to House,2018,2018,2018-01,LR,126920,3,Liberia
+House to House,2018,2018,2018-01,SG,80736,4,Singapore
+House to House,2018,2018,2018-01,GB,63932,5,United Kingdom
+House to House,2018,2018,2018-01,PT,42310,6,Portugal
+House to House,2018,2018,2018-01,MT,41038,7,Malta
+House to House,2018,2018,2018-01,DE,33042,8,Germany
+House to House,2018,2018,2018-01,MH,31134,9,Marshall Islands
+House to House,2018,2018,2018-01,DK,22475,10,Denmark
+House to House,2018,2018,2018-02,PA,187814,1,Panama
+House to House,2018,2018,2018-02,HK,162423,2,Hong Kong
+House to House,2018,2018,2018-02,SG,113471,3,Singapore
+House to House,2018,2018,2018-02,LR,111060,4,Liberia
+House to House,2018,2018,2018-02,GB,55746,5,United Kingdom
+House to House,2018,2018,2018-02,MT,49590,6,Malta
+House to House,2018,2018,2018-02,PT,42657,7,Portugal
+House to House,2018,2018,2018-02,DE,40743,8,Germany
+House to House,2018,2018,2018-02,DK,32394,9,Denmark
+House to House,2018,2018,2018-02,TW,30868,10,Taiwan
+House to House,2018,2018,2018-03,HK,182642,1,Hong Kong
+House to House,2018,2018,2018-03,PA,153202,2,Panama
+House to House,2018,2018,2018-03,LR,127302,3,Liberia
+House to House,2018,2018,2018-03,SG,75288,4,Singapore
+House to House,2018,2018,2018-03,MT,58178,5,Malta
+House to House,2018,2018,2018-03,PT,51310,6,Portugal
+House to House,2018,2018,2018-03,DE,49385,7,Germany
+House to House,2018,2018,2018-03,GB,38146,8,United Kingdom
+House to House,2018,2018,2018-03,MH,33583,9,Marshall Islands
+House to House,2018,2018,2018-03,US,33442,10,United States
+House to House,2018,2018,2018-04,PA,196101,1,Panama
+House to House,2018,2018,2018-04,HK,175826,2,Hong Kong
+House to House,2018,2018,2018-04,LR,116921,3,Liberia
+House to House,2018,2018,2018-04,SG,104552,4,Singapore
+House to House,2018,2018,2018-04,PT,66296,5,Portugal
+House to House,2018,2018,2018-04,GB,54773,6,United Kingdom
+House to House,2018,2018,2018-04,MT,47463,7,Malta
+House to House,2018,2018,2018-04,TW,33830,8,Taiwan
+House to House,2018,2018,2018-04,US,32575,9,United States
+House to House,2018,2018,2018-04,DE,31315,10,Germany
+House to House,2018,2018,2018-05,HK,219814,1,Hong Kong
+House to House,2018,2018,2018-05,PA,189123,2,Panama
+House to House,2018,2018,2018-05,SG,152416,3,Singapore
+House to House,2018,2018,2018-05,LR,133845,4,Liberia
+House to House,2018,2018,2018-05,GB,85838,5,United Kingdom
+House to House,2018,2018,2018-05,DE,46434,6,Germany
+House to House,2018,2018,2018-05,DK,44054,7,Denmark
+House to House,2018,2018,2018-05,MT,41650,8,Malta
+House to House,2018,2018,2018-05,PT,40156,9,Portugal
+House to House,2018,2018,2018-05,US,33597,10,United States
+House to House,2018,2018,2018-06,SG,235161,1,Singapore
+House to House,2018,2018,2018-06,HK,191140,2,Hong Kong
+House to House,2018,2018,2018-06,PA,166027,3,Panama
+House to House,2018,2018,2018-06,LR,123374,4,Liberia
+House to House,2018,2018,2018-06,GB,103011,5,United Kingdom
+House to House,2018,2018,2018-06,MT,49947,6,Malta
+House to House,2018,2018,2018-06,DE,48889,7,Germany
+House to House,2018,2018,2018-06,PT,39200,8,Portugal
+House to House,2018,2018,2018-06,DK,34722,9,Denmark
+House to House,2018,2018,2018-06,TW,31807,10,Taiwan
+House to House,2018,2018,2018-07,PA,187989,1,Panama
+House to House,2018,2018,2018-07,HK,168641,2,Hong Kong
+House to House,2018,2018,2018-07,LR,133431,3,Liberia
+House to House,2018,2018,2018-07,SG,132752,4,Singapore
+House to House,2018,2018,2018-07,GB,89527,5,United Kingdom
+House to House,2018,2018,2018-07,DE,47205,6,Germany
+House to House,2018,2018,2018-07,MT,45076,7,Malta
+House to House,2018,2018,2018-07,DK,41143,8,Denmark
+House to House,2018,2018,2018-07,US,38167,9,United States
+House to House,2018,2018,2018-07,TW,36116,10,Taiwan
+House to House,2018,2018,2018-08,HK,192676,1,Hong Kong
+House to House,2018,2018,2018-08,PA,158432,2,Panama
+House to House,2018,2018,2018-08,LR,136460,3,Liberia
+House to House,2018,2018,2018-08,SG,102939,4,Singapore
+House to House,2018,2018,2018-08,GB,59192,5,United Kingdom
+House to House,2018,2018,2018-08,DE,57339,6,Germany
+House to House,2018,2018,2018-08,MT,50450,7,Malta
+House to House,2018,2018,2018-08,PT,43063,8,Portugal
+House to House,2018,2018,2018-08,MH,34947,9,Marshall Islands
+House to House,2018,2018,2018-08,US,34809,10,United States
+House to House,2018,2018,2018-09,HK,202914,1,Hong Kong
+House to House,2018,2018,2018-09,PA,191549,2,Panama
+House to House,2018,2018,2018-09,LR,118947,3,Liberia
+House to House,2018,2018,2018-09,SG,113412,4,Singapore
+House to House,2018,2018,2018-09,GB,59164,5,United Kingdom
+House to House,2018,2018,2018-09,MT,44401,6,Malta
+House to House,2018,2018,2018-09,DE,39933,7,Germany
+House to House,2018,2018,2018-09,US,31256,8,United States
+House to House,2018,2018,2018-09,TW,28714,9,Taiwan
+House to House,2018,2018,2018-09,DK,25322,10,Denmark
+House to House,2018,2018,2018-10,PA,217703,1,Panama
+House to House,2018,2018,2018-10,HK,209683,2,Hong Kong
+House to House,2018,2018,2018-10,LR,145403,3,Liberia
+House to House,2018,2018,2018-10,SG,96509,4,Singapore
+House to House,2018,2018,2018-10,GB,83791,5,United Kingdom
+House to House,2018,2018,2018-10,DE,54409,6,Germany
+House to House,2018,2018,2018-10,PT,42111,7,Portugal
+House to House,2018,2018,2018-10,MT,40972,8,Malta
+House to House,2018,2018,2018-10,DK,33060,9,Denmark
+House to House,2018,2018,2018-10,TW,31473,10,Taiwan
+House to House,2018,2018,2018-11,HK,198865,1,Hong Kong
+House to House,2018,2018,2018-11,PA,182797,2,Panama
+House to House,2018,2018,2018-11,LR,125795,3,Liberia
+House to House,2018,2018,2018-11,GB,79717,4,United Kingdom
+House to House,2018,2018,2018-11,SG,78954,5,Singapore
+House to House,2018,2018,2018-11,MT,47089,6,Malta
+House to House,2018,2018,2018-11,DE,41141,7,Germany
+House to House,2018,2018,2018-11,DK,35546,8,Denmark
+House to House,2018,2018,2018-11,PT,32856,9,Portugal
+House to House,2018,2018,2018-11,US,29400,10,United States
+House to House,2018,2018,2018-12,PA,200416,1,Panama
+House to House,2018,2018,2018-12,HK,195709,2,Hong Kong
+House to House,2018,2018,2018-12,LR,127059,3,Liberia
+House to House,2018,2018,2018-12,SG,115241,4,Singapore
+House to House,2018,2018,2018-12,GB,67766,5,United Kingdom
+House to House,2018,2018,2018-12,MT,44460,6,Malta
+House to House,2018,2018,2018-12,DE,40677,7,Germany
+House to House,2018,2018,2018-12,PT,38824,8,Portugal
+House to House,2018,2018,2018-12,DK,37155,9,Denmark
+House to House,2018,2018,2018-12,TW,28454,10,Taiwan
+House to House,2019,2019,2019-01,HK,209388,1,Hong Kong
+House to House,2019,2019,2019-01,PA,183420,2,Panama
+House to House,2019,2019,2019-01,LR,133976,3,Liberia
+House to House,2019,2019,2019-01,SG,83810,4,Singapore
+House to House,2019,2019,2019-01,GB,69993,5,United Kingdom
+House to House,2019,2019,2019-01,DE,61886,6,Germany
+House to House,2019,2019,2019-01,MT,43205,7,Malta
+House to House,2019,2019,2019-01,PT,39269,8,Portugal
+House to House,2019,2019,2019-01,MH,32773,9,Marshall Islands
+House to House,2019,2019,2019-01,DK,27895,10,Denmark
+House to House,2019,2019,2019-02,PA,183562,1,Panama
+House to House,2019,2019,2019-02,HK,155914,2,Hong Kong
+House to House,2019,2019,2019-02,LR,99982,3,Liberia
+House to House,2019,2019,2019-02,SG,78069,4,Singapore
+House to House,2019,2019,2019-02,GB,58743,5,United Kingdom
+House to House,2019,2019,2019-02,MT,58589,6,Malta
+House to House,2019,2019,2019-02,DK,34673,7,Denmark
+House to House,2019,2019,2019-02,DE,33599,8,Germany
+House to House,2019,2019,2019-02,PT,31702,9,Portugal
+House to House,2019,2019,2019-02,US,28420,10,United States
+House to House,2019,2019,2019-03,HK,161778,1,Hong Kong
+House to House,2019,2019,2019-03,PA,150404,2,Panama
+House to House,2019,2019,2019-03,LR,123289,3,Liberia
+House to House,2019,2019,2019-03,GB,55626,4,United Kingdom
+House to House,2019,2019,2019-03,SG,53430,5,Singapore
+House to House,2019,2019,2019-03,MT,51999,6,Malta
+House to House,2019,2019,2019-03,DE,44856,7,Germany
+House to House,2019,2019,2019-03,PT,35393,8,Portugal
+House to House,2019,2019,2019-03,DK,32707,9,Denmark
+House to House,2019,2019,2019-03,US,28664,10,United States
+House to House,2019,2019,2019-04,PA,200619,1,Panama
+House to House,2019,2019,2019-04,HK,181785,2,Hong Kong
+House to House,2019,2019,2019-04,LR,152116,3,Liberia
+House to House,2019,2019,2019-04,SG,85339,4,Singapore
+House to House,2019,2019,2019-04,MT,51242,5,Malta
+House to House,2019,2019,2019-04,GB,51047,6,United Kingdom
+House to House,2019,2019,2019-04,DE,39308,7,Germany
+House to House,2019,2019,2019-04,US,30971,8,United States
+House to House,2019,2019,2019-04,PT,30017,9,Portugal
+House to House,2019,2019,2019-04,MH,24525,10,Marshall Islands
+House to House,2019,2019,2019-05,PA,195860,1,Panama
+House to House,2019,2019,2019-05,HK,194030,2,Hong Kong
+House to House,2019,2019,2019-05,LR,143104,3,Liberia
+House to House,2019,2019,2019-05,SG,90171,4,Singapore
+House to House,2019,2019,2019-05,MT,55369,5,Malta
+House to House,2019,2019,2019-05,GB,55178,6,United Kingdom
+House to House,2019,2019,2019-05,DE,52323,7,Germany
+House to House,2019,2019,2019-05,PT,51162,8,Portugal
+House to House,2019,2019,2019-05,US,28844,9,United States
+House to House,2019,2019,2019-05,DK,27317,10,Denmark
+House to House,2019,2019,2019-06,HK,194253,1,Hong Kong
+House to House,2019,2019,2019-06,PA,165721,2,Panama
+House to House,2019,2019,2019-06,LR,138894,3,Liberia
+House to House,2019,2019,2019-06,SG,96349,4,Singapore
+House to House,2019,2019,2019-06,DE,59624,5,Germany
+House to House,2019,2019,2019-06,GB,49038,6,United Kingdom
+House to House,2019,2019,2019-06,MT,45346,7,Malta
+House to House,2019,2019,2019-06,US,30113,8,United States
+House to House,2019,2019,2019-06,PT,27816,9,Portugal
+House to House,2019,2019,2019-06,MH,25974,10,Marshall Islands
+House to House,2019,2019,2019-07,HK,220921,1,Hong Kong
+House to House,2019,2019,2019-07,PA,187763,2,Panama
+House to House,2019,2019,2019-07,LR,157144,3,Liberia
+House to House,2019,2019,2019-07,SG,102695,4,Singapore
+House to House,2019,2019,2019-07,DE,58796,5,Germany
+House to House,2019,2019,2019-07,GB,55637,6,United Kingdom
+House to House,2019,2019,2019-07,MT,38892,7,Malta
+House to House,2019,2019,2019-07,TW,37323,8,Taiwan
+House to House,2019,2019,2019-07,FR,32186,9,France
+House to House,2019,2019,2019-07,PT,32166,10,Portugal
+House to House,2019,2019,2019-08,HK,193334,1,Hong Kong
+House to House,2019,2019,2019-08,PA,175155,2,Panama
+House to House,2019,2019,2019-08,LR,150639,3,Liberia
+House to House,2019,2019,2019-08,SG,101303,4,Singapore
+House to House,2019,2019,2019-08,GB,56145,5,United Kingdom
+House to House,2019,2019,2019-08,DE,54266,6,Germany
+House to House,2019,2019,2019-08,MT,51783,7,Malta
+House to House,2019,2019,2019-08,PT,31956,8,Portugal
+House to House,2019,2019,2019-08,MH,28357,9,Marshall Islands
+House to House,2019,2019,2019-08,US,27433,10,United States
+House to House,2019,2019,2019-09,HK,188936,1,Hong Kong
+House to House,2019,2019,2019-09,PA,144833,2,Panama
+House to House,2019,2019,2019-09,LR,143713,3,Liberia
+House to House,2019,2019,2019-09,SG,80211,4,Singapore
+House to House,2019,2019,2019-09,GB,65967,5,United Kingdom
+House to House,2019,2019,2019-09,DE,52917,6,Germany
+House to House,2019,2019,2019-09,MT,36193,7,Malta
+House to House,2019,2019,2019-09,PT,34078,8,Portugal
+House to House,2019,2019,2019-09,MH,27353,9,Marshall Islands
+House to House,2019,2019,2019-09,TW,23950,10,Taiwan
+House to House,2019,2019,2019-10,HK,195280,1,Hong Kong
+House to House,2019,2019,2019-10,PA,165260,2,Panama
+House to House,2019,2019,2019-10,LR,147288,3,Liberia
+House to House,2019,2019,2019-10,SG,90784,4,Singapore
+House to House,2019,2019,2019-10,DE,61234,5,Germany
+House to House,2019,2019,2019-10,GB,54240,6,United Kingdom
+House to House,2019,2019,2019-10,PT,44481,7,Portugal
+House to House,2019,2019,2019-10,MT,42083,8,Malta
+House to House,2019,2019,2019-10,TW,36322,9,Taiwan
+House to House,2019,2019,2019-10,US,28378,10,United States
+House to House,2019,2019,2019-11,HK,156287,1,Hong Kong
+House to House,2019,2019,2019-11,LR,137851,2,Liberia
+House to House,2019,2019,2019-11,PA,134917,3,Panama
+House to House,2019,2019,2019-11,SG,81015,4,Singapore
+House to House,2019,2019,2019-11,DE,52347,5,Germany
+House to House,2019,2019,2019-11,GB,47987,6,United Kingdom
+House to House,2019,2019,2019-11,MT,37090,7,Malta
+House to House,2019,2019,2019-11,PT,31334,8,Portugal
+House to House,2019,2019,2019-11,TW,28923,9,Taiwan
+House to House,2019,2019,2019-11,MH,28790,10,Marshall Islands
+House to House,2019,2019,2019-12,HK,168917,1,Hong Kong
+House to House,2019,2019,2019-12,PA,136384,2,Panama
+House to House,2019,2019,2019-12,LR,135761,3,Liberia
+House to House,2019,2019,2019-12,SG,92961,4,Singapore
+House to House,2019,2019,2019-12,MT,47290,5,Malta
+House to House,2019,2019,2019-12,DE,42426,6,Germany
+House to House,2019,2019,2019-12,GB,39015,7,United Kingdom
+House to House,2019,2019,2019-12,PT,26992,8,Portugal
+House to House,2019,2019,2019-12,MH,25388,9,Marshall Islands
+House to House,2019,2019,2019-12,DK,25241,10,Denmark
+House to House,2020,2020,2020-01,HK,188456,1,Hong Kong
+House to House,2020,2020,2020-01,PA,138354,2,Panama
+House to House,2020,2020,2020-01,LR,122335,3,Liberia
+House to House,2020,2020,2020-01,SG,77629,4,Singapore
+House to House,2020,2020,2020-01,GB,62927,5,United Kingdom
+House to House,2020,2020,2020-01,DE,56429,6,Germany
+House to House,2020,2020,2020-01,MT,38855,7,Malta
+House to House,2020,2020,2020-01,PT,31559,8,Portugal
+House to House,2020,2020,2020-01,TW,27468,9,Taiwan
+House to House,2020,2020,2020-01,MH,26861,10,Marshall Islands
+House to House,2020,2020,2020-02,HK,154107,1,Hong Kong
+House to House,2020,2020,2020-02,PA,135007,2,Panama
+House to House,2020,2020,2020-02,LR,132743,3,Liberia
+House to House,2020,2020,2020-02,SG,61606,4,Singapore
+House to House,2020,2020,2020-02,MT,51641,5,Malta
+House to House,2020,2020,2020-02,DE,41425,6,Germany
+House to House,2020,2020,2020-02,GB,37337,7,United Kingdom
+House to House,2020,2020,2020-02,PT,29434,8,Portugal
+House to House,2020,2020,2020-02,MH,26182,9,Marshall Islands
+House to House,2020,2020,2020-02,US,24006,10,United States
+House to House,2020,2020,2020-03,PA,164578,1,Panama
+House to House,2020,2020,2020-03,LR,148927,2,Liberia
+House to House,2020,2020,2020-03,HK,104132,3,Hong Kong
+House to House,2020,2020,2020-03,SG,67287,4,Singapore
+House to House,2020,2020,2020-03,DE,61936,5,Germany
+House to House,2020,2020,2020-03,MT,42503,6,Malta
+House to House,2020,2020,2020-03,GB,31949,7,United Kingdom
+House to House,2020,2020,2020-03,US,27016,8,United States
+House to House,2020,2020,2020-03,PT,25195,9,Portugal
+House to House,2020,2020,2020-03,FR,24704,10,France
+House to House,2020,2020,2020-04,HK,170692,1,Hong Kong
+House to House,2020,2020,2020-04,LR,158658,2,Liberia
+House to House,2020,2020,2020-04,PA,133961,3,Panama
+House to House,2020,2020,2020-04,SG,75297,4,Singapore
+House to House,2020,2020,2020-04,GB,62884,5,United Kingdom
+House to House,2020,2020,2020-04,MT,41923,6,Malta
+House to House,2020,2020,2020-04,DK,32867,7,Denmark
+House to House,2020,2020,2020-04,DE,32726,8,Germany
+House to House,2020,2020,2020-04,PT,29363,9,Portugal
+House to House,2020,2020,2020-04,TW,27459,10,Taiwan
+House to House,2020,2020,2020-05,HK,161661,1,Hong Kong
+House to House,2020,2020,2020-05,LR,137052,2,Liberia
+House to House,2020,2020,2020-05,PA,128344,3,Panama
+House to House,2020,2020,2020-05,SG,81374,4,Singapore
+House to House,2020,2020,2020-05,MT,36557,5,Malta
+House to House,2020,2020,2020-05,DE,30524,6,Germany
+House to House,2020,2020,2020-05,GB,30421,7,United Kingdom
+House to House,2020,2020,2020-05,US,23827,8,United States
+House to House,2020,2020,2020-05,MH,19419,9,Marshall Islands
+House to House,2020,2020,2020-05,TW,16866,10,Taiwan
+House to House,2020,2020,2020-06,HK,197339,1,Hong Kong
+House to House,2020,2020,2020-06,PA,154990,2,Panama
+House to House,2020,2020,2020-06,LR,120920,3,Liberia
+House to House,2020,2020,2020-06,SG,53152,4,Singapore
+House to House,2020,2020,2020-06,GB,44880,5,United Kingdom
+House to House,2020,2020,2020-06,DE,42020,6,Germany
+House to House,2020,2020,2020-06,DK,37690,7,Denmark
+House to House,2020,2020,2020-06,PT,37195,8,Portugal
+House to House,2020,2020,2020-06,MT,35391,9,Malta
+House to House,2020,2020,2020-06,US,23937,10,United States
+House to House,2020,2020,2020-07,HK,210097,1,Hong Kong
+House to House,2020,2020,2020-07,PA,171327,2,Panama
+House to House,2020,2020,2020-07,LR,145586,3,Liberia
+House to House,2020,2020,2020-07,SG,78320,4,Singapore
+House to House,2020,2020,2020-07,MT,70036,5,Malta
+House to House,2020,2020,2020-07,GB,50858,6,United Kingdom
+House to House,2020,2020,2020-07,DK,40721,7,Denmark
+House to House,2020,2020,2020-07,MH,40134,8,Marshall Islands
+House to House,2020,2020,2020-07,DE,34936,9,Germany
+House to House,2020,2020,2020-07,US,30096,10,United States
+House to House,2020,2020,2020-08,HK,222306,1,Hong Kong
+House to House,2020,2020,2020-08,PA,202597,2,Panama
+House to House,2020,2020,2020-08,LR,176545,3,Liberia
+House to House,2020,2020,2020-08,SG,85799,4,Singapore
+House to House,2020,2020,2020-08,DE,64729,5,Germany
+House to House,2020,2020,2020-08,GB,55192,6,United Kingdom
+House to House,2020,2020,2020-08,MT,53738,7,Malta
+House to House,2020,2020,2020-08,US,52065,8,United States
+House to House,2020,2020,2020-08,MH,45808,9,Marshall Islands
+House to House,2020,2020,2020-08,PT,37602,10,Portugal
+House to House,2020,2020,2020-09,PA,195300,1,Panama
+House to House,2020,2020,2020-09,HK,189229,2,Hong Kong
+House to House,2020,2020,2020-09,LR,158943,3,Liberia
+House to House,2020,2020,2020-09,SG,77083,4,Singapore
+House to House,2020,2020,2020-09,MT,44770,5,Malta
+House to House,2020,2020,2020-09,PT,44715,6,Portugal
+House to House,2020,2020,2020-09,US,43993,7,United States
+House to House,2020,2020,2020-09,GB,40667,8,United Kingdom
+House to House,2020,2020,2020-09,DK,31292,9,Denmark
+House to House,2020,2020,2020-09,MH,29164,10,Marshall Islands
+House to Pier,2018,2018,2018-01,LR,5325,1,Liberia
+House to Pier,2018,2018,2018-01,HK,3373,2,Hong Kong
+House to Pier,2018,2018,2018-01,PT,3350,3,Portugal
+House to Pier,2018,2018,2018-01,PA,2301,4,Panama
+House to Pier,2018,2018,2018-01,DE,2288,5,Germany
+House to Pier,2018,2018,2018-01,MT,1705,6,Malta
+House to Pier,2018,2018,2018-01,SG,1210,7,Singapore
+House to Pier,2018,2018,2018-01,GB,796,8,United Kingdom
+House to Pier,2018,2018,2018-01,CY,775,9,Cyprus
+House to Pier,2018,2018,2018-01,US,518,10,United States
+House to Pier,2018,2018,2018-02,LR,5540,1,Liberia
+House to Pier,2018,2018,2018-02,PA,5068,2,Panama
+House to Pier,2018,2018,2018-02,HK,2878,3,Hong Kong
+House to Pier,2018,2018,2018-02,PT,2473,4,Portugal
+House to Pier,2018,2018,2018-02,MT,2324,5,Malta
+House to Pier,2018,2018,2018-02,DE,2175,6,Germany
+House to Pier,2018,2018,2018-02,SG,1516,7,Singapore
+House to Pier,2018,2018,2018-02,GB,1420,8,United Kingdom
+House to Pier,2018,2018,2018-02,MH,820,9,Marshall Islands
+House to Pier,2018,2018,2018-02,US,669,10,United States
+House to Pier,2018,2018,2018-03,LR,5852,1,Liberia
+House to Pier,2018,2018,2018-03,PT,4227,2,Portugal
+House to Pier,2018,2018,2018-03,HK,3655,3,Hong Kong
+House to Pier,2018,2018,2018-03,DE,2866,4,Germany
+House to Pier,2018,2018,2018-03,PA,2491,5,Panama
+House to Pier,2018,2018,2018-03,MT,2195,6,Malta
+House to Pier,2018,2018,2018-03,GB,1908,7,United Kingdom
+House to Pier,2018,2018,2018-03,SG,1435,8,Singapore
+House to Pier,2018,2018,2018-03,TW,954,9,Taiwan
+House to Pier,2018,2018,2018-03,CY,723,10,Cyprus
+House to Pier,2018,2018,2018-04,PA,6681,1,Panama
+House to Pier,2018,2018,2018-04,LR,6201,2,Liberia
+House to Pier,2018,2018,2018-04,HK,4360,3,Hong Kong
+House to Pier,2018,2018,2018-04,SG,2976,4,Singapore
+House to Pier,2018,2018,2018-04,MT,2847,5,Malta
+House to Pier,2018,2018,2018-04,PT,2595,6,Portugal
+House to Pier,2018,2018,2018-04,GB,1669,7,United Kingdom
+House to Pier,2018,2018,2018-04,TW,1202,8,Taiwan
+House to Pier,2018,2018,2018-04,DE,882,9,Germany
+House to Pier,2018,2018,2018-04,US,783,10,United States
+House to Pier,2018,2018,2018-05,HK,8192,1,Hong Kong
+House to Pier,2018,2018,2018-05,LR,4897,2,Liberia
+House to Pier,2018,2018,2018-05,PA,3995,3,Panama
+House to Pier,2018,2018,2018-05,GB,3232,4,United Kingdom
+House to Pier,2018,2018,2018-05,PT,2962,5,Portugal
+House to Pier,2018,2018,2018-05,SG,2139,6,Singapore
+House to Pier,2018,2018,2018-05,MT,2126,7,Malta
+House to Pier,2018,2018,2018-05,DE,1659,8,Germany
+House to Pier,2018,2018,2018-05,FR,1550,9,France
+House to Pier,2018,2018,2018-05,MH,1326,10,Marshall Islands
+House to Pier,2018,2018,2018-06,SG,5381,1,Singapore
+House to Pier,2018,2018,2018-06,HK,4829,2,Hong Kong
+House to Pier,2018,2018,2018-06,PA,4505,3,Panama
+House to Pier,2018,2018,2018-06,LR,4487,4,Liberia
+House to Pier,2018,2018,2018-06,GB,3427,5,United Kingdom
+House to Pier,2018,2018,2018-06,CY,2260,6,Cyprus
+House to Pier,2018,2018,2018-06,PT,2071,7,Portugal
+House to Pier,2018,2018,2018-06,MT,1663,8,Malta
+House to Pier,2018,2018,2018-06,DE,1269,9,Germany
+House to Pier,2018,2018,2018-06,TW,675,10,Taiwan
+House to Pier,2018,2018,2018-07,GB,6097,1,United Kingdom
+House to Pier,2018,2018,2018-07,PA,5390,2,Panama
+House to Pier,2018,2018,2018-07,LR,4329,3,Liberia
+House to Pier,2018,2018,2018-07,HK,3919,4,Hong Kong
+House to Pier,2018,2018,2018-07,SG,3133,5,Singapore
+House to Pier,2018,2018,2018-07,CY,2148,6,Cyprus
+House to Pier,2018,2018,2018-07,MT,2045,7,Malta
+House to Pier,2018,2018,2018-07,PT,1515,8,Portugal
+House to Pier,2018,2018,2018-07,DE,1467,9,Germany
+House to Pier,2018,2018,2018-07,US,765,10,United States
+House to Pier,2018,2018,2018-08,GB,7902,1,United Kingdom
+House to Pier,2018,2018,2018-08,HK,5387,2,Hong Kong
+House to Pier,2018,2018,2018-08,LR,5061,3,Liberia
+House to Pier,2018,2018,2018-08,SG,3542,4,Singapore
+House to Pier,2018,2018,2018-08,PA,3271,5,Panama
+House to Pier,2018,2018,2018-08,PT,2165,6,Portugal
+House to Pier,2018,2018,2018-08,MT,1885,7,Malta
+House to Pier,2018,2018,2018-08,MH,1364,8,Marshall Islands
+House to Pier,2018,2018,2018-08,DE,906,9,Germany
+House to Pier,2018,2018,2018-08,AG,832,10,Antigua and Barbuda
+House to Pier,2018,2018,2018-09,PA,5196,1,Panama
+House to Pier,2018,2018,2018-09,LR,4325,2,Liberia
+House to Pier,2018,2018,2018-09,HK,3956,3,Hong Kong
+House to Pier,2018,2018,2018-09,GB,3018,4,United Kingdom
+House to Pier,2018,2018,2018-09,SG,2516,5,Singapore
+House to Pier,2018,2018,2018-09,MT,2133,6,Malta
+House to Pier,2018,2018,2018-09,BS,1245,7,Bahamas
+House to Pier,2018,2018,2018-09,CY,968,8,Cyprus
+House to Pier,2018,2018,2018-09,PT,786,9,Portugal
+House to Pier,2018,2018,2018-09,DE,748,10,Germany
+House to Pier,2018,2018,2018-10,LR,4812,1,Liberia
+House to Pier,2018,2018,2018-10,HK,4805,2,Hong Kong
+House to Pier,2018,2018,2018-10,GB,3798,3,United Kingdom
+House to Pier,2018,2018,2018-10,PA,3760,4,Panama
+House to Pier,2018,2018,2018-10,SG,2509,5,Singapore
+House to Pier,2018,2018,2018-10,PT,1376,6,Portugal
+House to Pier,2018,2018,2018-10,MT,1046,7,Malta
+House to Pier,2018,2018,2018-10,CY,934,8,Cyprus
+House to Pier,2018,2018,2018-10,TW,857,9,Taiwan
+House to Pier,2018,2018,2018-10,DE,712,10,Germany
+House to Pier,2018,2018,2018-11,LR,4352,1,Liberia
+House to Pier,2018,2018,2018-11,PA,3822,2,Panama
+House to Pier,2018,2018,2018-11,HK,3662,3,Hong Kong
+House to Pier,2018,2018,2018-11,SG,3001,4,Singapore
+House to Pier,2018,2018,2018-11,GB,2433,5,United Kingdom
+House to Pier,2018,2018,2018-11,MT,1798,6,Malta
+House to Pier,2018,2018,2018-11,DE,1220,7,Germany
+House to Pier,2018,2018,2018-11,PT,678,8,Portugal
+House to Pier,2018,2018,2018-11,TW,652,9,Taiwan
+House to Pier,2018,2018,2018-11,US,617,10,United States
+House to Pier,2018,2018,2018-12,LR,5354,1,Liberia
+House to Pier,2018,2018,2018-12,HK,4708,2,Hong Kong
+House to Pier,2018,2018,2018-12,PA,3997,3,Panama
+House to Pier,2018,2018,2018-12,GB,2756,4,United Kingdom
+House to Pier,2018,2018,2018-12,SG,2529,5,Singapore
+House to Pier,2018,2018,2018-12,MT,1590,6,Malta
+House to Pier,2018,2018,2018-12,FR,1175,7,France
+House to Pier,2018,2018,2018-12,PT,968,8,Portugal
+House to Pier,2018,2018,2018-12,CY,771,9,Cyprus
+House to Pier,2018,2018,2018-12,DE,685,10,Germany
+House to Pier,2019,2019,2019-01,LR,7027,1,Liberia
+House to Pier,2019,2019,2019-01,HK,4019,2,Hong Kong
+House to Pier,2019,2019,2019-01,PA,3828,3,Panama
+House to Pier,2019,2019,2019-01,FR,2883,4,France
+House to Pier,2019,2019,2019-01,SG,2454,5,Singapore
+House to Pier,2019,2019,2019-01,DE,1589,6,Germany
+House to Pier,2019,2019,2019-01,CY,1133,7,Cyprus
+House to Pier,2019,2019,2019-01,GB,1004,8,United Kingdom
+House to Pier,2019,2019,2019-01,MT,865,9,Malta
+House to Pier,2019,2019,2019-01,PT,652,10,Portugal
+House to Pier,2019,2019,2019-02,HK,6121,1,Hong Kong
+House to Pier,2019,2019,2019-02,LR,4795,2,Liberia
+House to Pier,2019,2019,2019-02,PA,3655,3,Panama
+House to Pier,2019,2019,2019-02,SG,2316,4,Singapore
+House to Pier,2019,2019,2019-02,DE,1891,5,Germany
+House to Pier,2019,2019,2019-02,GB,1677,6,United Kingdom
+House to Pier,2019,2019,2019-02,FR,1321,7,France
+House to Pier,2019,2019,2019-02,MT,1202,8,Malta
+House to Pier,2019,2019,2019-02,PT,739,9,Portugal
+House to Pier,2019,2019,2019-02,TW,531,10,Taiwan
+House to Pier,2019,2019,2019-03,LR,7086,1,Liberia
+House to Pier,2019,2019,2019-03,HK,4088,2,Hong Kong
+House to Pier,2019,2019,2019-03,PA,4075,3,Panama
+House to Pier,2019,2019,2019-03,SG,2602,4,Singapore
+House to Pier,2019,2019,2019-03,MT,2328,5,Malta
+House to Pier,2019,2019,2019-03,GB,2230,6,United Kingdom
+House to Pier,2019,2019,2019-03,MH,2180,7,Marshall Islands
+House to Pier,2019,2019,2019-03,FR,1513,8,France
+House to Pier,2019,2019,2019-03,PT,1077,9,Portugal
+House to Pier,2019,2019,2019-03,DE,951,10,Germany
+House to Pier,2019,2019,2019-04,LR,7441,1,Liberia
+House to Pier,2019,2019,2019-04,HK,3963,2,Hong Kong
+House to Pier,2019,2019,2019-04,PA,3831,3,Panama
+House to Pier,2019,2019,2019-04,SG,3538,4,Singapore
+House to Pier,2019,2019,2019-04,FR,2770,5,France
+House to Pier,2019,2019,2019-04,MT,2562,6,Malta
+House to Pier,2019,2019,2019-04,DE,1447,7,Germany
+House to Pier,2019,2019,2019-04,CY,1311,8,Cyprus
+House to Pier,2019,2019,2019-04,GB,849,9,United Kingdom
+House to Pier,2019,2019,2019-04,TW,810,10,Taiwan
+House to Pier,2019,2019,2019-05,LR,6147,1,Liberia
+House to Pier,2019,2019,2019-05,HK,5374,2,Hong Kong
+House to Pier,2019,2019,2019-05,PA,3915,3,Panama
+House to Pier,2019,2019,2019-05,SG,3081,4,Singapore
+House to Pier,2019,2019,2019-05,MT,2864,5,Malta
+House to Pier,2019,2019,2019-05,FR,1761,6,France
+House to Pier,2019,2019,2019-05,DE,1573,7,Germany
+House to Pier,2019,2019,2019-05,CY,947,8,Cyprus
+House to Pier,2019,2019,2019-05,PT,887,9,Portugal
+House to Pier,2019,2019,2019-05,GB,763,10,United Kingdom
+House to Pier,2019,2019,2019-06,LR,5970,1,Liberia
+House to Pier,2019,2019,2019-06,HK,4279,2,Hong Kong
+House to Pier,2019,2019,2019-06,PA,3543,3,Panama
+House to Pier,2019,2019,2019-06,DE,3439,4,Germany
+House to Pier,2019,2019,2019-06,SG,3069,5,Singapore
+House to Pier,2019,2019,2019-06,MT,3053,6,Malta
+House to Pier,2019,2019,2019-06,FR,2185,7,France
+House to Pier,2019,2019,2019-06,GB,1117,8,United Kingdom
+House to Pier,2019,2019,2019-06,PT,710,9,Portugal
+House to Pier,2019,2019,2019-06,CY,588,10,Cyprus
+House to Pier,2019,2019,2019-07,LR,5905,1,Liberia
+House to Pier,2019,2019,2019-07,HK,4593,2,Hong Kong
+House to Pier,2019,2019,2019-07,DE,3503,3,Germany
+House to Pier,2019,2019,2019-07,MT,3481,4,Malta
+House to Pier,2019,2019,2019-07,FR,3160,5,France
+House to Pier,2019,2019,2019-07,SG,3090,6,Singapore
+House to Pier,2019,2019,2019-07,PA,2734,7,Panama
+House to Pier,2019,2019,2019-07,PT,1490,8,Portugal
+House to Pier,2019,2019,2019-07,CY,1399,9,Cyprus
+House to Pier,2019,2019,2019-07,GB,720,10,United Kingdom
+House to Pier,2019,2019,2019-08,PA,4163,1,Panama
+House to Pier,2019,2019,2019-08,HK,4160,2,Hong Kong
+House to Pier,2019,2019,2019-08,LR,4021,3,Liberia
+House to Pier,2019,2019,2019-08,DE,3810,4,Germany
+House to Pier,2019,2019,2019-08,SG,3484,5,Singapore
+House to Pier,2019,2019,2019-08,MT,3107,6,Malta
+House to Pier,2019,2019,2019-08,FR,1679,7,France
+House to Pier,2019,2019,2019-08,CY,846,8,Cyprus
+House to Pier,2019,2019,2019-08,PT,782,9,Portugal
+House to Pier,2019,2019,2019-08,GB,746,10,United Kingdom
+House to Pier,2019,2019,2019-09,HK,5079,1,Hong Kong
+House to Pier,2019,2019,2019-09,LR,3715,2,Liberia
+House to Pier,2019,2019,2019-09,DE,3499,3,Germany
+House to Pier,2019,2019,2019-09,PA,3068,4,Panama
+House to Pier,2019,2019,2019-09,FR,2477,5,France
+House to Pier,2019,2019,2019-09,SG,2357,6,Singapore
+House to Pier,2019,2019,2019-09,MT,2026,7,Malta
+House to Pier,2019,2019,2019-09,PT,1138,8,Portugal
+House to Pier,2019,2019,2019-09,GB,923,9,United Kingdom
+House to Pier,2019,2019,2019-09,MH,905,10,Marshall Islands
+House to Pier,2019,2019,2019-10,LR,4385,1,Liberia
+House to Pier,2019,2019,2019-10,DE,3502,2,Germany
+House to Pier,2019,2019,2019-10,HK,3304,3,Hong Kong
+House to Pier,2019,2019,2019-10,PA,3076,4,Panama
+House to Pier,2019,2019,2019-10,MT,2557,5,Malta
+House to Pier,2019,2019,2019-10,SG,2069,6,Singapore
+House to Pier,2019,2019,2019-10,FR,1895,7,France
+House to Pier,2019,2019,2019-10,PT,1193,8,Portugal
+House to Pier,2019,2019,2019-10,MH,821,9,Marshall Islands
+House to Pier,2019,2019,2019-10,TW,668,10,Taiwan
+House to Pier,2019,2019,2019-11,LR,3838,1,Liberia
+House to Pier,2019,2019,2019-11,HK,3431,2,Hong Kong
+House to Pier,2019,2019,2019-11,DE,3338,3,Germany
+House to Pier,2019,2019,2019-11,PA,2909,4,Panama
+House to Pier,2019,2019,2019-11,SG,2250,5,Singapore
+House to Pier,2019,2019,2019-11,MT,1979,6,Malta
+House to Pier,2019,2019,2019-11,FR,1825,7,France
+House to Pier,2019,2019,2019-11,PT,1142,8,Portugal
+House to Pier,2019,2019,2019-11,MH,937,9,Marshall Islands
+House to Pier,2019,2019,2019-11,CY,674,10,Cyprus
+House to Pier,2019,2019,2019-12,LR,5344,1,Liberia
+House to Pier,2019,2019,2019-12,HK,3302,2,Hong Kong
+House to Pier,2019,2019,2019-12,DE,3285,3,Germany
+House to Pier,2019,2019,2019-12,MT,2795,4,Malta
+House to Pier,2019,2019,2019-12,PA,2727,5,Panama
+House to Pier,2019,2019,2019-12,SG,2499,6,Singapore
+House to Pier,2019,2019,2019-12,FR,1667,7,France
+House to Pier,2019,2019,2019-12,PT,1496,8,Portugal
+House to Pier,2019,2019,2019-12,MH,914,9,Marshall Islands
+House to Pier,2019,2019,2019-12,GB,579,10,United Kingdom
+House to Pier,2020,2020,2020-01,LR,4861,1,Liberia
+House to Pier,2020,2020,2020-01,DE,2941,2,Germany
+House to Pier,2020,2020,2020-01,HK,2658,3,Hong Kong
+House to Pier,2020,2020,2020-01,PA,2508,4,Panama
+House to Pier,2020,2020,2020-01,MT,2411,5,Malta
+House to Pier,2020,2020,2020-01,FR,2294,6,France
+House to Pier,2020,2020,2020-01,SG,1067,7,Singapore
+House to Pier,2020,2020,2020-01,PT,922,8,Portugal
+House to Pier,2020,2020,2020-01,GB,770,9,United Kingdom
+House to Pier,2020,2020,2020-01,TW,438,10,Taiwan
+House to Pier,2020,2020,2020-02,LR,5274,1,Liberia
+House to Pier,2020,2020,2020-02,DE,3595,2,Germany
+House to Pier,2020,2020,2020-02,MT,3109,3,Malta
+House to Pier,2020,2020,2020-02,PA,2528,4,Panama
+House to Pier,2020,2020,2020-02,HK,2382,5,Hong Kong
+House to Pier,2020,2020,2020-02,PT,2031,6,Portugal
+House to Pier,2020,2020,2020-02,SG,1879,7,Singapore
+House to Pier,2020,2020,2020-02,GB,496,8,United Kingdom
+House to Pier,2020,2020,2020-02,MH,463,9,Marshall Islands
+House to Pier,2020,2020,2020-02,AG,447,10,Antigua and Barbuda
+House to Pier,2020,2020,2020-03,LR,7798,1,Liberia
+House to Pier,2020,2020,2020-03,DE,5486,2,Germany
+House to Pier,2020,2020,2020-03,PA,3666,3,Panama
+House to Pier,2020,2020,2020-03,MT,2322,4,Malta
+House to Pier,2020,2020,2020-03,HK,2286,5,Hong Kong
+House to Pier,2020,2020,2020-03,FR,2271,6,France
+House to Pier,2020,2020,2020-03,SG,1863,7,Singapore
+House to Pier,2020,2020,2020-03,PT,1811,8,Portugal
+House to Pier,2020,2020,2020-03,MH,957,9,Marshall Islands
+House to Pier,2020,2020,2020-03,GB,815,10,United Kingdom
+House to Pier,2020,2020,2020-04,LR,6059,1,Liberia
+House to Pier,2020,2020,2020-04,SG,3364,2,Singapore
+House to Pier,2020,2020,2020-04,FR,2679,3,France
+House to Pier,2020,2020,2020-04,DE,2528,4,Germany
+House to Pier,2020,2020,2020-04,PA,2433,5,Panama
+House to Pier,2020,2020,2020-04,MT,2266,6,Malta
+House to Pier,2020,2020,2020-04,HK,2198,7,Hong Kong
+House to Pier,2020,2020,2020-04,PT,1055,8,Portugal
+House to Pier,2020,2020,2020-04,MH,970,9,Marshall Islands
+House to Pier,2020,2020,2020-04,CY,576,10,Cyprus
+House to Pier,2020,2020,2020-05,LR,4854,1,Liberia
+House to Pier,2020,2020,2020-05,MT,2977,2,Malta
+House to Pier,2020,2020,2020-05,HK,2682,3,Hong Kong
+House to Pier,2020,2020,2020-05,DE,2628,4,Germany
+House to Pier,2020,2020,2020-05,PA,2331,5,Panama
+House to Pier,2020,2020,2020-05,SG,1521,6,Singapore
+House to Pier,2020,2020,2020-05,CY,1494,7,Cyprus
+House to Pier,2020,2020,2020-05,FR,1123,8,France
+House to Pier,2020,2020,2020-05,MH,932,9,Marshall Islands
+House to Pier,2020,2020,2020-05,PT,783,10,Portugal
+House to Pier,2020,2020,2020-06,LR,5497,1,Liberia
+House to Pier,2020,2020,2020-06,HK,3738,2,Hong Kong
+House to Pier,2020,2020,2020-06,DE,3251,3,Germany
+House to Pier,2020,2020,2020-06,MT,2254,4,Malta
+House to Pier,2020,2020,2020-06,PA,1998,5,Panama
+House to Pier,2020,2020,2020-06,SG,1956,6,Singapore
+House to Pier,2020,2020,2020-06,PT,1695,7,Portugal
+House to Pier,2020,2020,2020-06,MH,1173,8,Marshall Islands
+House to Pier,2020,2020,2020-06,FR,882,9,France
+House to Pier,2020,2020,2020-06,CY,739,10,Cyprus
+House to Pier,2020,2020,2020-07,LR,4617,1,Liberia
+House to Pier,2020,2020,2020-07,HK,3824,2,Hong Kong
+House to Pier,2020,2020,2020-07,MT,3634,3,Malta
+House to Pier,2020,2020,2020-07,PA,2254,4,Panama
+House to Pier,2020,2020,2020-07,MH,2165,5,Marshall Islands
+House to Pier,2020,2020,2020-07,PT,1920,6,Portugal
+House to Pier,2020,2020,2020-07,SG,1806,7,Singapore
+House to Pier,2020,2020,2020-07,DE,1757,8,Germany
+House to Pier,2020,2020,2020-07,FR,1582,9,France
+House to Pier,2020,2020,2020-07,CY,1021,10,Cyprus
+House to Pier,2020,2020,2020-08,LR,5678,1,Liberia
+House to Pier,2020,2020,2020-08,HK,4525,2,Hong Kong
+House to Pier,2020,2020,2020-08,PA,3755,3,Panama
+House to Pier,2020,2020,2020-08,DE,3224,4,Germany
+House to Pier,2020,2020,2020-08,MT,2651,5,Malta
+House to Pier,2020,2020,2020-08,SG,2241,6,Singapore
+House to Pier,2020,2020,2020-08,PT,1729,7,Portugal
+House to Pier,2020,2020,2020-08,MH,1479,8,Marshall Islands
+House to Pier,2020,2020,2020-08,US,790,9,United States
+House to Pier,2020,2020,2020-08,CY,608,10,Cyprus
+House to Pier,2020,2020,2020-09,LR,4795,1,Liberia
+House to Pier,2020,2020,2020-09,HK,4460,2,Hong Kong
+House to Pier,2020,2020,2020-09,PA,2298,3,Panama
+House to Pier,2020,2020,2020-09,MT,2287,4,Malta
+House to Pier,2020,2020,2020-09,SG,1671,5,Singapore
+House to Pier,2020,2020,2020-09,DE,1608,6,Germany
+House to Pier,2020,2020,2020-09,PT,1359,7,Portugal
+House to Pier,2020,2020,2020-09,MH,1126,8,Marshall Islands
+House to Pier,2020,2020,2020-09,FR,975,9,France
+House to Pier,2020,2020,2020-09,CY,871,10,Cyprus
+Mixed Delivery,2018,2018,2018-01,PA,18,1,Panama
+Mixed Delivery,2018,2018,2018-01,GB,17,2,United Kingdom
+Mixed Delivery,2018,2018,2018-01,LR,9,3,Liberia
+Mixed Delivery,2018,2018,2018-01,IT,5,4,Italy
+Mixed Delivery,2018,2018,2018-01,SG,5,5,Singapore
+Mixed Delivery,2018,2018,2018-01,MT,1,6,Malta
+Mixed Delivery,2018,2018,2018-01,TW,1,7,Taiwan
+Mixed Delivery,2018,2018,2018-01,PT,1,8,Portugal
+Mixed Delivery,2018,2018,2018-02,PA,20,1,Panama
+Mixed Delivery,2018,2018,2018-02,LR,10,2,Liberia
+Mixed Delivery,2018,2018,2018-02,PT,8,3,Portugal
+Mixed Delivery,2018,2018,2018-02,GB,6,4,United Kingdom
+Mixed Delivery,2018,2018,2018-02,MT,3,5,Malta
+Mixed Delivery,2018,2018,2018-02,HK,2,6,Hong Kong
+Mixed Delivery,2018,2018,2018-02,FR,1,7,France
+Mixed Delivery,2018,2018,2018-03,PA,34,1,Panama
+Mixed Delivery,2018,2018,2018-03,SG,8,2,Singapore
+Mixed Delivery,2018,2018,2018-03,PT,6,3,Portugal
+Mixed Delivery,2018,2018,2018-03,GB,5,4,United Kingdom
+Mixed Delivery,2018,2018,2018-03,HK,5,5,Hong Kong
+Mixed Delivery,2018,2018,2018-03,DE,4,6,Germany
+Mixed Delivery,2018,2018,2018-03,MT,2,7,Malta
+Mixed Delivery,2018,2018,2018-04,US,60,1,United States
+Mixed Delivery,2018,2018,2018-04,PA,44,2,Panama
+Mixed Delivery,2018,2018,2018-04,HK,22,3,Hong Kong
+Mixed Delivery,2018,2018,2018-04,GB,13,4,United Kingdom
+Mixed Delivery,2018,2018,2018-04,LR,7,5,Liberia
+Mixed Delivery,2018,2018,2018-04,SG,7,6,Singapore
+Mixed Delivery,2018,2018,2018-04,TW,3,7,Taiwan
+Mixed Delivery,2018,2018,2018-04,FR,2,8,France
+Mixed Delivery,2018,2018,2018-05,PA,19,1,Panama
+Mixed Delivery,2018,2018,2018-05,SG,9,2,Singapore
+Mixed Delivery,2018,2018,2018-05,MT,6,3,Malta
+Mixed Delivery,2018,2018,2018-05,CY,5,4,Cyprus
+Mixed Delivery,2018,2018,2018-05,TW,3,5,Taiwan
+Mixed Delivery,2018,2018,2018-05,LR,2,6,Liberia
+Mixed Delivery,2018,2018,2018-05,GB,2,7,United Kingdom
+Mixed Delivery,2018,2018,2018-06,CY,29,1,Cyprus
+Mixed Delivery,2018,2018,2018-06,PA,16,2,Panama
+Mixed Delivery,2018,2018,2018-06,LR,8,3,Liberia
+Mixed Delivery,2018,2018,2018-06,SG,7,4,Singapore
+Mixed Delivery,2018,2018,2018-06,HK,6,5,Hong Kong
+Mixed Delivery,2018,2018,2018-06,US,4,6,United States
+Mixed Delivery,2018,2018,2018-06,TW,1,7,Taiwan
+Mixed Delivery,2018,2018,2018-06,MT,1,8,Malta
+Mixed Delivery,2018,2018,2018-07,DE,26,1,Germany
+Mixed Delivery,2018,2018,2018-07,GB,14,2,United Kingdom
+Mixed Delivery,2018,2018,2018-07,LR,12,3,Liberia
+Mixed Delivery,2018,2018,2018-07,PA,11,4,Panama
+Mixed Delivery,2018,2018,2018-07,HK,8,5,Hong Kong
+Mixed Delivery,2018,2018,2018-07,FR,4,6,France
+Mixed Delivery,2018,2018,2018-07,SG,3,7,Singapore
+Mixed Delivery,2018,2018,2018-07,DK,3,8,Denmark
+Mixed Delivery,2018,2018,2018-08,PA,11,1,Panama
+Mixed Delivery,2018,2018,2018-08,PT,10,2,Portugal
+Mixed Delivery,2018,2018,2018-08,DK,8,3,Denmark
+Mixed Delivery,2018,2018,2018-08,SG,7,4,Singapore
+Mixed Delivery,2018,2018,2018-08,LR,5,5,Liberia
+Mixed Delivery,2018,2018,2018-08,HK,4,6,Hong Kong
+Mixed Delivery,2018,2018,2018-08,MT,2,7,Malta
+Mixed Delivery,2018,2018,2018-08,BM,1,8,Bermuda
+Mixed Delivery,2018,2018,2018-09,PA,25,1,Panama
+Mixed Delivery,2018,2018,2018-09,HK,17,2,Hong Kong
+Mixed Delivery,2018,2018,2018-09,MT,7,3,Malta
+Mixed Delivery,2018,2018,2018-09,DE,6,4,Germany
+Mixed Delivery,2018,2018,2018-09,US,4,5,United States
+Mixed Delivery,2018,2018,2018-09,GB,3,6,United Kingdom
+Mixed Delivery,2018,2018,2018-09,LR,2,7,Liberia
+Mixed Delivery,2018,2018,2018-10,PA,46,1,Panama
+Mixed Delivery,2018,2018,2018-10,US,41,2,United States
+Mixed Delivery,2018,2018,2018-10,SG,6,3,Singapore
+Mixed Delivery,2018,2018,2018-10,FR,6,4,France
+Mixed Delivery,2018,2018,2018-10,JP,4,5,Japan
+Mixed Delivery,2018,2018,2018-10,HK,3,6,Hong Kong
+Mixed Delivery,2018,2018,2018-11,US,49,1,United States
+Mixed Delivery,2018,2018,2018-11,PA,14,2,Panama
+Mixed Delivery,2018,2018,2018-11,FR,11,3,France
+Mixed Delivery,2018,2018,2018-11,AG,2,4,Antigua and Barbuda
+Mixed Delivery,2018,2018,2018-11,JP,2,5,Japan
+Mixed Delivery,2018,2018,2018-11,TW,2,6,Taiwan
+Mixed Delivery,2018,2018,2018-11,HK,2,7,Hong Kong
+Mixed Delivery,2018,2018,2018-11,MT,2,8,Malta
+Mixed Delivery,2018,2018,2018-11,GB,1,9,United Kingdom
+Mixed Delivery,2018,2018,2018-11,SG,1,10,Singapore
+Mixed Delivery,2018,2018,2018-12,PA,52,1,Panama
+Mixed Delivery,2018,2018,2018-12,US,37,2,United States
+Mixed Delivery,2018,2018,2018-12,MT,8,3,Malta
+Mixed Delivery,2018,2018,2018-12,HK,8,4,Hong Kong
+Mixed Delivery,2018,2018,2018-12,JP,6,5,Japan
+Mixed Delivery,2018,2018,2018-12,GB,2,6,United Kingdom
+Mixed Delivery,2018,2018,2018-12,LR,1,7,Liberia
+Mixed Delivery,2019,2019,2019-01,PA,6,1,Panama
+Mixed Delivery,2019,2019,2019-01,LR,4,2,Liberia
+Mixed Delivery,2019,2019,2019-01,DE,4,3,Germany
+Mixed Delivery,2019,2019,2019-01,MT,4,4,Malta
+Mixed Delivery,2019,2019,2019-01,US,3,5,United States
+Mixed Delivery,2019,2019,2019-01,HK,2,6,Hong Kong
+Mixed Delivery,2019,2019,2019-01,PT,1,7,Portugal
+Mixed Delivery,2019,2019,2019-02,PA,17,1,Panama
+Mixed Delivery,2019,2019,2019-02,HK,8,2,Hong Kong
+Mixed Delivery,2019,2019,2019-02,JP,8,3,Japan
+Mixed Delivery,2019,2019,2019-02,US,7,4,United States
+Mixed Delivery,2019,2019,2019-02,MT,6,5,Malta
+Mixed Delivery,2019,2019,2019-02,GB,2,6,United Kingdom
+Mixed Delivery,2019,2019,2019-02,PT,1,7,Portugal
+Mixed Delivery,2019,2019,2019-03,LR,12,1,Liberia
+Mixed Delivery,2019,2019,2019-03,SG,8,2,Singapore
+Mixed Delivery,2019,2019,2019-03,MH,8,3,Marshall Islands
+Mixed Delivery,2019,2019,2019-03,MT,8,4,Malta
+Mixed Delivery,2019,2019,2019-03,PA,8,5,Panama
+Mixed Delivery,2019,2019,2019-03,DE,3,6,Germany
+Mixed Delivery,2019,2019,2019-03,FR,2,7,France
+Mixed Delivery,2019,2019,2019-03,HK,1,8,Hong Kong
+Mixed Delivery,2019,2019,2019-04,MT,22,1,Malta
+Mixed Delivery,2019,2019,2019-04,SG,18,2,Singapore
+Mixed Delivery,2019,2019,2019-04,PA,8,3,Panama
+Mixed Delivery,2019,2019,2019-04,HK,5,4,Hong Kong
+Mixed Delivery,2019,2019,2019-04,JP,4,5,Japan
+Mixed Delivery,2019,2019,2019-04,LR,2,6,Liberia
+Mixed Delivery,2019,2019,2019-04,GB,2,7,United Kingdom
+Mixed Delivery,2019,2019,2019-05,FR,16,1,France
+Mixed Delivery,2019,2019,2019-05,DE,14,2,Germany
+Mixed Delivery,2019,2019,2019-05,PA,5,3,Panama
+Mixed Delivery,2019,2019,2019-05,LR,3,4,Liberia
+Mixed Delivery,2019,2019,2019-05,HK,2,5,Hong Kong
+Mixed Delivery,2019,2019,2019-05,GB,1,6,United Kingdom
+Mixed Delivery,2019,2019,2019-06,PA,20,1,Panama
+Mixed Delivery,2019,2019,2019-06,JP,16,2,Japan
+Mixed Delivery,2019,2019,2019-06,MH,10,3,Marshall Islands
+Mixed Delivery,2019,2019,2019-06,LR,2,4,Liberia
+Mixed Delivery,2019,2019,2019-07,PA,14,1,Panama
+Mixed Delivery,2019,2019,2019-07,FR,8,2,France
+Mixed Delivery,2019,2019,2019-07,SG,4,3,Singapore
+Mixed Delivery,2019,2019,2019-07,HK,3,4,Hong Kong
+Mixed Delivery,2019,2019,2019-07,LR,2,5,Liberia
+Mixed Delivery,2019,2019,2019-07,GB,1,6,United Kingdom
+Mixed Delivery,2019,2019,2019-08,GB,6,1,United Kingdom
+Mixed Delivery,2019,2019,2019-08,SG,1,2,Singapore
+Mixed Delivery,2019,2019,2019-08,PA,1,3,Panama
+Mixed Delivery,2019,2019,2019-09,PA,29,1,Panama
+Mixed Delivery,2019,2019,2019-09,DE,2,2,Germany
+Mixed Delivery,2019,2019,2019-09,HK,2,3,Hong Kong
+Mixed Delivery,2019,2019,2019-10,PA,12,1,Panama
+Mixed Delivery,2019,2019,2019-10,HK,4,2,Hong Kong
+Mixed Delivery,2019,2019,2019-10,GB,3,3,United Kingdom
+Mixed Delivery,2019,2019,2019-10,US,2,4,United States
+Mixed Delivery,2019,2019,2019-10,TW,2,5,Taiwan
+Mixed Delivery,2019,2019,2019-11,PA,7,1,Panama
+Mixed Delivery,2019,2019,2019-11,DE,6,2,Germany
+Mixed Delivery,2019,2019,2019-11,LR,2,3,Liberia
+Mixed Delivery,2019,2019,2019-11,GB,2,4,United Kingdom
+Mixed Delivery,2019,2019,2019-11,HK,1,5,Hong Kong
+Mixed Delivery,2019,2019,2019-11,MH,1,6,Marshall Islands
+Mixed Delivery,2019,2019,2019-12,PA,18,1,Panama
+Mixed Delivery,2019,2019,2019-12,HK,10,2,Hong Kong
+Mixed Delivery,2019,2019,2019-12,MT,4,3,Malta
+Mixed Delivery,2019,2019,2019-12,LR,2,4,Liberia
+Mixed Delivery,2019,2019,2019-12,GB,1,5,United Kingdom
+Mixed Delivery,2019,2019,2019-12,SG,1,6,Singapore
+Mixed Delivery,2020,2020,2020-01,JP,20,1,Japan
+Mixed Delivery,2020,2020,2020-01,PA,8,2,Panama
+Mixed Delivery,2020,2020,2020-01,HK,5,3,Hong Kong
+Mixed Delivery,2020,2020,2020-01,GB,3,4,United Kingdom
+Mixed Delivery,2020,2020,2020-01,SG,3,5,Singapore
+Mixed Delivery,2020,2020,2020-01,TW,2,6,Taiwan
+Mixed Delivery,2020,2020,2020-01,DE,2,7,Germany
+Mixed Delivery,2020,2020,2020-01,FR,1,8,France
+Mixed Delivery,2020,2020,2020-02,PA,36,1,Panama
+Mixed Delivery,2020,2020,2020-02,MH,6,2,Marshall Islands
+Mixed Delivery,2020,2020,2020-02,GB,2,3,United Kingdom
+Mixed Delivery,2020,2020,2020-02,HK,2,4,Hong Kong
+Mixed Delivery,2020,2020,2020-02,SG,2,5,Singapore
+Mixed Delivery,2020,2020,2020-02,FR,2,6,France
+Mixed Delivery,2020,2020,2020-02,MT,2,7,Malta
+Mixed Delivery,2020,2020,2020-02,DE,2,8,Germany
+Mixed Delivery,2020,2020,2020-02,PT,1,9,Portugal
+Mixed Delivery,2020,2020,2020-03,US,33,1,United States
+Mixed Delivery,2020,2020,2020-03,DE,12,2,Germany
+Mixed Delivery,2020,2020,2020-03,LR,10,3,Liberia
+Mixed Delivery,2020,2020,2020-03,MT,8,4,Malta
+Mixed Delivery,2020,2020,2020-03,PA,4,5,Panama
+Mixed Delivery,2020,2020,2020-03,SG,2,6,Singapore
+Mixed Delivery,2020,2020,2020-03,GB,2,7,United Kingdom
+Mixed Delivery,2020,2020,2020-03,HK,2,8,Hong Kong
+Mixed Delivery,2020,2020,2020-04,PA,36,1,Panama
+Mixed Delivery,2020,2020,2020-04,FR,17,2,France
+Mixed Delivery,2020,2020,2020-04,LR,7,3,Liberia
+Mixed Delivery,2020,2020,2020-04,MT,6,4,Malta
+Mixed Delivery,2020,2020,2020-05,US,19,1,United States
+Mixed Delivery,2020,2020,2020-05,PA,9,2,Panama
+Mixed Delivery,2020,2020,2020-05,DE,6,3,Germany
+Mixed Delivery,2020,2020,2020-05,HK,5,4,Hong Kong
+Mixed Delivery,2020,2020,2020-05,LR,2,5,Liberia
+Mixed Delivery,2020,2020,2020-06,SG,6,1,Singapore
+Mixed Delivery,2020,2020,2020-06,HK,6,2,Hong Kong
+Mixed Delivery,2020,2020,2020-06,LR,5,3,Liberia
+Mixed Delivery,2020,2020,2020-06,PA,2,4,Panama
+Mixed Delivery,2020,2020,2020-06,FR,2,5,France
+Mixed Delivery,2020,2020,2020-07,SG,6,1,Singapore
+Mixed Delivery,2020,2020,2020-07,PA,6,2,Panama
+Mixed Delivery,2020,2020,2020-07,HK,4,3,Hong Kong
+Mixed Delivery,2020,2020,2020-07,LR,3,4,Liberia
+Mixed Delivery,2020,2020,2020-07,GB,1,5,United Kingdom
+Mixed Delivery,2020,2020,2020-07,GR,1,6,Greece
+Mixed Delivery,2020,2020,2020-08,LR,22,1,Liberia
+Mixed Delivery,2020,2020,2020-08,PA,7,2,Panama
+Mixed Delivery,2020,2020,2020-08,HK,3,3,Hong Kong
+Mixed Delivery,2020,2020,2020-08,MT,2,4,Malta
+Mixed Delivery,2020,2020,2020-08,TW,2,5,Taiwan
+Mixed Delivery,2020,2020,2020-08,MH,2,6,Marshall Islands
+Mixed Delivery,2020,2020,2020-08,DE,2,7,Germany
+Mixed Delivery,2020,2020,2020-09,FR,12,1,France
+Mixed Delivery,2020,2020,2020-09,PA,6,2,Panama
+Mixed Delivery,2020,2020,2020-09,LR,5,3,Liberia
+Mixed Delivery,2020,2020,2020-09,MT,4,4,Malta
+Mixed Delivery,2020,2020,2020-09,SG,3,5,Singapore
+Mixed Delivery,2020,2020,2020-09,HK,3,6,Hong Kong
+Mixed Delivery,2020,2020,2020-09,TW,3,7,Taiwan
+Mixed Delivery,2020,2020,2020-09,PT,1,8,Portugal
+Non Containerized,2018,2018,2018-01,US,1505,1,United States
+Non Containerized,2018,2018,2018-01,PA,553,2,Panama
+Non Containerized,2018,2018,2018-01,MH,165,3,Marshall Islands
+Non Containerized,2018,2018,2018-01,MT,144,4,Malta
+Non Containerized,2018,2018,2018-01,SG,137,5,Singapore
+Non Containerized,2018,2018,2018-01,LR,76,6,Liberia
+Non Containerized,2018,2018,2018-01,BM,64,7,Bermuda
+Non Containerized,2018,2018,2018-01,GR,52,8,Greece
+Non Containerized,2018,2018,2018-01,BS,39,9,Bahamas
+Non Containerized,2018,2018,2018-01,NO,38,10,Norway
+Non Containerized,2018,2018,2018-02,US,1224,1,United States
+Non Containerized,2018,2018,2018-02,MH,513,2,Marshall Islands
+Non Containerized,2018,2018,2018-02,GB,354,3,United Kingdom
+Non Containerized,2018,2018,2018-02,PA,163,4,Panama
+Non Containerized,2018,2018,2018-02,HK,158,5,Hong Kong
+Non Containerized,2018,2018,2018-02,VU,93,6,Vanuatu
+Non Containerized,2018,2018,2018-02,NL,78,7,Netherlands
+Non Containerized,2018,2018,2018-02,SG,67,8,Singapore
+Non Containerized,2018,2018,2018-02,LR,56,9,Liberia
+Non Containerized,2018,2018,2018-02,GR,50,10,Greece
+Non Containerized,2018,2018,2018-03,US,1930,1,United States
+Non Containerized,2018,2018,2018-03,PA,438,2,Panama
+Non Containerized,2018,2018,2018-03,VU,189,3,Vanuatu
+Non Containerized,2018,2018,2018-03,LR,185,4,Liberia
+Non Containerized,2018,2018,2018-03,MH,175,5,Marshall Islands
+Non Containerized,2018,2018,2018-03,MT,166,6,Malta
+Non Containerized,2018,2018,2018-03,BS,97,7,Bahamas
+Non Containerized,2018,2018,2018-03,BM,90,8,Bermuda
+Non Containerized,2018,2018,2018-03,GR,63,9,Greece
+Non Containerized,2018,2018,2018-03,SG,52,10,Singapore
+Non Containerized,2018,2018,2018-04,US,2398,1,United States
+Non Containerized,2018,2018,2018-04,PA,469,2,Panama
+Non Containerized,2018,2018,2018-04,BS,161,3,Bahamas
+Non Containerized,2018,2018,2018-04,MH,153,4,Marshall Islands
+Non Containerized,2018,2018,2018-04,MT,119,5,Malta
+Non Containerized,2018,2018,2018-04,GR,83,6,Greece
+Non Containerized,2018,2018,2018-04,LR,81,7,Liberia
+Non Containerized,2018,2018,2018-04,HK,63,8,Hong Kong
+Non Containerized,2018,2018,2018-04,SG,58,9,Singapore
+Non Containerized,2018,2018,2018-04,NL,41,10,Netherlands
+Non Containerized,2018,2018,2018-05,US,2661,1,United States
+Non Containerized,2018,2018,2018-05,PA,881,2,Panama
+Non Containerized,2018,2018,2018-05,MH,190,3,Marshall Islands
+Non Containerized,2018,2018,2018-05,LR,124,4,Liberia
+Non Containerized,2018,2018,2018-05,KR,102,5,South Korea
+Non Containerized,2018,2018,2018-05,MT,76,6,Malta
+Non Containerized,2018,2018,2018-05,BM,70,7,Bermuda
+Non Containerized,2018,2018,2018-05,BS,63,8,Bahamas
+Non Containerized,2018,2018,2018-05,GR,61,9,Greece
+Non Containerized,2018,2018,2018-05,SG,51,10,Singapore
+Non Containerized,2018,2018,2018-06,US,2576,1,United States
+Non Containerized,2018,2018,2018-06,PA,626,2,Panama
+Non Containerized,2018,2018,2018-06,NO,95,3,Norway
+Non Containerized,2018,2018,2018-06,MH,75,4,Marshall Islands
+Non Containerized,2018,2018,2018-06,HK,66,5,Hong Kong
+Non Containerized,2018,2018,2018-06,LR,65,6,Liberia
+Non Containerized,2018,2018,2018-06,SG,60,7,Singapore
+Non Containerized,2018,2018,2018-06,BM,52,8,Bermuda
+Non Containerized,2018,2018,2018-06,BS,47,9,Bahamas
+Non Containerized,2018,2018,2018-06,MT,45,10,Malta
+Non Containerized,2018,2018,2018-07,US,2110,1,United States
+Non Containerized,2018,2018,2018-07,GB,418,2,United Kingdom
+Non Containerized,2018,2018,2018-07,MT,240,3,Malta
+Non Containerized,2018,2018,2018-07,PA,227,4,Panama
+Non Containerized,2018,2018,2018-07,SG,214,5,Singapore
+Non Containerized,2018,2018,2018-07,MH,206,6,Marshall Islands
+Non Containerized,2018,2018,2018-07,HK,120,7,Hong Kong
+Non Containerized,2018,2018,2018-07,BS,87,8,Bahamas
+Non Containerized,2018,2018,2018-07,LR,82,9,Liberia
+Non Containerized,2018,2018,2018-07,GR,59,10,Greece
+Non Containerized,2018,2018,2018-08,US,2280,1,United States
+Non Containerized,2018,2018,2018-08,PA,548,2,Panama
+Non Containerized,2018,2018,2018-08,MH,275,3,Marshall Islands
+Non Containerized,2018,2018,2018-08,GB,220,4,United Kingdom
+Non Containerized,2018,2018,2018-08,BS,90,5,Bahamas
+Non Containerized,2018,2018,2018-08,MT,90,6,Malta
+Non Containerized,2018,2018,2018-08,GR,76,7,Greece
+Non Containerized,2018,2018,2018-08,LR,66,8,Liberia
+Non Containerized,2018,2018,2018-08,SG,64,9,Singapore
+Non Containerized,2018,2018,2018-08,CN,60,10,China
+Non Containerized,2018,2018,2018-09,US,1929,1,United States
+Non Containerized,2018,2018,2018-09,PA,304,2,Panama
+Non Containerized,2018,2018,2018-09,MH,154,3,Marshall Islands
+Non Containerized,2018,2018,2018-09,BS,97,4,Bahamas
+Non Containerized,2018,2018,2018-09,GR,90,5,Greece
+Non Containerized,2018,2018,2018-09,SG,64,6,Singapore
+Non Containerized,2018,2018,2018-09,LR,55,7,Liberia
+Non Containerized,2018,2018,2018-09,BM,49,8,Bermuda
+Non Containerized,2018,2018,2018-09,CA,30,9,Canada
+Non Containerized,2018,2018,2018-09,NL,28,10,Netherlands
+Non Containerized,2018,2018,2018-10,US,3184,1,United States
+Non Containerized,2018,2018,2018-10,PA,528,2,Panama
+Non Containerized,2018,2018,2018-10,MH,337,3,Marshall Islands
+Non Containerized,2018,2018,2018-10,GR,111,4,Greece
+Non Containerized,2018,2018,2018-10,MT,85,5,Malta
+Non Containerized,2018,2018,2018-10,LR,82,6,Liberia
+Non Containerized,2018,2018,2018-10,BS,73,7,Bahamas
+Non Containerized,2018,2018,2018-10,SG,42,8,Singapore
+Non Containerized,2018,2018,2018-10,GB,36,9,United Kingdom
+Non Containerized,2018,2018,2018-10,CA,35,10,Canada
+Non Containerized,2018,2018,2018-11,US,2280,1,United States
+Non Containerized,2018,2018,2018-11,PA,558,2,Panama
+Non Containerized,2018,2018,2018-11,CN,214,3,China
+Non Containerized,2018,2018,2018-11,BS,201,4,Bahamas
+Non Containerized,2018,2018,2018-11,MH,96,5,Marshall Islands
+Non Containerized,2018,2018,2018-11,MT,93,6,Malta
+Non Containerized,2018,2018,2018-11,GR,55,7,Greece
+Non Containerized,2018,2018,2018-11,SG,54,8,Singapore
+Non Containerized,2018,2018,2018-11,LR,38,9,Liberia
+Non Containerized,2018,2018,2018-11,GB,30,10,United Kingdom
+Non Containerized,2018,2018,2018-12,US,2276,1,United States
+Non Containerized,2018,2018,2018-12,PA,288,2,Panama
+Non Containerized,2018,2018,2018-12,MH,261,3,Marshall Islands
+Non Containerized,2018,2018,2018-12,BS,160,4,Bahamas
+Non Containerized,2018,2018,2018-12,VU,106,5,Vanuatu
+Non Containerized,2018,2018,2018-12,MT,63,6,Malta
+Non Containerized,2018,2018,2018-12,SG,59,7,Singapore
+Non Containerized,2018,2018,2018-12,BM,55,8,Bermuda
+Non Containerized,2018,2018,2018-12,LR,53,9,Liberia
+Non Containerized,2018,2018,2018-12,GR,38,10,Greece
+Non Containerized,2019,2019,2019-01,US,1942,1,United States
+Non Containerized,2019,2019,2019-01,PA,438,2,Panama
+Non Containerized,2019,2019,2019-01,BS,158,3,Bahamas
+Non Containerized,2019,2019,2019-01,GB,97,4,United Kingdom
+Non Containerized,2019,2019,2019-01,MT,68,5,Malta
+Non Containerized,2019,2019,2019-01,LR,67,6,Liberia
+Non Containerized,2019,2019,2019-01,MH,67,7,Marshall Islands
+Non Containerized,2019,2019,2019-01,SG,63,8,Singapore
+Non Containerized,2019,2019,2019-01,BM,60,9,Bermuda
+Non Containerized,2019,2019,2019-01,NL,52,10,Netherlands
+Non Containerized,2019,2019,2019-02,US,2051,1,United States
+Non Containerized,2019,2019,2019-02,PA,598,2,Panama
+Non Containerized,2019,2019,2019-02,LR,87,3,Liberia
+Non Containerized,2019,2019,2019-02,MH,75,4,Marshall Islands
+Non Containerized,2019,2019,2019-02,BM,63,5,Bermuda
+Non Containerized,2019,2019,2019-02,SG,54,6,Singapore
+Non Containerized,2019,2019,2019-02,MT,48,7,Malta
+Non Containerized,2019,2019,2019-02,BS,44,8,Bahamas
+Non Containerized,2019,2019,2019-02,GB,41,9,United Kingdom
+Non Containerized,2019,2019,2019-02,AN,41,10,
+Non Containerized,2019,2019,2019-03,US,1755,1,United States
+Non Containerized,2019,2019,2019-03,PA,596,2,Panama
+Non Containerized,2019,2019,2019-03,MH,134,3,Marshall Islands
+Non Containerized,2019,2019,2019-03,BS,109,4,Bahamas
+Non Containerized,2019,2019,2019-03,BM,94,5,Bermuda
+Non Containerized,2019,2019,2019-03,SG,79,6,Singapore
+Non Containerized,2019,2019,2019-03,LR,78,7,Liberia
+Non Containerized,2019,2019,2019-03,VU,44,8,Vanuatu
+Non Containerized,2019,2019,2019-03,NL,44,9,Netherlands
+Non Containerized,2019,2019,2019-03,GB,38,10,United Kingdom
+Non Containerized,2019,2019,2019-04,US,2378,1,United States
+Non Containerized,2019,2019,2019-04,PA,482,2,Panama
+Non Containerized,2019,2019,2019-04,MH,244,3,Marshall Islands
+Non Containerized,2019,2019,2019-04,HK,93,4,Hong Kong
+Non Containerized,2019,2019,2019-04,SG,73,5,Singapore
+Non Containerized,2019,2019,2019-04,NL,61,6,Netherlands
+Non Containerized,2019,2019,2019-04,BS,52,7,Bahamas
+Non Containerized,2019,2019,2019-04,LR,43,8,Liberia
+Non Containerized,2019,2019,2019-04,MT,42,9,Malta
+Non Containerized,2019,2019,2019-04,VU,41,10,Vanuatu
+Non Containerized,2019,2019,2019-05,US,2769,1,United States
+Non Containerized,2019,2019,2019-05,PA,567,2,Panama
+Non Containerized,2019,2019,2019-05,GB,217,3,United Kingdom
+Non Containerized,2019,2019,2019-05,MH,166,4,Marshall Islands
+Non Containerized,2019,2019,2019-05,LR,165,5,Liberia
+Non Containerized,2019,2019,2019-05,BS,82,6,Bahamas
+Non Containerized,2019,2019,2019-05,MT,71,7,Malta
+Non Containerized,2019,2019,2019-05,PT,53,8,Portugal
+Non Containerized,2019,2019,2019-05,SG,52,9,Singapore
+Non Containerized,2019,2019,2019-05,NL,48,10,Netherlands
+Non Containerized,2019,2019,2019-06,US,2394,1,United States
+Non Containerized,2019,2019,2019-06,PA,416,2,Panama
+Non Containerized,2019,2019,2019-06,LR,272,3,Liberia
+Non Containerized,2019,2019,2019-06,GB,164,4,United Kingdom
+Non Containerized,2019,2019,2019-06,MH,163,5,Marshall Islands
+Non Containerized,2019,2019,2019-06,SG,92,6,Singapore
+Non Containerized,2019,2019,2019-06,GR,76,7,Greece
+Non Containerized,2019,2019,2019-06,BS,75,8,Bahamas
+Non Containerized,2019,2019,2019-06,MT,62,9,Malta
+Non Containerized,2019,2019,2019-06,NL,49,10,Netherlands
+Non Containerized,2019,2019,2019-07,US,2339,1,United States
+Non Containerized,2019,2019,2019-07,PA,362,2,Panama
+Non Containerized,2019,2019,2019-07,HK,258,3,Hong Kong
+Non Containerized,2019,2019,2019-07,MH,228,4,Marshall Islands
+Non Containerized,2019,2019,2019-07,JP,163,5,Japan
+Non Containerized,2019,2019,2019-07,MT,86,6,Malta
+Non Containerized,2019,2019,2019-07,LR,86,7,Liberia
+Non Containerized,2019,2019,2019-07,SG,64,8,Singapore
+Non Containerized,2019,2019,2019-07,BS,58,9,Bahamas
+Non Containerized,2019,2019,2019-07,GR,48,10,Greece
+Non Containerized,2019,2019,2019-08,US,3483,1,United States
+Non Containerized,2019,2019,2019-08,PA,726,2,Panama
+Non Containerized,2019,2019,2019-08,BS,119,3,Bahamas
+Non Containerized,2019,2019,2019-08,VU,115,4,Vanuatu
+Non Containerized,2019,2019,2019-08,MT,86,5,Malta
+Non Containerized,2019,2019,2019-08,MH,76,6,Marshall Islands
+Non Containerized,2019,2019,2019-08,LR,66,7,Liberia
+Non Containerized,2019,2019,2019-08,GR,59,8,Greece
+Non Containerized,2019,2019,2019-08,SG,47,9,Singapore
+Non Containerized,2019,2019,2019-08,NL,40,10,Netherlands
+Non Containerized,2019,2019,2019-09,US,1154,1,United States
+Non Containerized,2019,2019,2019-09,PA,589,2,Panama
+Non Containerized,2019,2019,2019-09,LR,173,3,Liberia
+Non Containerized,2019,2019,2019-09,MH,130,4,Marshall Islands
+Non Containerized,2019,2019,2019-09,NL,66,5,Netherlands
+Non Containerized,2019,2019,2019-09,SG,50,6,Singapore
+Non Containerized,2019,2019,2019-09,GB,49,7,United Kingdom
+Non Containerized,2019,2019,2019-09,BS,46,8,Bahamas
+Non Containerized,2019,2019,2019-09,KR,29,9,South Korea
+Non Containerized,2019,2019,2019-09,HK,26,10,Hong Kong
+Non Containerized,2019,2019,2019-10,US,1634,1,United States
+Non Containerized,2019,2019,2019-10,PA,542,2,Panama
+Non Containerized,2019,2019,2019-10,LR,191,3,Liberia
+Non Containerized,2019,2019,2019-10,MH,138,4,Marshall Islands
+Non Containerized,2019,2019,2019-10,VU,88,5,Vanuatu
+Non Containerized,2019,2019,2019-10,MT,80,6,Malta
+Non Containerized,2019,2019,2019-10,BS,55,7,Bahamas
+Non Containerized,2019,2019,2019-10,BM,53,8,Bermuda
+Non Containerized,2019,2019,2019-10,SG,45,9,Singapore
+Non Containerized,2019,2019,2019-10,NL,34,10,Netherlands
+Non Containerized,2019,2019,2019-11,US,1862,1,United States
+Non Containerized,2019,2019,2019-11,PA,871,2,Panama
+Non Containerized,2019,2019,2019-11,NO,185,3,Norway
+Non Containerized,2019,2019,2019-11,LR,170,4,Liberia
+Non Containerized,2019,2019,2019-11,MH,139,5,Marshall Islands
+Non Containerized,2019,2019,2019-11,JP,123,6,Japan
+Non Containerized,2019,2019,2019-11,BS,91,7,Bahamas
+Non Containerized,2019,2019,2019-11,SG,72,8,Singapore
+Non Containerized,2019,2019,2019-11,BM,68,9,Bermuda
+Non Containerized,2019,2019,2019-11,NL,50,10,Netherlands
+Non Containerized,2019,2019,2019-12,US,2101,1,United States
+Non Containerized,2019,2019,2019-12,PA,612,2,Panama
+Non Containerized,2019,2019,2019-12,BS,179,3,Bahamas
+Non Containerized,2019,2019,2019-12,SG,135,4,Singapore
+Non Containerized,2019,2019,2019-12,MH,91,5,Marshall Islands
+Non Containerized,2019,2019,2019-12,LR,89,6,Liberia
+Non Containerized,2019,2019,2019-12,BM,57,7,Bermuda
+Non Containerized,2019,2019,2019-12,MT,53,8,Malta
+Non Containerized,2019,2019,2019-12,NL,38,9,Netherlands
+Non Containerized,2019,2019,2019-12,PT,31,10,Portugal
+Non Containerized,2020,2020,2020-01,US,2080,1,United States
+Non Containerized,2020,2020,2020-01,PA,539,2,Panama
+Non Containerized,2020,2020,2020-01,BS,177,3,Bahamas
+Non Containerized,2020,2020,2020-01,HK,159,4,Hong Kong
+Non Containerized,2020,2020,2020-01,LR,153,5,Liberia
+Non Containerized,2020,2020,2020-01,MT,122,6,Malta
+Non Containerized,2020,2020,2020-01,MH,97,7,Marshall Islands
+Non Containerized,2020,2020,2020-01,JP,74,8,Japan
+Non Containerized,2020,2020,2020-01,BM,71,9,Bermuda
+Non Containerized,2020,2020,2020-01,SG,70,10,Singapore
+Non Containerized,2020,2020,2020-02,US,1809,1,United States
+Non Containerized,2020,2020,2020-02,PA,875,2,Panama
+Non Containerized,2020,2020,2020-02,MH,367,3,Marshall Islands
+Non Containerized,2020,2020,2020-02,JP,142,4,Japan
+Non Containerized,2020,2020,2020-02,LR,113,5,Liberia
+Non Containerized,2020,2020,2020-02,MT,105,6,Malta
+Non Containerized,2020,2020,2020-02,SG,101,7,Singapore
+Non Containerized,2020,2020,2020-02,HK,89,8,Hong Kong
+Non Containerized,2020,2020,2020-02,BM,87,9,Bermuda
+Non Containerized,2020,2020,2020-02,BS,73,10,Bahamas
+Non Containerized,2020,2020,2020-03,US,1711,1,United States
+Non Containerized,2020,2020,2020-03,PA,772,2,Panama
+Non Containerized,2020,2020,2020-03,LR,193,3,Liberia
+Non Containerized,2020,2020,2020-03,BS,149,4,Bahamas
+Non Containerized,2020,2020,2020-03,IT,129,5,Italy
+Non Containerized,2020,2020,2020-03,JP,100,6,Japan
+Non Containerized,2020,2020,2020-03,MH,88,7,Marshall Islands
+Non Containerized,2020,2020,2020-03,MT,79,8,Malta
+Non Containerized,2020,2020,2020-03,HK,73,9,Hong Kong
+Non Containerized,2020,2020,2020-03,BM,62,10,Bermuda
+Non Containerized,2020,2020,2020-04,US,1281,1,United States
+Non Containerized,2020,2020,2020-04,PA,885,2,Panama
+Non Containerized,2020,2020,2020-04,JP,248,3,Japan
+Non Containerized,2020,2020,2020-04,MH,137,4,Marshall Islands
+Non Containerized,2020,2020,2020-04,MT,114,5,Malta
+Non Containerized,2020,2020,2020-04,SG,81,6,Singapore
+Non Containerized,2020,2020,2020-04,NL,67,7,Netherlands
+Non Containerized,2020,2020,2020-04,LR,60,8,Liberia
+Non Containerized,2020,2020,2020-04,BS,37,9,Bahamas
+Non Containerized,2020,2020,2020-04,GB,21,10,United Kingdom
+Non Containerized,2020,2020,2020-05,US,1016,1,United States
+Non Containerized,2020,2020,2020-05,PA,812,2,Panama
+Non Containerized,2020,2020,2020-05,MT,146,3,Malta
+Non Containerized,2020,2020,2020-05,SG,90,4,Singapore
+Non Containerized,2020,2020,2020-05,JP,85,5,Japan
+Non Containerized,2020,2020,2020-05,VU,79,6,Vanuatu
+Non Containerized,2020,2020,2020-05,MH,67,7,Marshall Islands
+Non Containerized,2020,2020,2020-05,BS,60,8,Bahamas
+Non Containerized,2020,2020,2020-05,LR,54,9,Liberia
+Non Containerized,2020,2020,2020-05,IT,48,10,Italy
+Non Containerized,2020,2020,2020-06,US,1026,1,United States
+Non Containerized,2020,2020,2020-06,PA,578,2,Panama
+Non Containerized,2020,2020,2020-06,BS,253,3,Bahamas
+Non Containerized,2020,2020,2020-06,MH,180,4,Marshall Islands
+Non Containerized,2020,2020,2020-06,SG,168,5,Singapore
+Non Containerized,2020,2020,2020-06,IT,64,6,Italy
+Non Containerized,2020,2020,2020-06,LR,54,7,Liberia
+Non Containerized,2020,2020,2020-06,KY,21,8,Cayman Islands
+Non Containerized,2020,2020,2020-06,GR,19,9,Greece
+Non Containerized,2020,2020,2020-06,GB,19,10,United Kingdom
+Non Containerized,2020,2020,2020-07,US,1641,1,United States
+Non Containerized,2020,2020,2020-07,PA,645,2,Panama
+Non Containerized,2020,2020,2020-07,SG,183,3,Singapore
+Non Containerized,2020,2020,2020-07,LR,171,4,Liberia
+Non Containerized,2020,2020,2020-07,MH,95,5,Marshall Islands
+Non Containerized,2020,2020,2020-07,MT,49,6,Malta
+Non Containerized,2020,2020,2020-07,BS,41,7,Bahamas
+Non Containerized,2020,2020,2020-07,GR,34,8,Greece
+Non Containerized,2020,2020,2020-07,JP,26,9,Japan
+Non Containerized,2020,2020,2020-07,CA,18,10,Canada
+Non Containerized,2020,2020,2020-08,US,1697,1,United States
+Non Containerized,2020,2020,2020-08,PA,948,2,Panama
+Non Containerized,2020,2020,2020-08,JP,776,3,Japan
+Non Containerized,2020,2020,2020-08,MH,387,4,Marshall Islands
+Non Containerized,2020,2020,2020-08,LR,222,5,Liberia
+Non Containerized,2020,2020,2020-08,BS,124,6,Bahamas
+Non Containerized,2020,2020,2020-08,CA,30,7,Canada
+Non Containerized,2020,2020,2020-08,KR,25,8,South Korea
+Non Containerized,2020,2020,2020-08,MT,24,9,Malta
+Non Containerized,2020,2020,2020-08,CY,20,10,Cyprus
+Non Containerized,2020,2020,2020-09,US,1273,1,United States
+Non Containerized,2020,2020,2020-09,PA,663,2,Panama
+Non Containerized,2020,2020,2020-09,SG,115,3,Singapore
+Non Containerized,2020,2020,2020-09,LR,81,4,Liberia
+Non Containerized,2020,2020,2020-09,IT,74,5,Italy
+Non Containerized,2020,2020,2020-09,MH,62,6,Marshall Islands
+Non Containerized,2020,2020,2020-09,JP,50,7,Japan
+Non Containerized,2020,2020,2020-09,CA,22,8,Canada
+Non Containerized,2020,2020,2020-09,MT,15,9,Malta
+Non Containerized,2020,2020,2020-09,BS,15,10,Bahamas
+Pier to House,2018,2018,2018-01,PA,14246,1,Panama
+Pier to House,2018,2018,2018-01,LR,13797,2,Liberia
+Pier to House,2018,2018,2018-01,HK,8171,3,Hong Kong
+Pier to House,2018,2018,2018-01,GB,6507,4,United Kingdom
+Pier to House,2018,2018,2018-01,SG,5908,5,Singapore
+Pier to House,2018,2018,2018-01,MH,5128,6,Marshall Islands
+Pier to House,2018,2018,2018-01,PT,3454,7,Portugal
+Pier to House,2018,2018,2018-01,DK,2915,8,Denmark
+Pier to House,2018,2018,2018-01,CY,2892,9,Cyprus
+Pier to House,2018,2018,2018-01,MT,2639,10,Malta
+Pier to House,2018,2018,2018-02,LR,14539,1,Liberia
+Pier to House,2018,2018,2018-02,PA,11953,2,Panama
+Pier to House,2018,2018,2018-02,SG,8084,3,Singapore
+Pier to House,2018,2018,2018-02,HK,6865,4,Hong Kong
+Pier to House,2018,2018,2018-02,GB,6336,5,United Kingdom
+Pier to House,2018,2018,2018-02,DK,3927,6,Denmark
+Pier to House,2018,2018,2018-02,MH,3788,7,Marshall Islands
+Pier to House,2018,2018,2018-02,DE,3540,8,Germany
+Pier to House,2018,2018,2018-02,MT,3356,9,Malta
+Pier to House,2018,2018,2018-02,CY,2495,10,Cyprus
+Pier to House,2018,2018,2018-03,LR,15966,1,Liberia
+Pier to House,2018,2018,2018-03,PA,11592,2,Panama
+Pier to House,2018,2018,2018-03,SG,6601,3,Singapore
+Pier to House,2018,2018,2018-03,HK,6344,4,Hong Kong
+Pier to House,2018,2018,2018-03,MH,5768,5,Marshall Islands
+Pier to House,2018,2018,2018-03,DE,4729,6,Germany
+Pier to House,2018,2018,2018-03,PT,4092,7,Portugal
+Pier to House,2018,2018,2018-03,MT,3914,8,Malta
+Pier to House,2018,2018,2018-03,GB,3062,9,United Kingdom
+Pier to House,2018,2018,2018-03,CY,2271,10,Cyprus
+Pier to House,2018,2018,2018-04,PA,19080,1,Panama
+Pier to House,2018,2018,2018-04,LR,14125,2,Liberia
+Pier to House,2018,2018,2018-04,HK,8413,3,Hong Kong
+Pier to House,2018,2018,2018-04,SG,8297,4,Singapore
+Pier to House,2018,2018,2018-04,GB,5430,5,United Kingdom
+Pier to House,2018,2018,2018-04,MH,4679,6,Marshall Islands
+Pier to House,2018,2018,2018-04,PT,4089,7,Portugal
+Pier to House,2018,2018,2018-04,DE,3911,8,Germany
+Pier to House,2018,2018,2018-04,DK,2910,9,Denmark
+Pier to House,2018,2018,2018-04,CY,2904,10,Cyprus
+Pier to House,2018,2018,2018-05,PA,24645,1,Panama
+Pier to House,2018,2018,2018-05,LR,23373,2,Liberia
+Pier to House,2018,2018,2018-05,HK,11235,3,Hong Kong
+Pier to House,2018,2018,2018-05,SG,10210,4,Singapore
+Pier to House,2018,2018,2018-05,MH,7061,5,Marshall Islands
+Pier to House,2018,2018,2018-05,GB,6430,6,United Kingdom
+Pier to House,2018,2018,2018-05,DE,5550,7,Germany
+Pier to House,2018,2018,2018-05,MT,4670,8,Malta
+Pier to House,2018,2018,2018-05,DK,3590,9,Denmark
+Pier to House,2018,2018,2018-05,PT,2825,10,Portugal
+Pier to House,2018,2018,2018-06,PA,23141,1,Panama
+Pier to House,2018,2018,2018-06,LR,16532,2,Liberia
+Pier to House,2018,2018,2018-06,HK,11627,3,Hong Kong
+Pier to House,2018,2018,2018-06,SG,9163,4,Singapore
+Pier to House,2018,2018,2018-06,MH,8720,5,Marshall Islands
+Pier to House,2018,2018,2018-06,MT,5553,6,Malta
+Pier to House,2018,2018,2018-06,GB,4530,7,United Kingdom
+Pier to House,2018,2018,2018-06,DE,4102,8,Germany
+Pier to House,2018,2018,2018-06,DK,3606,9,Denmark
+Pier to House,2018,2018,2018-06,TW,3493,10,Taiwan
+Pier to House,2018,2018,2018-07,PA,22409,1,Panama
+Pier to House,2018,2018,2018-07,LR,16929,2,Liberia
+Pier to House,2018,2018,2018-07,HK,10487,3,Hong Kong
+Pier to House,2018,2018,2018-07,SG,9233,4,Singapore
+Pier to House,2018,2018,2018-07,MH,7700,5,Marshall Islands
+Pier to House,2018,2018,2018-07,GB,6720,6,United Kingdom
+Pier to House,2018,2018,2018-07,DE,5149,7,Germany
+Pier to House,2018,2018,2018-07,DK,3843,8,Denmark
+Pier to House,2018,2018,2018-07,CY,3722,9,Cyprus
+Pier to House,2018,2018,2018-07,MT,3556,10,Malta
+Pier to House,2018,2018,2018-08,PA,20920,1,Panama
+Pier to House,2018,2018,2018-08,LR,19076,2,Liberia
+Pier to House,2018,2018,2018-08,SG,9810,3,Singapore
+Pier to House,2018,2018,2018-08,HK,9633,4,Hong Kong
+Pier to House,2018,2018,2018-08,MH,9385,5,Marshall Islands
+Pier to House,2018,2018,2018-08,DE,6089,6,Germany
+Pier to House,2018,2018,2018-08,GB,4552,7,United Kingdom
+Pier to House,2018,2018,2018-08,MT,4041,8,Malta
+Pier to House,2018,2018,2018-08,DK,3732,9,Denmark
+Pier to House,2018,2018,2018-08,TW,2131,10,Taiwan
+Pier to House,2018,2018,2018-09,PA,24601,1,Panama
+Pier to House,2018,2018,2018-09,LR,14120,2,Liberia
+Pier to House,2018,2018,2018-09,HK,9283,3,Hong Kong
+Pier to House,2018,2018,2018-09,MH,8300,4,Marshall Islands
+Pier to House,2018,2018,2018-09,SG,7945,5,Singapore
+Pier to House,2018,2018,2018-09,GB,5773,6,United Kingdom
+Pier to House,2018,2018,2018-09,DE,5090,7,Germany
+Pier to House,2018,2018,2018-09,MT,3870,8,Malta
+Pier to House,2018,2018,2018-09,JP,2877,9,Japan
+Pier to House,2018,2018,2018-09,DK,2856,10,Denmark
+Pier to House,2018,2018,2018-10,PA,23524,1,Panama
+Pier to House,2018,2018,2018-10,LR,18602,2,Liberia
+Pier to House,2018,2018,2018-10,HK,11218,3,Hong Kong
+Pier to House,2018,2018,2018-10,SG,10942,4,Singapore
+Pier to House,2018,2018,2018-10,MH,8856,5,Marshall Islands
+Pier to House,2018,2018,2018-10,GB,5354,6,United Kingdom
+Pier to House,2018,2018,2018-10,DE,5063,7,Germany
+Pier to House,2018,2018,2018-10,DK,3878,8,Denmark
+Pier to House,2018,2018,2018-10,MT,3469,9,Malta
+Pier to House,2018,2018,2018-10,TW,2808,10,Taiwan
+Pier to House,2018,2018,2018-11,PA,20416,1,Panama
+Pier to House,2018,2018,2018-11,LR,13970,2,Liberia
+Pier to House,2018,2018,2018-11,HK,10797,3,Hong Kong
+Pier to House,2018,2018,2018-11,MH,9017,4,Marshall Islands
+Pier to House,2018,2018,2018-11,SG,7063,5,Singapore
+Pier to House,2018,2018,2018-11,GB,6892,6,United Kingdom
+Pier to House,2018,2018,2018-11,DK,5254,7,Denmark
+Pier to House,2018,2018,2018-11,DE,4064,8,Germany
+Pier to House,2018,2018,2018-11,MT,3156,9,Malta
+Pier to House,2018,2018,2018-11,JP,2417,10,Japan
+Pier to House,2018,2018,2018-12,PA,26619,1,Panama
+Pier to House,2018,2018,2018-12,SG,13682,2,Singapore
+Pier to House,2018,2018,2018-12,LR,13188,3,Liberia
+Pier to House,2018,2018,2018-12,HK,9385,4,Hong Kong
+Pier to House,2018,2018,2018-12,MH,7970,5,Marshall Islands
+Pier to House,2018,2018,2018-12,GB,7953,6,United Kingdom
+Pier to House,2018,2018,2018-12,US,6192,7,United States
+Pier to House,2018,2018,2018-12,DK,4882,8,Denmark
+Pier to House,2018,2018,2018-12,MT,4853,9,Malta
+Pier to House,2018,2018,2018-12,DE,3033,10,Germany
+Pier to House,2019,2019,2019-01,PA,20021,1,Panama
+Pier to House,2019,2019,2019-01,LR,19373,2,Liberia
+Pier to House,2019,2019,2019-01,HK,13445,3,Hong Kong
+Pier to House,2019,2019,2019-01,MH,12443,4,Marshall Islands
+Pier to House,2019,2019,2019-01,SG,10588,5,Singapore
+Pier to House,2019,2019,2019-01,DE,6631,6,Germany
+Pier to House,2019,2019,2019-01,GB,6289,7,United Kingdom
+Pier to House,2019,2019,2019-01,MT,4685,8,Malta
+Pier to House,2019,2019,2019-01,DK,4640,9,Denmark
+Pier to House,2019,2019,2019-01,US,3790,10,United States
+Pier to House,2019,2019,2019-02,PA,22097,1,Panama
+Pier to House,2019,2019,2019-02,LR,16620,2,Liberia
+Pier to House,2019,2019,2019-02,HK,10387,3,Hong Kong
+Pier to House,2019,2019,2019-02,SG,10083,4,Singapore
+Pier to House,2019,2019,2019-02,GB,7055,5,United Kingdom
+Pier to House,2019,2019,2019-02,DE,5312,6,Germany
+Pier to House,2019,2019,2019-02,DK,5281,7,Denmark
+Pier to House,2019,2019,2019-02,MT,4622,8,Malta
+Pier to House,2019,2019,2019-02,MH,4554,9,Marshall Islands
+Pier to House,2019,2019,2019-02,US,3695,10,United States
+Pier to House,2019,2019,2019-03,PA,19509,1,Panama
+Pier to House,2019,2019,2019-03,LR,12753,2,Liberia
+Pier to House,2019,2019,2019-03,HK,11508,3,Hong Kong
+Pier to House,2019,2019,2019-03,MH,8989,4,Marshall Islands
+Pier to House,2019,2019,2019-03,SG,6883,5,Singapore
+Pier to House,2019,2019,2019-03,DE,6035,6,Germany
+Pier to House,2019,2019,2019-03,MT,5835,7,Malta
+Pier to House,2019,2019,2019-03,GB,5498,8,United Kingdom
+Pier to House,2019,2019,2019-03,DK,5436,9,Denmark
+Pier to House,2019,2019,2019-03,US,3371,10,United States
+Pier to House,2019,2019,2019-04,PA,22266,1,Panama
+Pier to House,2019,2019,2019-04,LR,19604,2,Liberia
+Pier to House,2019,2019,2019-04,HK,12295,3,Hong Kong
+Pier to House,2019,2019,2019-04,SG,10255,4,Singapore
+Pier to House,2019,2019,2019-04,MH,6589,5,Marshall Islands
+Pier to House,2019,2019,2019-04,MT,6074,6,Malta
+Pier to House,2019,2019,2019-04,GB,5111,7,United Kingdom
+Pier to House,2019,2019,2019-04,DK,4059,8,Denmark
+Pier to House,2019,2019,2019-04,DE,3850,9,Germany
+Pier to House,2019,2019,2019-04,US,3369,10,United States
+Pier to House,2019,2019,2019-05,PA,20652,1,Panama
+Pier to House,2019,2019,2019-05,LR,15901,2,Liberia
+Pier to House,2019,2019,2019-05,HK,13284,3,Hong Kong
+Pier to House,2019,2019,2019-05,SG,11765,4,Singapore
+Pier to House,2019,2019,2019-05,MT,7871,5,Malta
+Pier to House,2019,2019,2019-05,MH,7288,6,Marshall Islands
+Pier to House,2019,2019,2019-05,DE,5302,7,Germany
+Pier to House,2019,2019,2019-05,DK,4952,8,Denmark
+Pier to House,2019,2019,2019-05,US,3799,9,United States
+Pier to House,2019,2019,2019-05,PT,2987,10,Portugal
+Pier to House,2019,2019,2019-06,PA,17249,1,Panama
+Pier to House,2019,2019,2019-06,LR,15137,2,Liberia
+Pier to House,2019,2019,2019-06,SG,12223,3,Singapore
+Pier to House,2019,2019,2019-06,HK,11632,4,Hong Kong
+Pier to House,2019,2019,2019-06,MT,8428,5,Malta
+Pier to House,2019,2019,2019-06,MH,6180,6,Marshall Islands
+Pier to House,2019,2019,2019-06,DE,5062,7,Germany
+Pier to House,2019,2019,2019-06,US,4307,8,United States
+Pier to House,2019,2019,2019-06,DK,3906,9,Denmark
+Pier to House,2019,2019,2019-06,GB,3183,10,United Kingdom
+Pier to House,2019,2019,2019-07,LR,21740,1,Liberia
+Pier to House,2019,2019,2019-07,PA,15123,2,Panama
+Pier to House,2019,2019,2019-07,HK,13365,3,Hong Kong
+Pier to House,2019,2019,2019-07,SG,10683,4,Singapore
+Pier to House,2019,2019,2019-07,MH,7219,5,Marshall Islands
+Pier to House,2019,2019,2019-07,MT,7147,6,Malta
+Pier to House,2019,2019,2019-07,DE,4889,7,Germany
+Pier to House,2019,2019,2019-07,DK,4215,8,Denmark
+Pier to House,2019,2019,2019-07,GB,4070,9,United Kingdom
+Pier to House,2019,2019,2019-07,US,3817,10,United States
+Pier to House,2019,2019,2019-08,PA,19404,1,Panama
+Pier to House,2019,2019,2019-08,LR,16661,2,Liberia
+Pier to House,2019,2019,2019-08,HK,12084,3,Hong Kong
+Pier to House,2019,2019,2019-08,SG,10931,4,Singapore
+Pier to House,2019,2019,2019-08,MH,9277,5,Marshall Islands
+Pier to House,2019,2019,2019-08,MT,7489,6,Malta
+Pier to House,2019,2019,2019-08,US,4560,7,United States
+Pier to House,2019,2019,2019-08,DK,4250,8,Denmark
+Pier to House,2019,2019,2019-08,DE,3701,9,Germany
+Pier to House,2019,2019,2019-08,GB,3068,10,United Kingdom
+Pier to House,2019,2019,2019-09,PA,15908,1,Panama
+Pier to House,2019,2019,2019-09,LR,15793,2,Liberia
+Pier to House,2019,2019,2019-09,HK,11288,3,Hong Kong
+Pier to House,2019,2019,2019-09,SG,9076,4,Singapore
+Pier to House,2019,2019,2019-09,MH,6977,5,Marshall Islands
+Pier to House,2019,2019,2019-09,MT,6967,6,Malta
+Pier to House,2019,2019,2019-09,DE,5621,7,Germany
+Pier to House,2019,2019,2019-09,US,4086,8,United States
+Pier to House,2019,2019,2019-09,GB,4066,9,United Kingdom
+Pier to House,2019,2019,2019-09,FR,2941,10,France
+Pier to House,2019,2019,2019-10,PA,16560,1,Panama
+Pier to House,2019,2019,2019-10,LR,16483,2,Liberia
+Pier to House,2019,2019,2019-10,HK,11107,3,Hong Kong
+Pier to House,2019,2019,2019-10,SG,9417,4,Singapore
+Pier to House,2019,2019,2019-10,MH,7671,5,Marshall Islands
+Pier to House,2019,2019,2019-10,MT,7223,6,Malta
+Pier to House,2019,2019,2019-10,PT,4515,7,Portugal
+Pier to House,2019,2019,2019-10,US,3986,8,United States
+Pier to House,2019,2019,2019-10,DK,3776,9,Denmark
+Pier to House,2019,2019,2019-10,DE,3748,10,Germany
+Pier to House,2019,2019,2019-11,PA,16446,1,Panama
+Pier to House,2019,2019,2019-11,LR,15648,2,Liberia
+Pier to House,2019,2019,2019-11,HK,8634,3,Hong Kong
+Pier to House,2019,2019,2019-11,SG,8544,4,Singapore
+Pier to House,2019,2019,2019-11,MT,6486,5,Malta
+Pier to House,2019,2019,2019-11,MH,5820,6,Marshall Islands
+Pier to House,2019,2019,2019-11,DE,5128,7,Germany
+Pier to House,2019,2019,2019-11,US,4278,8,United States
+Pier to House,2019,2019,2019-11,FR,4153,9,France
+Pier to House,2019,2019,2019-11,DK,3610,10,Denmark
+Pier to House,2019,2019,2019-12,LR,16949,1,Liberia
+Pier to House,2019,2019,2019-12,PA,12985,2,Panama
+Pier to House,2019,2019,2019-12,HK,10025,3,Hong Kong
+Pier to House,2019,2019,2019-12,SG,8945,4,Singapore
+Pier to House,2019,2019,2019-12,MT,8929,5,Malta
+Pier to House,2019,2019,2019-12,MH,5226,6,Marshall Islands
+Pier to House,2019,2019,2019-12,US,3738,7,United States
+Pier to House,2019,2019,2019-12,DK,3675,8,Denmark
+Pier to House,2019,2019,2019-12,DE,2831,9,Germany
+Pier to House,2019,2019,2019-12,PT,2604,10,Portugal
+Pier to House,2020,2020,2020-01,PA,18277,1,Panama
+Pier to House,2020,2020,2020-01,LR,13239,2,Liberia
+Pier to House,2020,2020,2020-01,HK,9942,3,Hong Kong
+Pier to House,2020,2020,2020-01,SG,7261,4,Singapore
+Pier to House,2020,2020,2020-01,MT,6988,5,Malta
+Pier to House,2020,2020,2020-01,MH,5408,6,Marshall Islands
+Pier to House,2020,2020,2020-01,GB,5034,7,United Kingdom
+Pier to House,2020,2020,2020-01,DE,4915,8,Germany
+Pier to House,2020,2020,2020-01,FR,4020,9,France
+Pier to House,2020,2020,2020-01,DK,3984,10,Denmark
+Pier to House,2020,2020,2020-02,PA,12792,1,Panama
+Pier to House,2020,2020,2020-02,LR,11345,2,Liberia
+Pier to House,2020,2020,2020-02,MT,10613,3,Malta
+Pier to House,2020,2020,2020-02,HK,8750,4,Hong Kong
+Pier to House,2020,2020,2020-02,SG,6830,5,Singapore
+Pier to House,2020,2020,2020-02,MH,5585,6,Marshall Islands
+Pier to House,2020,2020,2020-02,US,3234,7,United States
+Pier to House,2020,2020,2020-02,DK,2863,8,Denmark
+Pier to House,2020,2020,2020-02,DE,2469,9,Germany
+Pier to House,2020,2020,2020-02,TW,2342,10,Taiwan
+Pier to House,2020,2020,2020-03,PA,16959,1,Panama
+Pier to House,2020,2020,2020-03,LR,13032,2,Liberia
+Pier to House,2020,2020,2020-03,MT,7592,3,Malta
+Pier to House,2020,2020,2020-03,HK,6718,4,Hong Kong
+Pier to House,2020,2020,2020-03,SG,6496,5,Singapore
+Pier to House,2020,2020,2020-03,MH,5109,6,Marshall Islands
+Pier to House,2020,2020,2020-03,DE,4362,7,Germany
+Pier to House,2020,2020,2020-03,US,3950,8,United States
+Pier to House,2020,2020,2020-03,FR,3185,9,France
+Pier to House,2020,2020,2020-03,PT,2727,10,Portugal
+Pier to House,2020,2020,2020-04,PA,17534,1,Panama
+Pier to House,2020,2020,2020-04,LR,12734,2,Liberia
+Pier to House,2020,2020,2020-04,MT,9802,3,Malta
+Pier to House,2020,2020,2020-04,HK,8987,4,Hong Kong
+Pier to House,2020,2020,2020-04,SG,7708,5,Singapore
+Pier to House,2020,2020,2020-04,MH,5961,6,Marshall Islands
+Pier to House,2020,2020,2020-04,DK,3797,7,Denmark
+Pier to House,2020,2020,2020-04,US,3728,8,United States
+Pier to House,2020,2020,2020-04,FR,3291,9,France
+Pier to House,2020,2020,2020-04,GB,3054,10,United Kingdom
+Pier to House,2020,2020,2020-05,PA,11610,1,Panama
+Pier to House,2020,2020,2020-05,HK,11272,2,Hong Kong
+Pier to House,2020,2020,2020-05,LR,10913,3,Liberia
+Pier to House,2020,2020,2020-05,SG,7648,4,Singapore
+Pier to House,2020,2020,2020-05,MT,7306,5,Malta
+Pier to House,2020,2020,2020-05,US,3766,6,United States
+Pier to House,2020,2020,2020-05,MH,3372,7,Marshall Islands
+Pier to House,2020,2020,2020-05,DK,3168,8,Denmark
+Pier to House,2020,2020,2020-05,DE,2521,9,Germany
+Pier to House,2020,2020,2020-05,JP,2153,10,Japan
+Pier to House,2020,2020,2020-06,HK,13790,1,Hong Kong
+Pier to House,2020,2020,2020-06,PA,13764,2,Panama
+Pier to House,2020,2020,2020-06,MT,7341,3,Malta
+Pier to House,2020,2020,2020-06,LR,6964,4,Liberia
+Pier to House,2020,2020,2020-06,SG,6052,5,Singapore
+Pier to House,2020,2020,2020-06,DE,4461,6,Germany
+Pier to House,2020,2020,2020-06,DK,4282,7,Denmark
+Pier to House,2020,2020,2020-06,GB,4256,8,United Kingdom
+Pier to House,2020,2020,2020-06,PT,3817,9,Portugal
+Pier to House,2020,2020,2020-06,US,3675,10,United States
+Pier to House,2020,2020,2020-07,PA,18425,1,Panama
+Pier to House,2020,2020,2020-07,LR,12397,2,Liberia
+Pier to House,2020,2020,2020-07,MT,11190,3,Malta
+Pier to House,2020,2020,2020-07,HK,10686,4,Hong Kong
+Pier to House,2020,2020,2020-07,SG,8912,5,Singapore
+Pier to House,2020,2020,2020-07,DK,5817,6,Denmark
+Pier to House,2020,2020,2020-07,FR,4078,7,France
+Pier to House,2020,2020,2020-07,GB,3797,8,United Kingdom
+Pier to House,2020,2020,2020-07,US,3658,9,United States
+Pier to House,2020,2020,2020-07,MH,3521,10,Marshall Islands
+Pier to House,2020,2020,2020-08,HK,14285,1,Hong Kong
+Pier to House,2020,2020,2020-08,MT,13442,2,Malta
+Pier to House,2020,2020,2020-08,PA,12523,3,Panama
+Pier to House,2020,2020,2020-08,SG,10820,4,Singapore
+Pier to House,2020,2020,2020-08,LR,10578,5,Liberia
+Pier to House,2020,2020,2020-08,MH,6174,6,Marshall Islands
+Pier to House,2020,2020,2020-08,GB,5812,7,United Kingdom
+Pier to House,2020,2020,2020-08,DE,5622,8,Germany
+Pier to House,2020,2020,2020-08,JP,4131,9,Japan
+Pier to House,2020,2020,2020-08,US,4002,10,United States
+Pier to House,2020,2020,2020-09,PA,15195,1,Panama
+Pier to House,2020,2020,2020-09,LR,11128,2,Liberia
+Pier to House,2020,2020,2020-09,HK,10051,3,Hong Kong
+Pier to House,2020,2020,2020-09,MT,9650,4,Malta
+Pier to House,2020,2020,2020-09,SG,7801,5,Singapore
+Pier to House,2020,2020,2020-09,MH,3873,6,Marshall Islands
+Pier to House,2020,2020,2020-09,PT,3757,7,Portugal
+Pier to House,2020,2020,2020-09,GB,3029,8,United Kingdom
+Pier to House,2020,2020,2020-09,US,2838,9,United States
+Pier to House,2020,2020,2020-09,FR,2446,10,France
+Pier to Pier,2018,2018,2018-01,LR,67310,1,Liberia
+Pier to Pier,2018,2018,2018-01,HK,44130,2,Hong Kong
+Pier to Pier,2018,2018,2018-01,PA,43624,3,Panama
+Pier to Pier,2018,2018,2018-01,GB,35291,4,United Kingdom
+Pier to Pier,2018,2018,2018-01,SG,34310,5,Singapore
+Pier to Pier,2018,2018,2018-01,CY,23164,6,Cyprus
+Pier to Pier,2018,2018,2018-01,PT,22854,7,Portugal
+Pier to Pier,2018,2018,2018-01,MH,21175,8,Marshall Islands
+Pier to Pier,2018,2018,2018-01,MT,14047,9,Malta
+Pier to Pier,2018,2018,2018-01,DE,12298,10,Germany
+Pier to Pier,2018,2018,2018-02,LR,65900,1,Liberia
+Pier to Pier,2018,2018,2018-02,PA,47024,2,Panama
+Pier to Pier,2018,2018,2018-02,SG,46468,3,Singapore
+Pier to Pier,2018,2018,2018-02,GB,43380,4,United Kingdom
+Pier to Pier,2018,2018,2018-02,HK,35825,5,Hong Kong
+Pier to Pier,2018,2018,2018-02,CY,22030,6,Cyprus
+Pier to Pier,2018,2018,2018-02,MT,17681,7,Malta
+Pier to Pier,2018,2018,2018-02,MH,15054,8,Marshall Islands
+Pier to Pier,2018,2018,2018-02,DK,14242,9,Denmark
+Pier to Pier,2018,2018,2018-02,DE,11575,10,Germany
+Pier to Pier,2018,2018,2018-03,LR,74574,1,Liberia
+Pier to Pier,2018,2018,2018-03,HK,41172,2,Hong Kong
+Pier to Pier,2018,2018,2018-03,SG,40531,3,Singapore
+Pier to Pier,2018,2018,2018-03,PA,37958,4,Panama
+Pier to Pier,2018,2018,2018-03,PT,26077,5,Portugal
+Pier to Pier,2018,2018,2018-03,MH,22406,6,Marshall Islands
+Pier to Pier,2018,2018,2018-03,CY,20678,7,Cyprus
+Pier to Pier,2018,2018,2018-03,GB,20442,8,United Kingdom
+Pier to Pier,2018,2018,2018-03,MT,16476,9,Malta
+Pier to Pier,2018,2018,2018-03,DE,15147,10,Germany
+Pier to Pier,2018,2018,2018-04,LR,68787,1,Liberia
+Pier to Pier,2018,2018,2018-04,SG,54420,2,Singapore
+Pier to Pier,2018,2018,2018-04,PA,46675,3,Panama
+Pier to Pier,2018,2018,2018-04,HK,40244,4,Hong Kong
+Pier to Pier,2018,2018,2018-04,GB,32393,5,United Kingdom
+Pier to Pier,2018,2018,2018-04,CY,25977,6,Cyprus
+Pier to Pier,2018,2018,2018-04,PT,21843,7,Portugal
+Pier to Pier,2018,2018,2018-04,MH,17920,8,Marshall Islands
+Pier to Pier,2018,2018,2018-04,DK,12056,9,Denmark
+Pier to Pier,2018,2018,2018-04,MT,11579,10,Malta
+Pier to Pier,2018,2018,2018-05,LR,83154,1,Liberia
+Pier to Pier,2018,2018,2018-05,SG,67381,2,Singapore
+Pier to Pier,2018,2018,2018-05,GB,56804,3,United Kingdom
+Pier to Pier,2018,2018,2018-05,HK,55027,4,Hong Kong
+Pier to Pier,2018,2018,2018-05,PA,53024,5,Panama
+Pier to Pier,2018,2018,2018-05,MH,25354,6,Marshall Islands
+Pier to Pier,2018,2018,2018-05,CY,22190,7,Cyprus
+Pier to Pier,2018,2018,2018-05,PT,15813,8,Portugal
+Pier to Pier,2018,2018,2018-05,DK,15694,9,Denmark
+Pier to Pier,2018,2018,2018-05,MT,13278,10,Malta
+Pier to Pier,2018,2018,2018-06,SG,83043,1,Singapore
+Pier to Pier,2018,2018,2018-06,LR,68043,2,Liberia
+Pier to Pier,2018,2018,2018-06,HK,56376,3,Hong Kong
+Pier to Pier,2018,2018,2018-06,PA,54636,4,Panama
+Pier to Pier,2018,2018,2018-06,GB,52116,5,United Kingdom
+Pier to Pier,2018,2018,2018-06,MH,25263,6,Marshall Islands
+Pier to Pier,2018,2018,2018-06,CY,22481,7,Cyprus
+Pier to Pier,2018,2018,2018-06,MT,17677,8,Malta
+Pier to Pier,2018,2018,2018-06,DK,13806,9,Denmark
+Pier to Pier,2018,2018,2018-06,PT,11918,10,Portugal
+Pier to Pier,2018,2018,2018-07,SG,70138,1,Singapore
+Pier to Pier,2018,2018,2018-07,LR,65303,2,Liberia
+Pier to Pier,2018,2018,2018-07,GB,52612,3,United Kingdom
+Pier to Pier,2018,2018,2018-07,HK,50908,4,Hong Kong
+Pier to Pier,2018,2018,2018-07,PA,43421,5,Panama
+Pier to Pier,2018,2018,2018-07,CY,29658,6,Cyprus
+Pier to Pier,2018,2018,2018-07,MH,27538,7,Marshall Islands
+Pier to Pier,2018,2018,2018-07,PT,16878,8,Portugal
+Pier to Pier,2018,2018,2018-07,DK,16870,9,Denmark
+Pier to Pier,2018,2018,2018-07,US,10418,10,United States
+Pier to Pier,2018,2018,2018-08,LR,77095,1,Liberia
+Pier to Pier,2018,2018,2018-08,SG,56967,2,Singapore
+Pier to Pier,2018,2018,2018-08,PA,44469,3,Panama
+Pier to Pier,2018,2018,2018-08,HK,44234,4,Hong Kong
+Pier to Pier,2018,2018,2018-08,GB,38575,5,United Kingdom
+Pier to Pier,2018,2018,2018-08,MH,29787,6,Marshall Islands
+Pier to Pier,2018,2018,2018-08,MT,20929,7,Malta
+Pier to Pier,2018,2018,2018-08,DK,15059,8,Denmark
+Pier to Pier,2018,2018,2018-08,PT,14849,9,Portugal
+Pier to Pier,2018,2018,2018-08,CY,13758,10,Cyprus
+Pier to Pier,2018,2018,2018-09,PA,58879,1,Panama
+Pier to Pier,2018,2018,2018-09,LR,54379,2,Liberia
+Pier to Pier,2018,2018,2018-09,SG,51908,3,Singapore
+Pier to Pier,2018,2018,2018-09,HK,50772,4,Hong Kong
+Pier to Pier,2018,2018,2018-09,GB,49188,5,United Kingdom
+Pier to Pier,2018,2018,2018-09,MH,48005,6,Marshall Islands
+Pier to Pier,2018,2018,2018-09,MT,29874,7,Malta
+Pier to Pier,2018,2018,2018-09,CY,24294,8,Cyprus
+Pier to Pier,2018,2018,2018-09,PT,21357,9,Portugal
+Pier to Pier,2018,2018,2018-09,DK,11282,10,Denmark
+Pier to Pier,2018,2018,2018-10,LR,72987,1,Liberia
+Pier to Pier,2018,2018,2018-10,HK,63924,2,Hong Kong
+Pier to Pier,2018,2018,2018-10,PA,59473,3,Panama
+Pier to Pier,2018,2018,2018-10,SG,53232,4,Singapore
+Pier to Pier,2018,2018,2018-10,GB,50663,5,United Kingdom
+Pier to Pier,2018,2018,2018-10,MH,35507,6,Marshall Islands
+Pier to Pier,2018,2018,2018-10,CY,23422,7,Cyprus
+Pier to Pier,2018,2018,2018-10,MT,23057,8,Malta
+Pier to Pier,2018,2018,2018-10,DK,21222,9,Denmark
+Pier to Pier,2018,2018,2018-10,PT,15426,10,Portugal
+Pier to Pier,2018,2018,2018-11,GB,62791,1,United Kingdom
+Pier to Pier,2018,2018,2018-11,HK,55636,2,Hong Kong
+Pier to Pier,2018,2018,2018-11,LR,53709,3,Liberia
+Pier to Pier,2018,2018,2018-11,PA,45387,4,Panama
+Pier to Pier,2018,2018,2018-11,SG,37807,5,Singapore
+Pier to Pier,2018,2018,2018-11,DK,25932,6,Denmark
+Pier to Pier,2018,2018,2018-11,MH,25482,7,Marshall Islands
+Pier to Pier,2018,2018,2018-11,MT,13881,8,Malta
+Pier to Pier,2018,2018,2018-11,CY,13144,9,Cyprus
+Pier to Pier,2018,2018,2018-11,PT,10225,10,Portugal
+Pier to Pier,2018,2018,2018-12,SG,71052,1,Singapore
+Pier to Pier,2018,2018,2018-12,LR,64989,2,Liberia
+Pier to Pier,2018,2018,2018-12,PA,60237,3,Panama
+Pier to Pier,2018,2018,2018-12,HK,58954,4,Hong Kong
+Pier to Pier,2018,2018,2018-12,GB,52383,5,United Kingdom
+Pier to Pier,2018,2018,2018-12,MT,38854,6,Malta
+Pier to Pier,2018,2018,2018-12,MH,37095,7,Marshall Islands
+Pier to Pier,2018,2018,2018-12,US,27122,8,United States
+Pier to Pier,2018,2018,2018-12,DK,25527,9,Denmark
+Pier to Pier,2018,2018,2018-12,CY,21299,10,Cyprus
+Pier to Pier,2019,2019,2019-01,LR,72939,1,Liberia
+Pier to Pier,2019,2019,2019-01,HK,68345,2,Hong Kong
+Pier to Pier,2019,2019,2019-01,SG,62208,3,Singapore
+Pier to Pier,2019,2019,2019-01,PA,57069,4,Panama
+Pier to Pier,2019,2019,2019-01,GB,43949,5,United Kingdom
+Pier to Pier,2019,2019,2019-01,MH,36958,6,Marshall Islands
+Pier to Pier,2019,2019,2019-01,MT,26707,7,Malta
+Pier to Pier,2019,2019,2019-01,DK,23202,8,Denmark
+Pier to Pier,2019,2019,2019-01,US,17959,9,United States
+Pier to Pier,2019,2019,2019-01,PT,17875,10,Portugal
+Pier to Pier,2019,2019,2019-02,HK,63494,1,Hong Kong
+Pier to Pier,2019,2019,2019-02,LR,54683,2,Liberia
+Pier to Pier,2019,2019,2019-02,PA,53946,3,Panama
+Pier to Pier,2019,2019,2019-02,GB,47206,4,United Kingdom
+Pier to Pier,2019,2019,2019-02,SG,43277,5,Singapore
+Pier to Pier,2019,2019,2019-02,MT,27291,6,Malta
+Pier to Pier,2019,2019,2019-02,DK,23266,7,Denmark
+Pier to Pier,2019,2019,2019-02,MH,18136,8,Marshall Islands
+Pier to Pier,2019,2019,2019-02,US,17111,9,United States
+Pier to Pier,2019,2019,2019-02,FR,13604,10,France
+Pier to Pier,2019,2019,2019-03,LR,59328,1,Liberia
+Pier to Pier,2019,2019,2019-03,HK,50655,2,Hong Kong
+Pier to Pier,2019,2019,2019-03,PA,48370,3,Panama
+Pier to Pier,2019,2019,2019-03,GB,37764,4,United Kingdom
+Pier to Pier,2019,2019,2019-03,SG,37615,5,Singapore
+Pier to Pier,2019,2019,2019-03,MH,29850,6,Marshall Islands
+Pier to Pier,2019,2019,2019-03,MT,27383,7,Malta
+Pier to Pier,2019,2019,2019-03,DK,24576,8,Denmark
+Pier to Pier,2019,2019,2019-03,US,18080,9,United States
+Pier to Pier,2019,2019,2019-03,CY,16223,10,Cyprus
+Pier to Pier,2019,2019,2019-04,LR,73211,1,Liberia
+Pier to Pier,2019,2019,2019-04,SG,64381,2,Singapore
+Pier to Pier,2019,2019,2019-04,PA,58311,3,Panama
+Pier to Pier,2019,2019,2019-04,HK,53351,4,Hong Kong
+Pier to Pier,2019,2019,2019-04,GB,36581,5,United Kingdom
+Pier to Pier,2019,2019,2019-04,MT,30397,6,Malta
+Pier to Pier,2019,2019,2019-04,MH,24027,7,Marshall Islands
+Pier to Pier,2019,2019,2019-04,US,21783,8,United States
+Pier to Pier,2019,2019,2019-04,CY,17310,9,Cyprus
+Pier to Pier,2019,2019,2019-04,DK,16887,10,Denmark
+Pier to Pier,2019,2019,2019-05,PA,71573,1,Panama
+Pier to Pier,2019,2019,2019-05,HK,67313,2,Hong Kong
+Pier to Pier,2019,2019,2019-05,LR,63812,3,Liberia
+Pier to Pier,2019,2019,2019-05,SG,54660,4,Singapore
+Pier to Pier,2019,2019,2019-05,MT,53687,5,Malta
+Pier to Pier,2019,2019,2019-05,MH,38427,6,Marshall Islands
+Pier to Pier,2019,2019,2019-05,DK,27685,7,Denmark
+Pier to Pier,2019,2019,2019-05,GB,24390,8,United Kingdom
+Pier to Pier,2019,2019,2019-05,US,20134,9,United States
+Pier to Pier,2019,2019,2019-05,PT,16597,10,Portugal
+Pier to Pier,2019,2019,2019-06,PA,62174,1,Panama
+Pier to Pier,2019,2019,2019-06,LR,59673,2,Liberia
+Pier to Pier,2019,2019,2019-06,SG,59555,3,Singapore
+Pier to Pier,2019,2019,2019-06,HK,57392,4,Hong Kong
+Pier to Pier,2019,2019,2019-06,MT,53806,5,Malta
+Pier to Pier,2019,2019,2019-06,US,27083,6,United States
+Pier to Pier,2019,2019,2019-06,DK,25347,7,Denmark
+Pier to Pier,2019,2019,2019-06,MH,23365,8,Marshall Islands
+Pier to Pier,2019,2019,2019-06,GB,21398,9,United Kingdom
+Pier to Pier,2019,2019,2019-06,CY,15200,10,Cyprus
+Pier to Pier,2019,2019,2019-07,LR,81611,1,Liberia
+Pier to Pier,2019,2019,2019-07,HK,67043,2,Hong Kong
+Pier to Pier,2019,2019,2019-07,SG,61317,3,Singapore
+Pier to Pier,2019,2019,2019-07,PA,46083,4,Panama
+Pier to Pier,2019,2019,2019-07,MH,39169,5,Marshall Islands
+Pier to Pier,2019,2019,2019-07,MT,38235,6,Malta
+Pier to Pier,2019,2019,2019-07,GB,28293,7,United Kingdom
+Pier to Pier,2019,2019,2019-07,US,21825,8,United States
+Pier to Pier,2019,2019,2019-07,DK,21578,9,Denmark
+Pier to Pier,2019,2019,2019-07,FR,20548,10,France
+Pier to Pier,2019,2019,2019-08,SG,66166,1,Singapore
+Pier to Pier,2019,2019,2019-08,HK,59431,2,Hong Kong
+Pier to Pier,2019,2019,2019-08,LR,59408,3,Liberia
+Pier to Pier,2019,2019,2019-08,PA,58319,4,Panama
+Pier to Pier,2019,2019,2019-08,MT,45201,5,Malta
+Pier to Pier,2019,2019,2019-08,MH,36088,6,Marshall Islands
+Pier to Pier,2019,2019,2019-08,DK,28030,7,Denmark
+Pier to Pier,2019,2019,2019-08,US,22789,8,United States
+Pier to Pier,2019,2019,2019-08,GB,18813,9,United Kingdom
+Pier to Pier,2019,2019,2019-08,CY,15901,10,Cyprus
+Pier to Pier,2019,2019,2019-09,LR,61194,1,Liberia
+Pier to Pier,2019,2019,2019-09,HK,60919,2,Hong Kong
+Pier to Pier,2019,2019,2019-09,PA,57204,3,Panama
+Pier to Pier,2019,2019,2019-09,SG,46696,4,Singapore
+Pier to Pier,2019,2019,2019-09,MT,39726,5,Malta
+Pier to Pier,2019,2019,2019-09,MH,34250,6,Marshall Islands
+Pier to Pier,2019,2019,2019-09,GB,26856,7,United Kingdom
+Pier to Pier,2019,2019,2019-09,DE,23213,8,Germany
+Pier to Pier,2019,2019,2019-09,FR,19682,9,France
+Pier to Pier,2019,2019,2019-09,DK,18843,10,Denmark
+Pier to Pier,2019,2019,2019-10,HK,63720,1,Hong Kong
+Pier to Pier,2019,2019,2019-10,LR,57388,2,Liberia
+Pier to Pier,2019,2019,2019-10,PA,51190,3,Panama
+Pier to Pier,2019,2019,2019-10,SG,49014,4,Singapore
+Pier to Pier,2019,2019,2019-10,MT,47975,5,Malta
+Pier to Pier,2019,2019,2019-10,MH,32435,6,Marshall Islands
+Pier to Pier,2019,2019,2019-10,DK,25387,7,Denmark
+Pier to Pier,2019,2019,2019-10,GB,22295,8,United Kingdom
+Pier to Pier,2019,2019,2019-10,US,18782,9,United States
+Pier to Pier,2019,2019,2019-10,DE,16380,10,Germany
+Pier to Pier,2019,2019,2019-11,LR,54908,1,Liberia
+Pier to Pier,2019,2019,2019-11,PA,49869,2,Panama
+Pier to Pier,2019,2019,2019-11,SG,49512,3,Singapore
+Pier to Pier,2019,2019,2019-11,HK,46586,4,Hong Kong
+Pier to Pier,2019,2019,2019-11,MT,32790,5,Malta
+Pier to Pier,2019,2019,2019-11,FR,23663,6,France
+Pier to Pier,2019,2019,2019-11,GB,22227,7,United Kingdom
+Pier to Pier,2019,2019,2019-11,DK,20810,8,Denmark
+Pier to Pier,2019,2019,2019-11,US,20185,9,United States
+Pier to Pier,2019,2019,2019-11,DE,18989,10,Germany
+Pier to Pier,2019,2019,2019-12,LR,68316,1,Liberia
+Pier to Pier,2019,2019,2019-12,HK,61448,2,Hong Kong
+Pier to Pier,2019,2019,2019-12,SG,47211,3,Singapore
+Pier to Pier,2019,2019,2019-12,MT,46215,4,Malta
+Pier to Pier,2019,2019,2019-12,PA,38027,5,Panama
+Pier to Pier,2019,2019,2019-12,US,24322,6,United States
+Pier to Pier,2019,2019,2019-12,GB,19634,7,United Kingdom
+Pier to Pier,2019,2019,2019-12,PT,15599,8,Portugal
+Pier to Pier,2019,2019,2019-12,DK,15234,9,Denmark
+Pier to Pier,2019,2019,2019-12,MH,14817,10,Marshall Islands
+Pier to Pier,2020,2020,2020-01,HK,62357,1,Hong Kong
+Pier to Pier,2020,2020,2020-01,LR,50760,2,Liberia
+Pier to Pier,2020,2020,2020-01,PA,50638,3,Panama
+Pier to Pier,2020,2020,2020-01,SG,42040,4,Singapore
+Pier to Pier,2020,2020,2020-01,MT,38190,5,Malta
+Pier to Pier,2020,2020,2020-01,GB,31234,6,United Kingdom
+Pier to Pier,2020,2020,2020-01,FR,25738,7,France
+Pier to Pier,2020,2020,2020-01,US,23649,8,United States
+Pier to Pier,2020,2020,2020-01,MH,22584,9,Marshall Islands
+Pier to Pier,2020,2020,2020-01,DK,20656,10,Denmark
+Pier to Pier,2020,2020,2020-02,MT,60112,1,Malta
+Pier to Pier,2020,2020,2020-02,HK,54830,2,Hong Kong
+Pier to Pier,2020,2020,2020-02,LR,49583,3,Liberia
+Pier to Pier,2020,2020,2020-02,SG,41337,4,Singapore
+Pier to Pier,2020,2020,2020-02,PA,36066,5,Panama
+Pier to Pier,2020,2020,2020-02,US,20748,6,United States
+Pier to Pier,2020,2020,2020-02,DK,18243,7,Denmark
+Pier to Pier,2020,2020,2020-02,MH,17414,8,Marshall Islands
+Pier to Pier,2020,2020,2020-02,GB,15119,9,United Kingdom
+Pier to Pier,2020,2020,2020-02,PT,13460,10,Portugal
+Pier to Pier,2020,2020,2020-03,LR,55827,1,Liberia
+Pier to Pier,2020,2020,2020-03,MT,39739,2,Malta
+Pier to Pier,2020,2020,2020-03,HK,37037,3,Hong Kong
+Pier to Pier,2020,2020,2020-03,SG,35803,4,Singapore
+Pier to Pier,2020,2020,2020-03,PA,33633,5,Panama
+Pier to Pier,2020,2020,2020-03,US,28947,6,United States
+Pier to Pier,2020,2020,2020-03,MH,22633,7,Marshall Islands
+Pier to Pier,2020,2020,2020-03,DE,17458,8,Germany
+Pier to Pier,2020,2020,2020-03,CY,17137,9,Cyprus
+Pier to Pier,2020,2020,2020-03,GB,16777,10,United Kingdom
+Pier to Pier,2020,2020,2020-04,MT,56184,1,Malta
+Pier to Pier,2020,2020,2020-04,PA,56077,2,Panama
+Pier to Pier,2020,2020,2020-04,HK,53653,3,Hong Kong
+Pier to Pier,2020,2020,2020-04,LR,48386,4,Liberia
+Pier to Pier,2020,2020,2020-04,SG,38487,5,Singapore
+Pier to Pier,2020,2020,2020-04,GB,25708,6,United Kingdom
+Pier to Pier,2020,2020,2020-04,FR,24801,7,France
+Pier to Pier,2020,2020,2020-04,MH,24758,8,Marshall Islands
+Pier to Pier,2020,2020,2020-04,DK,24038,9,Denmark
+Pier to Pier,2020,2020,2020-04,US,22975,10,United States
+Pier to Pier,2020,2020,2020-05,MT,109219,1,Malta
+Pier to Pier,2020,2020,2020-05,LR,67140,2,Liberia
+Pier to Pier,2020,2020,2020-05,HK,58107,3,Hong Kong
+Pier to Pier,2020,2020,2020-05,PA,44958,4,Panama
+Pier to Pier,2020,2020,2020-05,SG,41646,5,Singapore
+Pier to Pier,2020,2020,2020-05,US,31726,6,United States
+Pier to Pier,2020,2020,2020-05,MH,21047,7,Marshall Islands
+Pier to Pier,2020,2020,2020-05,GB,19899,8,United Kingdom
+Pier to Pier,2020,2020,2020-05,DE,16957,9,Germany
+Pier to Pier,2020,2020,2020-05,DK,13568,10,Denmark
+Pier to Pier,2020,2020,2020-06,HK,74807,1,Hong Kong
+Pier to Pier,2020,2020,2020-06,LR,63603,2,Liberia
+Pier to Pier,2020,2020,2020-06,PA,57280,3,Panama
+Pier to Pier,2020,2020,2020-06,MT,51974,4,Malta
+Pier to Pier,2020,2020,2020-06,JP,39959,5,Japan
+Pier to Pier,2020,2020,2020-06,SG,39628,6,Singapore
+Pier to Pier,2020,2020,2020-06,GB,34225,7,United Kingdom
+Pier to Pier,2020,2020,2020-06,US,30056,8,United States
+Pier to Pier,2020,2020,2020-06,DE,24522,9,Germany
+Pier to Pier,2020,2020,2020-06,DK,22724,10,Denmark
+Pier to Pier,2020,2020,2020-07,HK,70861,1,Hong Kong
+Pier to Pier,2020,2020,2020-07,LR,70084,2,Liberia
+Pier to Pier,2020,2020,2020-07,MT,67222,3,Malta
+Pier to Pier,2020,2020,2020-07,PA,66080,4,Panama
+Pier to Pier,2020,2020,2020-07,SG,49452,5,Singapore
+Pier to Pier,2020,2020,2020-07,US,34084,6,United States
+Pier to Pier,2020,2020,2020-07,DK,31662,7,Denmark
+Pier to Pier,2020,2020,2020-07,GB,30331,8,United Kingdom
+Pier to Pier,2020,2020,2020-07,FR,24257,9,France
+Pier to Pier,2020,2020,2020-07,MH,19840,10,Marshall Islands
+Pier to Pier,2020,2020,2020-08,LR,97710,1,Liberia
+Pier to Pier,2020,2020,2020-08,MT,78882,2,Malta
+Pier to Pier,2020,2020,2020-08,HK,77201,3,Hong Kong
+Pier to Pier,2020,2020,2020-08,SG,58338,4,Singapore
+Pier to Pier,2020,2020,2020-08,PA,50431,5,Panama
+Pier to Pier,2020,2020,2020-08,GB,38190,6,United Kingdom
+Pier to Pier,2020,2020,2020-08,US,36025,7,United States
+Pier to Pier,2020,2020,2020-08,DE,31116,8,Germany
+Pier to Pier,2020,2020,2020-08,DK,25666,9,Denmark
+Pier to Pier,2020,2020,2020-08,MH,24098,10,Marshall Islands
+Pier to Pier,2020,2020,2020-09,LR,101710,1,Liberia
+Pier to Pier,2020,2020,2020-09,HK,66784,2,Hong Kong
+Pier to Pier,2020,2020,2020-09,PA,65435,3,Panama
+Pier to Pier,2020,2020,2020-09,MT,58363,4,Malta
+Pier to Pier,2020,2020,2020-09,SG,39030,5,Singapore
+Pier to Pier,2020,2020,2020-09,US,31111,6,United States
+Pier to Pier,2020,2020,2020-09,MH,23931,7,Marshall Islands
+Pier to Pier,2020,2020,2020-09,GB,23898,8,United Kingdom
+Pier to Pier,2020,2020,2020-09,FR,20013,9,France
+Pier to Pier,2020,2020,2020-09,DK,19060,10,Denmark
+Roll on Roll Off,2018,2018,2018-01,TG,102,1,Togo
+Roll on Roll Off,2018,2018,2018-01,VU,42,2,Vanuatu
+Roll on Roll Off,2018,2018,2018-01,US,36,3,United States
+Roll on Roll Off,2018,2018,2018-01,GB,9,4,United Kingdom
+Roll on Roll Off,2018,2018,2018-01,SG,7,5,Singapore
+Roll on Roll Off,2018,2018,2018-01,PA,6,6,Panama
+Roll on Roll Off,2018,2018,2018-01,LR,3,7,Liberia
+Roll on Roll Off,2018,2018,2018-01,MT,2,8,Malta
+Roll on Roll Off,2018,2018,2018-01,TW,2,9,Taiwan
+Roll on Roll Off,2018,2018,2018-01,DE,2,10,Germany
+Roll on Roll Off,2018,2018,2018-02,US,348,1,United States
+Roll on Roll Off,2018,2018,2018-02,TG,78,2,Togo
+Roll on Roll Off,2018,2018,2018-02,VU,24,3,Vanuatu
+Roll on Roll Off,2018,2018,2018-02,GB,9,4,United Kingdom
+Roll on Roll Off,2018,2018,2018-02,SG,8,5,Singapore
+Roll on Roll Off,2018,2018,2018-02,PA,5,6,Panama
+Roll on Roll Off,2018,2018,2018-02,SE,3,7,Sweden
+Roll on Roll Off,2018,2018,2018-02,NO,1,8,Norway
+Roll on Roll Off,2018,2018,2018-03,US,213,1,United States
+Roll on Roll Off,2018,2018,2018-03,TG,119,2,Togo
+Roll on Roll Off,2018,2018,2018-03,PA,112,3,Panama
+Roll on Roll Off,2018,2018,2018-03,VU,42,4,Vanuatu
+Roll on Roll Off,2018,2018,2018-03,HK,10,5,Hong Kong
+Roll on Roll Off,2018,2018,2018-03,GB,9,6,United Kingdom
+Roll on Roll Off,2018,2018,2018-03,SG,3,7,Singapore
+Roll on Roll Off,2018,2018,2018-03,NO,3,8,Norway
+Roll on Roll Off,2018,2018,2018-03,MT,1,9,Malta
+Roll on Roll Off,2018,2018,2018-04,TG,108,1,Togo
+Roll on Roll Off,2018,2018,2018-04,IT,49,2,Italy
+Roll on Roll Off,2018,2018,2018-04,VU,33,3,Vanuatu
+Roll on Roll Off,2018,2018,2018-04,US,29,4,United States
+Roll on Roll Off,2018,2018,2018-04,HK,26,5,Hong Kong
+Roll on Roll Off,2018,2018,2018-04,PA,12,6,Panama
+Roll on Roll Off,2018,2018,2018-04,GB,3,7,United Kingdom
+Roll on Roll Off,2018,2018,2018-04,SG,3,8,Singapore
+Roll on Roll Off,2018,2018,2018-04,NO,2,9,Norway
+Roll on Roll Off,2018,2018,2018-04,DE,1,10,Germany
+Roll on Roll Off,2018,2018,2018-05,US,288,1,United States
+Roll on Roll Off,2018,2018,2018-05,GB,173,2,United Kingdom
+Roll on Roll Off,2018,2018,2018-05,TG,77,3,Togo
+Roll on Roll Off,2018,2018,2018-05,PA,25,4,Panama
+Roll on Roll Off,2018,2018,2018-05,VU,17,5,Vanuatu
+Roll on Roll Off,2018,2018,2018-05,HK,6,6,Hong Kong
+Roll on Roll Off,2018,2018,2018-05,NO,6,7,Norway
+Roll on Roll Off,2018,2018,2018-05,LR,2,8,Liberia
+Roll on Roll Off,2018,2018,2018-05,LU,1,9,Luxembourg
+Roll on Roll Off,2018,2018,2018-06,GB,354,1,United Kingdom
+Roll on Roll Off,2018,2018,2018-06,VU,47,2,Vanuatu
+Roll on Roll Off,2018,2018,2018-06,TG,34,3,Togo
+Roll on Roll Off,2018,2018,2018-06,US,32,4,United States
+Roll on Roll Off,2018,2018,2018-06,HK,16,5,Hong Kong
+Roll on Roll Off,2018,2018,2018-06,PA,12,6,Panama
+Roll on Roll Off,2018,2018,2018-06,SG,7,7,Singapore
+Roll on Roll Off,2018,2018,2018-06,KY,1,8,Cayman Islands
+Roll on Roll Off,2018,2018,2018-06,CY,1,9,Cyprus
+Roll on Roll Off,2018,2018,2018-07,GB,159,1,United Kingdom
+Roll on Roll Off,2018,2018,2018-07,US,95,2,United States
+Roll on Roll Off,2018,2018,2018-07,VU,58,3,Vanuatu
+Roll on Roll Off,2018,2018,2018-07,TG,23,4,Togo
+Roll on Roll Off,2018,2018,2018-07,PT,18,5,Portugal
+Roll on Roll Off,2018,2018,2018-07,BS,10,6,Bahamas
+Roll on Roll Off,2018,2018,2018-07,PA,6,7,Panama
+Roll on Roll Off,2018,2018,2018-07,NO,2,8,Norway
+Roll on Roll Off,2018,2018,2018-07,SE,2,9,Sweden
+Roll on Roll Off,2018,2018,2018-07,SG,1,10,Singapore
+Roll on Roll Off,2018,2018,2018-08,GB,209,1,United Kingdom
+Roll on Roll Off,2018,2018,2018-08,VU,97,2,Vanuatu
+Roll on Roll Off,2018,2018,2018-08,NO,65,3,Norway
+Roll on Roll Off,2018,2018,2018-08,TG,17,4,Togo
+Roll on Roll Off,2018,2018,2018-08,PA,10,5,Panama
+Roll on Roll Off,2018,2018,2018-08,SG,2,6,Singapore
+Roll on Roll Off,2018,2018,2018-08,IT,2,7,Italy
+Roll on Roll Off,2018,2018,2018-09,TG,46,1,Togo
+Roll on Roll Off,2018,2018,2018-09,US,45,2,United States
+Roll on Roll Off,2018,2018,2018-09,VU,43,3,Vanuatu
+Roll on Roll Off,2018,2018,2018-09,PT,10,4,Portugal
+Roll on Roll Off,2018,2018,2018-09,GB,7,5,United Kingdom
+Roll on Roll Off,2018,2018,2018-09,PA,6,6,Panama
+Roll on Roll Off,2018,2018,2018-09,NO,5,7,Norway
+Roll on Roll Off,2018,2018,2018-09,HK,2,8,Hong Kong
+Roll on Roll Off,2018,2018,2018-09,LR,1,9,Liberia
+Roll on Roll Off,2018,2018,2018-09,SA,1,10,Saudi Arabia
+Roll on Roll Off,2018,2018,2018-10,US,119,1,United States
+Roll on Roll Off,2018,2018,2018-10,VU,61,2,Vanuatu
+Roll on Roll Off,2018,2018,2018-10,TG,52,3,Togo
+Roll on Roll Off,2018,2018,2018-10,PA,6,4,Panama
+Roll on Roll Off,2018,2018,2018-10,NO,4,5,Norway
+Roll on Roll Off,2018,2018,2018-10,SA,2,6,Saudi Arabia
+Roll on Roll Off,2018,2018,2018-10,SG,2,7,Singapore
+Roll on Roll Off,2018,2018,2018-10,GB,1,8,United Kingdom
+Roll on Roll Off,2018,2018,2018-10,SE,1,9,Sweden
+Roll on Roll Off,2018,2018,2018-10,MT,1,10,Malta
+Roll on Roll Off,2018,2018,2018-11,US,325,1,United States
+Roll on Roll Off,2018,2018,2018-11,TG,39,2,Togo
+Roll on Roll Off,2018,2018,2018-11,VU,33,3,Vanuatu
+Roll on Roll Off,2018,2018,2018-11,HK,12,4,Hong Kong
+Roll on Roll Off,2018,2018,2018-11,PA,6,5,Panama
+Roll on Roll Off,2018,2018,2018-11,SE,4,6,Sweden
+Roll on Roll Off,2018,2018,2018-11,JP,1,7,Japan
+Roll on Roll Off,2018,2018,2018-11,NO,1,8,Norway
+Roll on Roll Off,2018,2018,2018-12,VU,84,1,Vanuatu
+Roll on Roll Off,2018,2018,2018-12,TG,37,2,Togo
+Roll on Roll Off,2018,2018,2018-12,PA,30,3,Panama
+Roll on Roll Off,2018,2018,2018-12,US,17,4,United States
+Roll on Roll Off,2018,2018,2018-12,MT,6,5,Malta
+Roll on Roll Off,2018,2018,2018-12,HK,2,6,Hong Kong
+Roll on Roll Off,2018,2018,2018-12,GB,1,7,United Kingdom
+Roll on Roll Off,2018,2018,2018-12,MH,1,8,Marshall Islands
+Roll on Roll Off,2018,2018,2018-12,SG,1,9,Singapore
+Roll on Roll Off,2019,2019,2019-01,VU,110,1,Vanuatu
+Roll on Roll Off,2019,2019,2019-01,TG,49,2,Togo
+Roll on Roll Off,2019,2019,2019-01,KY,33,3,Cayman Islands
+Roll on Roll Off,2019,2019,2019-01,US,20,4,United States
+Roll on Roll Off,2019,2019,2019-01,PA,2,5,Panama
+Roll on Roll Off,2019,2019,2019-01,GB,2,6,United Kingdom
+Roll on Roll Off,2019,2019,2019-01,SE,2,7,Sweden
+Roll on Roll Off,2019,2019,2019-01,AE,1,8,United Arab Emirates
+Roll on Roll Off,2019,2019,2019-01,MT,1,9,Malta
+Roll on Roll Off,2019,2019,2019-02,GB,185,1,United Kingdom
+Roll on Roll Off,2019,2019,2019-02,VU,73,2,Vanuatu
+Roll on Roll Off,2019,2019,2019-02,TG,47,3,Togo
+Roll on Roll Off,2019,2019,2019-02,PA,4,4,Panama
+Roll on Roll Off,2019,2019,2019-03,US,235,1,United States
+Roll on Roll Off,2019,2019,2019-03,VU,121,2,Vanuatu
+Roll on Roll Off,2019,2019,2019-03,PA,102,3,Panama
+Roll on Roll Off,2019,2019,2019-03,TG,64,4,Togo
+Roll on Roll Off,2019,2019,2019-03,SE,3,5,Sweden
+Roll on Roll Off,2019,2019,2019-03,JP,1,6,Japan
+Roll on Roll Off,2019,2019,2019-04,VU,89,1,Vanuatu
+Roll on Roll Off,2019,2019,2019-04,TG,64,2,Togo
+Roll on Roll Off,2019,2019,2019-04,GB,5,3,United Kingdom
+Roll on Roll Off,2019,2019,2019-04,PA,5,4,Panama
+Roll on Roll Off,2019,2019,2019-04,MT,2,5,Malta
+Roll on Roll Off,2019,2019,2019-04,NO,1,6,Norway
+Roll on Roll Off,2019,2019,2019-05,US,169,1,United States
+Roll on Roll Off,2019,2019,2019-05,TG,144,2,Togo
+Roll on Roll Off,2019,2019,2019-05,VU,104,3,Vanuatu
+Roll on Roll Off,2019,2019,2019-05,PA,8,4,Panama
+Roll on Roll Off,2019,2019,2019-05,SE,1,5,Sweden
+Roll on Roll Off,2019,2019,2019-05,JP,1,6,Japan
+Roll on Roll Off,2019,2019,2019-05,GB,1,7,United Kingdom
+Roll on Roll Off,2019,2019,2019-06,VU,112,1,Vanuatu
+Roll on Roll Off,2019,2019,2019-06,TG,99,2,Togo
+Roll on Roll Off,2019,2019,2019-06,PA,9,3,Panama
+Roll on Roll Off,2019,2019,2019-06,KY,1,4,Cayman Islands
+Roll on Roll Off,2019,2019,2019-07,US,238,1,United States
+Roll on Roll Off,2019,2019,2019-07,TG,227,2,Togo
+Roll on Roll Off,2019,2019,2019-07,IT,124,3,Italy
+Roll on Roll Off,2019,2019,2019-07,VU,99,4,Vanuatu
+Roll on Roll Off,2019,2019,2019-07,PA,28,5,Panama
+Roll on Roll Off,2019,2019,2019-07,SE,4,6,Sweden
+Roll on Roll Off,2019,2019,2019-07,GB,3,7,United Kingdom
+Roll on Roll Off,2019,2019,2019-07,NO,2,8,Norway
+Roll on Roll Off,2019,2019,2019-07,JP,1,9,Japan
+Roll on Roll Off,2019,2019,2019-08,PA,157,1,Panama
+Roll on Roll Off,2019,2019,2019-08,VU,90,2,Vanuatu
+Roll on Roll Off,2019,2019,2019-08,TG,77,3,Togo
+Roll on Roll Off,2019,2019,2019-08,GB,2,4,United Kingdom
+Roll on Roll Off,2019,2019,2019-08,CA,2,5,Canada
+Roll on Roll Off,2019,2019,2019-08,NO,1,6,Norway
+Roll on Roll Off,2019,2019,2019-08,LR,1,7,Liberia
+Roll on Roll Off,2019,2019,2019-09,GB,173,1,United Kingdom
+Roll on Roll Off,2019,2019,2019-09,TG,122,2,Togo
+Roll on Roll Off,2019,2019,2019-09,VU,62,3,Vanuatu
+Roll on Roll Off,2019,2019,2019-09,DE,12,4,Germany
+Roll on Roll Off,2019,2019,2019-09,PA,7,5,Panama
+Roll on Roll Off,2019,2019,2019-09,IT,2,6,Italy
+Roll on Roll Off,2019,2019,2019-09,BE,1,7,Belgium
+Roll on Roll Off,2019,2019,2019-09,SE,1,8,Sweden
+Roll on Roll Off,2019,2019,2019-09,JP,1,9,Japan
+Roll on Roll Off,2019,2019,2019-09,US,1,10,United States
+Roll on Roll Off,2019,2019,2019-10,TG,177,1,Togo
+Roll on Roll Off,2019,2019,2019-10,VU,104,2,Vanuatu
+Roll on Roll Off,2019,2019,2019-10,PA,49,3,Panama
+Roll on Roll Off,2019,2019,2019-10,PT,4,4,Portugal
+Roll on Roll Off,2019,2019,2019-11,TG,188,1,Togo
+Roll on Roll Off,2019,2019,2019-11,NO,146,2,Norway
+Roll on Roll Off,2019,2019,2019-11,PA,86,3,Panama
+Roll on Roll Off,2019,2019,2019-11,VU,44,4,Vanuatu
+Roll on Roll Off,2019,2019,2019-11,LR,2,5,Liberia
+Roll on Roll Off,2019,2019,2019-11,DE,1,6,Germany
+Roll on Roll Off,2019,2019,2019-12,VU,128,1,Vanuatu
+Roll on Roll Off,2019,2019,2019-12,TG,119,2,Togo
+Roll on Roll Off,2019,2019,2019-12,NO,50,3,Norway
+Roll on Roll Off,2019,2019,2019-12,PA,11,4,Panama
+Roll on Roll Off,2019,2019,2019-12,SG,2,5,Singapore
+Roll on Roll Off,2019,2019,2019-12,DE,1,6,Germany
+Roll on Roll Off,2019,2019,2019-12,HK,1,7,Hong Kong
+Roll on Roll Off,2020,2020,2020-01,VU,138,1,Vanuatu
+Roll on Roll Off,2020,2020,2020-01,TG,112,2,Togo
+Roll on Roll Off,2020,2020,2020-01,PA,28,3,Panama
+Roll on Roll Off,2020,2020,2020-01,JP,1,4,Japan
+Roll on Roll Off,2020,2020,2020-01,SE,1,5,Sweden
+Roll on Roll Off,2020,2020,2020-02,TG,206,1,Togo
+Roll on Roll Off,2020,2020,2020-02,VU,73,2,Vanuatu
+Roll on Roll Off,2020,2020,2020-02,PA,21,3,Panama
+Roll on Roll Off,2020,2020,2020-02,NO,1,4,Norway
+Roll on Roll Off,2020,2020,2020-03,TG,188,1,Togo
+Roll on Roll Off,2020,2020,2020-03,VU,138,2,Vanuatu
+Roll on Roll Off,2020,2020,2020-03,PA,16,3,Panama
+Roll on Roll Off,2020,2020,2020-03,JP,7,4,Japan
+Roll on Roll Off,2020,2020,2020-03,MT,3,5,Malta
+Roll on Roll Off,2020,2020,2020-03,GB,1,6,United Kingdom
+Roll on Roll Off,2020,2020,2020-03,NO,1,7,Norway
+Roll on Roll Off,2020,2020,2020-03,LR,1,8,Liberia
+Roll on Roll Off,2020,2020,2020-04,TG,140,1,Togo
+Roll on Roll Off,2020,2020,2020-04,PA,96,2,Panama
+Roll on Roll Off,2020,2020,2020-04,VU,47,3,Vanuatu
+Roll on Roll Off,2020,2020,2020-04,JP,2,4,Japan
+Roll on Roll Off,2020,2020,2020-04,LR,1,5,Liberia
+Roll on Roll Off,2020,2020,2020-04,SG,1,6,Singapore
+Roll on Roll Off,2020,2020,2020-05,TG,201,1,Togo
+Roll on Roll Off,2020,2020,2020-05,VU,16,2,Vanuatu
+Roll on Roll Off,2020,2020,2020-05,PA,11,3,Panama
+Roll on Roll Off,2020,2020,2020-06,TG,223,1,Togo
+Roll on Roll Off,2020,2020,2020-06,VU,87,2,Vanuatu
+Roll on Roll Off,2020,2020,2020-06,NO,80,3,Norway
+Roll on Roll Off,2020,2020,2020-06,PA,21,4,Panama
+Roll on Roll Off,2020,2020,2020-06,LR,4,5,Liberia
+Roll on Roll Off,2020,2020,2020-06,MT,2,6,Malta
+Roll on Roll Off,2020,2020,2020-07,TG,171,1,Togo
+Roll on Roll Off,2020,2020,2020-07,VU,58,2,Vanuatu
+Roll on Roll Off,2020,2020,2020-07,PA,11,3,Panama
+Roll on Roll Off,2020,2020,2020-07,GB,1,4,United Kingdom
+Roll on Roll Off,2020,2020,2020-08,TG,137,1,Togo
+Roll on Roll Off,2020,2020,2020-08,VU,114,2,Vanuatu
+Roll on Roll Off,2020,2020,2020-08,PA,5,3,Panama
+Roll on Roll Off,2020,2020,2020-08,LR,4,4,Liberia
+Roll on Roll Off,2020,2020,2020-08,NO,1,5,Norway
+Roll on Roll Off,2020,2020,2020-08,BS,1,6,Bahamas
+Roll on Roll Off,2020,2020,2020-08,JP,1,7,Japan
+Roll on Roll Off,2020,2020,2020-09,TG,156,1,Togo
+Roll on Roll Off,2020,2020,2020-09,VU,62,2,Vanuatu
+Roll on Roll Off,2020,2020,2020-09,SG,9,3,Singapore
+Roll on Roll Off,2020,2020,2020-09,PA,7,4,Panama
+Roll on Roll Off,2020,2020,2020-09,LR,4,5,Liberia
+Roll on Roll Off,2020,2020,2020-09,TH,2,6,Thailand
+Roll on Roll Off,2020,2020,2020-09,TW,2,7,Taiwan
+Roll on Roll Off,2020,2020,2020-09,MT,2,8,Malta
+Roll on Roll Off,2020,2020,2020-09,NO,1,9,Norway

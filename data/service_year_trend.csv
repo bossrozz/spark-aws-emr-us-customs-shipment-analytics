@@ -1,0 +1,31 @@
+type_of_service,actual_year,count,row_num
+House to House,2018,12183638,1
+Container Yard,2018,8289124,2
+Pier to Pier,2018,5184091,3
+Pier to House,2018,1129427,4
+Container Station,2018,620207,5
+House to Pier,2018,363368,6
+Break Bulk,2018,326929,7
+Non Containerized,2018,44446,8
+Roll on Roll Off,2018,4358,9
+Headload or Devanning,2018,1126,10
+House to House,2019,11350713,1
+Container Yard,2019,7471162,2
+Pier to Pier,2019,5500201,3
+Pier to House,2019,1196161,4
+Container Station,2019,629339,5
+House to Pier,2019,349388,6
+Break Bulk,2019,285391,7
+Non Containerized,2019,43254,8
+Roll on Roll Off,2019,4421,9
+Headload or Devanning,2019,864,10
+House to House,2020,8100005,1
+Container Yard,2020,5807017,2
+Pier to Pier,2020,4358815,3
+Container Station,2020,969273,4
+Pier to House,2020,771934,5
+House to Pier,2020,239056,6
+Break Bulk,2020,235274,7
+Non Containerized,2020,29207,8
+Roll on Roll Off,2020,2617,9
+Headload or Devanning,2020,871,10

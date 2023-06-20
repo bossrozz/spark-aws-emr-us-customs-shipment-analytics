@@ -1,0 +1,331 @@
+type_of_service,actual_year_month,actual_year,actual_month,count,row_num
+House to House,2018-01,2018,1,929014,1
+Container Yard,2018-01,2018,1,563851,2
+Pier to Pier,2018-01,2018,1,378553,3
+Pier to House,2018-01,2018,1,75274,4
+Container Station,2018-01,2018,1,42408,5
+Break Bulk,2018-01,2018,1,27703,6
+House to Pier,2018-01,2018,1,23635,7
+Non Containerized,2018-01,2018,1,2891,8
+Roll on Roll Off,2018-01,2018,1,211,9
+Headload or Devanning,2018-01,2018,1,116,10
+House to House,2018-02,2018,2,966187,1
+Container Yard,2018-02,2018,2,573297,2
+Pier to Pier,2018-02,2018,2,374945,3
+Pier to House,2018-02,2018,2,74521,4
+Container Station,2018-02,2018,2,42459,5
+House to Pier,2018-02,2018,2,27790,6
+Break Bulk,2018-02,2018,2,26778,7
+Non Containerized,2018-02,2018,2,2982,8
+Roll on Roll Off,2018-02,2018,2,476,9
+Headload or Devanning,2018-02,2018,2,76,10
+House to House,2018-03,2018,3,920105,1
+Container Yard,2018-03,2018,3,529244,2
+Pier to Pier,2018-03,2018,3,372587,3
+Pier to House,2018-03,2018,3,74843,4
+Container Station,2018-03,2018,3,40212,5
+House to Pier,2018-03,2018,3,29539,6
+Break Bulk,2018-03,2018,3,23672,7
+Non Containerized,2018-03,2018,3,3657,8
+Roll on Roll Off,2018-03,2018,3,512,9
+Mixed Delivery,2018-03,2018,3,64,10
+House to House,2018-04,2018,4,974801,1
+Container Yard,2018-04,2018,4,574039,2
+Pier to Pier,2018-04,2018,4,389433,3
+Pier to House,2018-04,2018,4,84417,4
+Container Station,2018-04,2018,4,42408,5
+House to Pier,2018-04,2018,4,33540,6
+Break Bulk,2018-04,2018,4,26183,7
+Non Containerized,2018-04,2018,4,3793,8
+Roll on Roll Off,2018-04,2018,4,268,9
+Mixed Delivery,2018-04,2018,4,158,10
+House to House,2018-05,2018,5,1135880,1
+Container Yard,2018-05,2018,5,725097,2
+Pier to Pier,2018-05,2018,5,474632,3
+Pier to House,2018-05,2018,5,111317,4
+Container Station,2018-05,2018,5,49759,5
+House to Pier,2018-05,2018,5,36134,6
+Break Bulk,2018-05,2018,5,28366,7
+Non Containerized,2018-05,2018,5,4446,8
+Roll on Roll Off,2018-05,2018,5,595,9
+Headload or Devanning,2018-05,2018,5,72,10
+House to House,2018-06,2018,6,1154052,1
+Container Yard,2018-06,2018,6,756617,2
+Pier to Pier,2018-06,2018,6,467279,3
+Pier to House,2018-06,2018,6,102919,4
+Container Station,2018-06,2018,6,52950,5
+House to Pier,2018-06,2018,6,34111,6
+Break Bulk,2018-06,2018,6,24836,7
+Non Containerized,2018-06,2018,6,3948,8
+Roll on Roll Off,2018-06,2018,6,504,9
+Mixed Delivery,2018-06,2018,6,72,10
+House to House,2018-07,2018,7,1068466,1
+Container Yard,2018-07,2018,7,774948,2
+Pier to Pier,2018-07,2018,7,443831,3
+Pier to House,2018-07,2018,7,104281,4
+Container Station,2018-07,2018,7,63698,5
+House to Pier,2018-07,2018,7,34311,6
+Break Bulk,2018-07,2018,7,29294,7
+Non Containerized,2018-07,2018,7,3921,8
+Roll on Roll Off,2018-07,2018,7,375,9
+Headload or Devanning,2018-07,2018,7,135,10
+House to House,2018-08,2018,8,1006916,1
+Container Yard,2018-08,2018,8,783652,2
+Pier to Pier,2018-08,2018,8,417080,3
+Pier to House,2018-08,2018,8,99946,4
+Container Station,2018-08,2018,8,67318,5
+House to Pier,2018-08,2018,8,35289,6
+Break Bulk,2018-08,2018,8,31404,7
+Non Containerized,2018-08,2018,8,3976,8
+Roll on Roll Off,2018-08,2018,8,402,9
+Headload or Devanning,2018-08,2018,8,127,10
+House to House,2018-09,2018,9,959328,1
+Container Yard,2018-09,2018,9,753392,2
+Pier to Pier,2018-09,2018,9,459343,3
+Pier to House,2018-09,2018,9,95993,4
+Container Station,2018-09,2018,9,52374,5
+House to Pier,2018-09,2018,9,28063,6
+Break Bulk,2018-09,2018,9,27594,7
+Non Containerized,2018-09,2018,9,2942,8
+Roll on Roll Off,2018-09,2018,9,166,9
+Headload or Devanning,2018-09,2018,9,78,10
+House to House,2018-10,2018,10,1086382,1
+Container Yard,2018-10,2018,10,827320,2
+Pier to Pier,2018-10,2018,10,478817,3
+Pier to House,2018-10,2018,10,103869,4
+Container Station,2018-10,2018,10,56650,5
+Break Bulk,2018-10,2018,10,28635,6
+House to Pier,2018-10,2018,10,27830,7
+Non Containerized,2018-10,2018,10,4648,8
+Roll on Roll Off,2018-10,2018,10,249,9
+Mixed Delivery,2018-10,2018,10,106,10
+House to House,2018-11,2018,11,974471,1
+Container Yard,2018-11,2018,11,713724,2
+Pier to Pier,2018-11,2018,11,402121,3
+Pier to House,2018-11,2018,11,93201,4
+Container Station,2018-11,2018,11,54009,5
+House to Pier,2018-11,2018,11,25134,6
+Break Bulk,2018-11,2018,11,23737,7
+Non Containerized,2018-11,2018,11,3733,8
+Roll on Roll Off,2018-11,2018,11,421,9
+Headload or Devanning,2018-11,2018,11,92,10
+House to House,2018-12,2018,12,1008036,1
+Container Yard,2018-12,2018,12,713943,2
+Pier to Pier,2018-12,2018,12,525470,3
+Pier to House,2018-12,2018,12,108846,4
+Container Station,2018-12,2018,12,55962,5
+Break Bulk,2018-12,2018,12,28727,6
+House to Pier,2018-12,2018,12,27992,7
+Non Containerized,2018-12,2018,12,3509,8
+Roll on Roll Off,2018-12,2018,12,179,9
+Headload or Devanning,2018-12,2018,12,145,10
+House to House,2019-01,2019,1,1012379,1
+Container Yard,2019-01,2019,1,651075,2
+Pier to Pier,2019-01,2019,1,507125,3
+Pier to House,2019-01,2019,1,115480,4
+Container Station,2019-01,2019,1,58948,5
+House to Pier,2019-01,2019,1,27709,6
+Break Bulk,2019-01,2019,1,23597,7
+Non Containerized,2019-01,2019,1,3193,8
+Roll on Roll Off,2019-01,2019,1,220,9
+Headload or Devanning,2019-01,2019,1,116,10
+House to House,2019-02,2019,2,872057,1
+Container Yard,2019-02,2019,2,560958,2
+Pier to Pier,2019-02,2019,2,419704,3
+Pier to House,2019-02,2019,2,100321,4
+Container Station,2019-02,2019,2,46902,5
+House to Pier,2019-02,2019,2,26815,6
+Break Bulk,2019-02,2019,2,19932,7
+Non Containerized,2019-02,2019,2,3252,8
+Roll on Roll Off,2019-02,2019,2,309,9
+Headload or Devanning,2019-02,2019,2,121,10
+House to House,2019-03,2019,3,852538,1
+Container Yard,2019-03,2019,3,534700,2
+Pier to Pier,2019-03,2019,3,411342,3
+Pier to House,2019-03,2019,3,96863,4
+Container Station,2019-03,2019,3,50151,5
+House to Pier,2019-03,2019,3,31128,6
+Break Bulk,2019-03,2019,3,21570,7
+Non Containerized,2019-03,2019,3,3157,8
+Roll on Roll Off,2019-03,2019,3,526,9
+Headload or Devanning,2019-03,2019,3,56,10
+House to House,2019-04,2019,4,959827,1
+Container Yard,2019-04,2019,4,585814,2
+Pier to Pier,2019-04,2019,4,458605,3
+Pier to House,2019-04,2019,4,104733,4
+Container Station,2019-04,2019,4,51018,5
+House to Pier,2019-04,2019,4,31723,6
+Break Bulk,2019-04,2019,4,21133,7
+Non Containerized,2019-04,2019,4,3677,8
+Roll on Roll Off,2019-04,2019,4,166,9
+Headload or Devanning,2019-04,2019,4,79,10
+House to House,2019-05,2019,5,1017424,1
+Container Yard,2019-05,2019,5,657168,2
+Pier to Pier,2019-05,2019,5,509393,3
+Pier to House,2019-05,2019,5,105562,4
+Container Station,2019-05,2019,5,59693,5
+House to Pier,2019-05,2019,5,30086,6
+Break Bulk,2019-05,2019,5,21943,7
+Non Containerized,2019-05,2019,5,4367,8
+Roll on Roll Off,2019-05,2019,5,428,9
+Headload or Devanning,2019-05,2019,5,61,10
+House to House,2019-06,2019,6,948261,1
+Container Yard,2019-06,2019,6,623151,2
+Pier to Pier,2019-06,2019,6,463877,3
+Pier to House,2019-06,2019,6,95547,4
+Container Station,2019-06,2019,6,53301,5
+House to Pier,2019-06,2019,6,30789,6
+Break Bulk,2019-06,2019,6,23985,7
+Non Containerized,2019-06,2019,6,3921,8
+Roll on Roll Off,2019-06,2019,6,221,9
+Headload or Devanning,2019-06,2019,6,65,10
+House to House,2019-07,2019,7,1058157,1
+Container Yard,2019-07,2019,7,676971,2
+Pier to Pier,2019-07,2019,7,508919,3
+Pier to House,2019-07,2019,7,106543,4
+Container Station,2019-07,2019,7,52856,5
+House to Pier,2019-07,2019,7,32769,6
+Break Bulk,2019-07,2019,7,27623,7
+Non Containerized,2019-07,2019,7,3849,8
+Roll on Roll Off,2019-07,2019,7,726,9
+Headload or Devanning,2019-07,2019,7,58,10
+House to House,2019-08,2019,8,1001481,1
+Container Yard,2019-08,2019,8,700219,2
+Pier to Pier,2019-08,2019,8,480960,3
+Pier to House,2019-08,2019,8,103043,4
+Container Station,2019-08,2019,8,55458,5
+House to Pier,2019-08,2019,8,30217,6
+Break Bulk,2019-08,2019,8,27372,7
+Non Containerized,2019-08,2019,8,4969,8
+Roll on Roll Off,2019-08,2019,8,330,9
+Headload or Devanning,2019-08,2019,8,79,10
+House to House,2019-09,2019,9,915396,1
+Container Yard,2019-09,2019,9,648115,2
+Pier to Pier,2019-09,2019,9,451633,3
+Pier to House,2019-09,2019,9,94126,4
+Container Station,2019-09,2019,9,52175,5
+Break Bulk,2019-09,2019,9,28601,6
+House to Pier,2019-09,2019,9,28364,7
+Non Containerized,2019-09,2019,9,2423,8
+Roll on Roll Off,2019-09,2019,9,382,9
+Headload or Devanning,2019-09,2019,9,73,10
+House to House,2019-10,2019,10,992845,1
+Container Yard,2019-10,2019,10,628506,2
+Pier to Pier,2019-10,2019,10,456564,3
+Pier to House,2019-10,2019,10,96912,4
+Container Station,2019-10,2019,10,50910,5
+House to Pier,2019-10,2019,10,27228,6
+Break Bulk,2019-10,2019,10,23419,7
+Non Containerized,2019-10,2019,10,3005,8
+Roll on Roll Off,2019-10,2019,10,334,9
+Headload or Devanning,2019-10,2019,10,36,10
+House to House,2019-11,2019,11,860146,1
+Container Yard,2019-11,2019,11,608772,2
+Pier to Pier,2019-11,2019,11,414648,3
+Pier to House,2019-11,2019,11,89323,4
+Container Station,2019-11,2019,11,47242,5
+House to Pier,2019-11,2019,11,25383,6
+Break Bulk,2019-11,2019,11,22114,7
+Non Containerized,2019-11,2019,11,3845,8
+Roll on Roll Off,2019-11,2019,11,467,9
+Headload or Devanning,2019-11,2019,11,74,10
+House to House,2019-12,2019,12,860202,1
+Container Yard,2019-12,2019,12,595713,2
+Pier to Pier,2019-12,2019,12,417431,3
+Pier to House,2019-12,2019,12,87708,4
+Container Station,2019-12,2019,12,50685,5
+House to Pier,2019-12,2019,12,27177,6
+Break Bulk,2019-12,2019,12,24102,7
+Non Containerized,2019-12,2019,12,3596,8
+Roll on Roll Off,2019-12,2019,12,312,9
+Headload or Devanning,2019-12,2019,12,46,10
+House to House,2020-01,2020,1,900626,1
+Container Yard,2020-01,2020,1,649673,2
+Pier to Pier,2020-01,2020,1,451055,3
+Pier to House,2020-01,2020,1,93839,4
+Container Station,2020-01,2020,1,45757,5
+Break Bulk,2020-01,2020,1,23460,6
+House to Pier,2020-01,2020,1,23453,7
+Non Containerized,2020-01,2020,1,3798,8
+Roll on Roll Off,2020-01,2020,1,280,9
+Mixed Delivery,2020-01,2020,1,44,10
+House to House,2020-02,2020,2,795857,1
+Container Yard,2020-02,2020,2,555993,2
+Pier to Pier,2020-02,2020,2,387571,3
+Pier to House,2020-02,2020,2,75952,4
+Container Station,2020-02,2020,2,39469,5
+House to Pier,2020-02,2020,2,24126,6
+Break Bulk,2020-02,2020,2,19783,7
+Non Containerized,2020-02,2020,2,3981,8
+Roll on Roll Off,2020-02,2020,2,301,9
+Mixed Delivery,2020-02,2020,2,55,10
+House to House,2020-03,2020,3,793929,1
+Container Yard,2020-03,2020,3,513708,2
+Pier to Pier,2020-03,2020,3,373109,3
+Pier to House,2020-03,2020,3,81209,4
+Container Station,2020-03,2020,3,42533,5
+House to Pier,2020-03,2020,3,32967,6
+Break Bulk,2020-03,2020,3,19673,7
+Non Containerized,2020-03,2020,3,3632,8
+Roll on Roll Off,2020-03,2020,3,355,9
+Mixed Delivery,2020-03,2020,3,73,10
+House to House,2020-04,2020,4,892414,1
+Container Yard,2020-04,2020,4,609001,2
+Pier to Pier,2020-04,2020,4,444114,3
+Container Station,2020-04,2020,4,281327,4
+Pier to House,2020-04,2020,4,89149,5
+House to Pier,2020-04,2020,4,27040,6
+Break Bulk,2020-04,2020,4,23179,7
+Non Containerized,2020-04,2020,4,3000,8
+Roll on Roll Off,2020-04,2020,4,287,9
+Headload or Devanning,2020-04,2020,4,99,10
+House to House,2020-05,2020,5,748980,1
+Container Yard,2020-05,2020,5,576675,2
+Pier to Pier,2020-05,2020,5,486133,3
+Container Station,2020-05,2020,5,165265,4
+Pier to House,2020-05,2020,5,72697,5
+Break Bulk,2020-05,2020,5,24283,6
+House to Pier,2020-05,2020,5,24101,7
+Non Containerized,2020-05,2020,5,2595,8
+Roll on Roll Off,2020-05,2020,5,228,9
+Headload or Devanning,2020-05,2020,5,211,10
+House to House,2020-06,2020,6,844520,1
+Container Yard,2020-06,2020,6,673983,2
+Pier to Pier,2020-06,2020,6,510353,3
+Pier to House,2020-06,2020,6,78457,4
+Container Station,2020-06,2020,6,69363,5
+Break Bulk,2020-06,2020,6,28709,6
+House to Pier,2020-06,2020,6,25652,7
+Non Containerized,2020-06,2020,6,2458,8
+Roll on Roll Off,2020-06,2020,6,417,9
+Headload or Devanning,2020-06,2020,6,74,10
+House to House,2020-07,2020,7,1012276,1
+Container Yard,2020-07,2020,7,760904,2
+Pier to Pier,2020-07,2020,7,553005,3
+Pier to House,2020-07,2020,7,96890,4
+Container Station,2020-07,2020,7,70212,5
+Break Bulk,2020-07,2020,7,29416,6
+House to Pier,2020-07,2020,7,28321,7
+Non Containerized,2020-07,2020,7,2974,8
+Roll on Roll Off,2020-07,2020,7,241,9
+Headload or Devanning,2020-07,2020,7,125,10
+House to House,2020-08,2020,8,1118521,1
+Container Yard,2020-08,2020,8,810493,2
+Pier to Pier,2020-08,2020,8,613454,3
+Container Station,2020-08,2020,8,147884,4
+Pier to House,2020-08,2020,8,100698,5
+Break Bulk,2020-08,2020,8,36761,6
+House to Pier,2020-08,2020,8,29682,7
+Non Containerized,2020-08,2020,8,4340,8
+Roll on Roll Off,2020-08,2020,8,263,9
+Headload or Devanning,2020-08,2020,8,192,10
+House to House,2020-09,2020,9,992882,1
+Container Yard,2020-09,2020,9,656587,2
+Pier to Pier,2020-09,2020,9,540021,3
+Container Station,2020-09,2020,9,107463,4
+Pier to House,2020-09,2020,9,83043,5
+Break Bulk,2020-09,2020,9,30010,6
+House to Pier,2020-09,2020,9,23714,7
+Non Containerized,2020-09,2020,9,2429,8
+Roll on Roll Off,2020-09,2020,9,245,9
+Headload or Devanning,2020-09,2020,9,86,10
